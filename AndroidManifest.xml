@@ -328,7 +328,7 @@
         <provider android:authorities="com.android.camera.distribution" android:exported="true" android:name="com.xiaomi.camera.distribution.DistributionProvider" android:permission="com.android.camera.permission.DISTRIBUTION">
             <meta-data android:name="com.android.camera.provider.distributor.WatermarkDistributor" android:value="xiaomi.distribution"/>
         </provider>
-        <service android:enabled="true" android:exported="true" android:icon="@drawable/ic_remote_camera_control_mm" android:label="@string/h1p" android:name="com.xiaomi.camera.videocast.VideoCastTileService" android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+        <service android:enabled="false" android:exported="false" android:icon="@drawable/ic_remote_camera_control_mm" android:label="@string/h1p" android:name="com.xiaomi.camera.videocast.VideoCastTileService" android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
             <meta-data android:name="com.android.device.restriction" android:value="star;mars;odin;thor"/>
         </service>
         <uses-native-library android:name="libSNPE.so" android:required="false"/>
