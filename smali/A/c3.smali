@@ -143,6 +143,11 @@
     invoke-virtual {v1, p2, v2}, Landroid/content/Intent;->putExtra(Ljava/lang/String;Z)Landroid/content/Intent;
 
     :goto_1
+    # FLAG_ACTIVITY_NEW_TASK
+    const p2, 0x10000000
+
+    invoke-virtual {v1, p2}, Landroid/content/Intent;->addFlags(I)Landroid/content/Intent;
+
     invoke-virtual {v0}, LG7/b;->a()Z
 
     move-result p2
