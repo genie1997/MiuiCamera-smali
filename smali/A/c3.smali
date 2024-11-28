@@ -85,7 +85,7 @@
 
     const/4 v4, 0x0
 
-    const-string v5, "com.android.camera.action.REVIEW"
+    const-string v5, "android.provider.action.REVIEW"
 
     if-eqz v1, :cond_0
 
@@ -129,7 +129,7 @@
     :cond_1
     new-array v1, v4, [Ljava/lang/Object;
 
-    const-string v6, "gotoGallery: com.android.camera.action.REVIEW"
+    const-string v6, "gotoGallery: android.provider.action.REVIEW"
 
     invoke-static {v3, v6, v1}, Lcom/android/camera/log/Log;->d(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)V
 
