@@ -41,149 +41,16 @@
 
     iput-object v2, p0, Lb0/x;->b:LZ5/e;
 
-    iget-object v3, v2, LZ5/e;->V1:Ljava/lang/Boolean;
+    sget-object v3, Ljava/lang/Boolean;->TRUE:Ljava/lang/Boolean;
 
-    const/4 v4, 0x0
+    iput-object v3, v2, LZ5/e;->V1:Ljava/lang/Boolean;
 
-    const v5, 0xdead
+    iput-object v3, v2, LZ5/e;->W1:Ljava/lang/Boolean;
 
     const/4 v6, 0x1
 
     const/4 v7, 0x0
 
-    if-nez v3, :cond_2
-
-    sget-object v3, Ln6/f;->F0:Ln6/I;
-
-    invoke-virtual {v3}, Ln6/I;->b()Ljava/lang/String;
-
-    move-result-object v8
-
-    invoke-virtual {v2, v8}, LZ5/e;->B0(Ljava/lang/String;)Z
-
-    move-result v8
-
-    if-eqz v8, :cond_0
-
-    iget-object v8, v2, LZ5/e;->d:Landroid/hardware/camera2/CameraCharacteristics;
-
-    invoke-static {v8, v3, v5}, Ln6/J;->g(Landroid/hardware/camera2/CameraCharacteristics;Ln6/I;I)Ljava/lang/Object;
-
-    move-result-object v3
-
-    check-cast v3, Ljava/lang/Integer;
-
-    goto :goto_0
-
-    :cond_0
-    move-object v3, v4
-
-    :goto_0
-    if-eqz v3, :cond_1
-
-    invoke-virtual {v3}, Ljava/lang/Integer;->intValue()I
-
-    move-result v3
-
-    and-int/2addr v3, v6
-
-    if-ne v3, v6, :cond_1
-
-    move v3, v6
-
-    goto :goto_1
-
-    :cond_1
-    move v3, v7
-
-    :goto_1
-    invoke-static {v3}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
-
-    move-result-object v3
-
-    iput-object v3, v2, LZ5/e;->V1:Ljava/lang/Boolean;
-
-    :cond_2
-    iget-object v3, v2, LZ5/e;->V1:Ljava/lang/Boolean;
-
-    invoke-virtual {v3}, Ljava/lang/Boolean;->booleanValue()Z
-
-    move-result v3
-
-    if-eqz v3, :cond_3
-
-    goto :goto_3
-
-    :cond_3
-    iget-object v3, v2, LZ5/e;->W1:Ljava/lang/Boolean;
-
-    if-nez v3, :cond_6
-
-    sget-object v3, Ln6/f;->F0:Ln6/I;
-
-    invoke-virtual {v3}, Ln6/I;->b()Ljava/lang/String;
-
-    move-result-object v8
-
-    invoke-virtual {v2, v8}, LZ5/e;->B0(Ljava/lang/String;)Z
-
-    move-result v8
-
-    if-eqz v8, :cond_4
-
-    iget-object v4, v2, LZ5/e;->d:Landroid/hardware/camera2/CameraCharacteristics;
-
-    invoke-static {v4, v3, v5}, Ln6/J;->g(Landroid/hardware/camera2/CameraCharacteristics;Ln6/I;I)Ljava/lang/Object;
-
-    move-result-object v3
-
-    move-object v4, v3
-
-    check-cast v4, Ljava/lang/Integer;
-
-    :cond_4
-    if-eqz v4, :cond_5
-
-    invoke-virtual {v4}, Ljava/lang/Integer;->intValue()I
-
-    move-result v3
-
-    shr-int/lit8 v3, v3, 0x2
-
-    and-int/2addr v3, v6
-
-    if-ne v3, v6, :cond_5
-
-    move v3, v6
-
-    goto :goto_2
-
-    :cond_5
-    move v3, v7
-
-    :goto_2
-    invoke-static {v3}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
-
-    move-result-object v3
-
-    iput-object v3, v2, LZ5/e;->W1:Ljava/lang/Boolean;
-
-    :cond_6
-    iget-object v2, v2, LZ5/e;->W1:Ljava/lang/Boolean;
-
-    invoke-virtual {v2}, Ljava/lang/Boolean;->booleanValue()Z
-
-    move-result v2
-
-    if-eqz v2, :cond_7
-
-    goto :goto_4
-
-    :cond_7
-    :goto_3
-    move v6, v7
-
-    :goto_4
     iput-boolean v6, p0, Lb0/x;->c:Z
 
     iput v0, p0, Lcom/android/camera/data/data/c;->mCurrentMode:I
