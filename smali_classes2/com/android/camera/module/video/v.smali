@@ -2967,9 +2967,7 @@
 
     if-nez v3, :cond_22
 
-    const/16 v3, 0xac
-
-    if-ne v3, v1, :cond_21
+    goto :cond_21
 
     sget-object v3, LG7/b$b;->a:LG7/b;
 

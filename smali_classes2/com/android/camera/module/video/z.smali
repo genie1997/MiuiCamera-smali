@@ -2239,7 +2239,7 @@
 
     if-nez p0, :cond_1
 
-    if-eqz v0, :cond_0
+    goto :cond_0
 
     goto :goto_0
 
