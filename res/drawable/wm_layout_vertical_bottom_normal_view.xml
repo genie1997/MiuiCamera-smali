@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="20.0dp" android:width="20.0dp" android:viewportWidth="20.0" android:viewportHeight="20.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/preference_watermark_edit_layout_type_normal_fillColor" android:pathData="M2,18l16,-0l0,-2l-16,-0z" android:fillAlpha="0.5" />
+    <path android:fillColor="@color/preference_watermark_edit_layout_type_normal_fillColor" android:pathData="M10.651,13.759L10,14.317L9.349,13.759L5.849,10.759L7.151,9.241L9,10.826V1H11V10.826L12.849,9.241L14.151,10.759L10.651,13.759Z" android:fillAlpha="0.5" android:fillType="evenOdd" />
+</vector>

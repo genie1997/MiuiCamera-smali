@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaomi.camera.mode.doc.ui.widgets.DocTransitionView android:id="@id/doc_transition_view" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@null" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

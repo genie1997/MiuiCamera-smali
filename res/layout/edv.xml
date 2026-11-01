@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.github.chrisbanes.photoview.PhotoView android:id="@id/review_image_view" android:background="@android:color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/eyr" />
+    <View android:id="@id/image_masking" android:background="@android:color/white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no" />
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/review_bottom" android:layout_width="match_parent" android:layout_height="@dimen/bft">
+        <ImageView android:layout_gravity="start|center" android:id="@id/review_done_retry" android:background="@drawable/bg_thumbnail_background_full" android:layout_width="@dimen/bf_" android:layout_height="@dimen/bf_" android:src="@drawable/ic_vector_close_mimoji" android:scaleType="center" android:contentDescription="@string/g31" android:layout_marginStart="@dimen/bf9" />
+        <ImageView android:layout_gravity="end|center" android:id="@id/review_done_button" android:background="@drawable/bg_thumbnail_background_full" android:layout_width="@dimen/bf_" android:layout_height="@dimen/bf_" android:src="@drawable/ic_live_record_save" android:scaleType="center" android:contentDescription="@string/exi" android:layout_marginEnd="@dimen/bf9" />
+    </FrameLayout>
+</FrameLayout>

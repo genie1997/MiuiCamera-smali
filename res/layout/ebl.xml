@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/tip_scene_items_layout" android:background="@drawable/smart_scene_border" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/b_9" android:paddingStart="@dimen/b9q" android:paddingEnd="@dimen/b9p"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/tip_image" android:layout_width="@dimen/b_1" android:layout_height="@dimen/b_1" android:scaleType="center" android:contentDescription="@string/ez5" />
+    <com.android.camera.ui.StrokeAdaptiveTextView android:textSize="@dimen/b_8" android:textColor="@color/white" android:id="@id/smart_scene_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/b_7" />
+</LinearLayout>

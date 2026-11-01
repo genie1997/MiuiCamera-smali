@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="zero">Nofokusēts. %d sejas atrastas</item>
+        <item quantity="one">Nofokusēts. %d seja atrasta</item>
+        <item quantity="other">Nofokusēts. %d sejas atrastas</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="zero">%d foto sērījveida foto uzņemšanā</item>
+        <item quantity="one">%d foto sērījveida foto uzņemšanā</item>
+        <item quantity="other">%d foto sērījveida foto uzņemšanā</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="zero">Intervāls: %d sekundes</item>
+        <item quantity="one">Intervāls: %d sekunde</item>
+        <item quantity="other">Intervāls: %d sekundes</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="zero">Ilgums: %d minūtes</item>
+        <item quantity="one">Ilgums: %d minūte</item>
+        <item quantity="other">Ilgums: %d minūtes</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="zero">Ātrums: %dX</item>
+        <item quantity="one">Ātrums: %dX</item>
+        <item quantity="other">Ātrums: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="zero">Ilgums: %d sekundes</item>
+        <item quantity="one">Ilgums: %d sekunde</item>
+        <item quantity="other">Ilgums: %d sekundes</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="zero">Ievadītas %d rakstzīmes.</item>
+        <item quantity="one">Ievadīta %d rakstzīme.</item>
+        <item quantity="other">Ievadītas %d rakstzīmes.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="zero">Ievadiet līdz %d rakstzīmēm.</item>
+        <item quantity="one">Ievadiet līdz %d rakstzīmei.</item>
+        <item quantity="other">Ievadiet līdz %d rakstzīmēm.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="zero">Tam pašam tīklam varat pievienot līdz %d kamerām</item>
+        <item quantity="one">Tam pašam tīklam varat pievienot līdz %d kamerai</item>
+        <item quantity="other">Tam pašam tīklam varat pievienot līdz %d kamerām</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="zero">Tam pašam tīklam varat pievienot līdz %d monitoriem</item>
+        <item quantity="one">Tam pašam tīklam varat pievienot līdz %d monitoram</item>
+        <item quantity="other">Tam pašam tīklam varat pievienot līdz %d monitoriem</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="zero">Jūs varat izveidot līdz pat %d kloniem vienā reizē.</item>
+        <item quantity="one">Jūs varat izveidot līdz pat %d klonam vienā reizē.</item>
+        <item quantity="other">Jūs varat izveidot līdz pat %d kloniem vienā reizē.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="zero"><Data>Nevar izveidot savienojumu ar kameru.&lt;br>Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>.Pēc tam, uzgaidiet dažas minūtes un mēģiniet vēlreiz.</Data></item>
+        <item quantity="one"><Data>Nevar izveidot savienojumu ar kameru.&lt;br>Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>.Pēc tam, uzgaidiet dažas minūtes un mēģiniet vēlreiz.</Data></item>
+        <item quantity="other"><Data>Nevar izveidot savienojumu ar kameru.&lt;br>Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>.Pēc tam, uzgaidiet dažas minūtes un mēģiniet vēlreiz.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="zero"><Data>Šī ierīce tagad ir pārāk karsta.&lt;br> Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$dsek&lt;/b>&lt;/font>. Pašreizējais progress tika saglabāts automātiski.</Data></item>
+        <item quantity="one"><Data>Šī ierīce tagad ir pārāk karsta.&lt;br> Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$dsek&lt;/b>&lt;/font>. Pašreizējais progress tika saglabāts automātiski.</Data></item>
+        <item quantity="other"><Data>Šī ierīce tagad ir pārāk karsta.&lt;br> Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$dsek&lt;/b>&lt;/font>. Pašreizējais progress tika saglabāts automātiski.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="zero"><Data>Jūsu izmantotā Kameras versija nav saderīga ar jūsu ierīces modeli.&lt;br>Lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Atinstalējiet Kameras atjauninājumus un mēģiniet vēlreiz.</Data></item>
+        <item quantity="one"><Data>Jūsu izmantotā Kameras versija nav saderīga ar jūsu ierīces modeli.&lt;br>Lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Atinstalējiet Kameras atjauninājumus un mēģiniet vēlreiz.</Data></item>
+        <item quantity="other"><Data>Jūsu izmantotā Kameras versija nav saderīga ar jūsu ierīces modeli.&lt;br>Lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Atinstalējiet Kameras atjauninājumus un mēģiniet vēlreiz.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="zero">Pārtīt uz priekšu par %d sekundēm</item>
+        <item quantity="one">Pārtīt uz priekšu par %d sekundi</item>
+        <item quantity="other">Pārtīt uz priekšu par %d sekundēm</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="zero">Attīt atpakaļ par %d sekundēm</item>
+        <item quantity="one">Attīt atpakaļ par %d sekundi</item>
+        <item quantity="other">Attīt atpakaļ par %d sekundēm</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="zero">%1$d minūtes</item>
+        <item quantity="one">%1$d minūte</item>
+        <item quantity="other">%1$d minūtes</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="zero">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+        <item quantity="other">%1$d sek</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="zero">Taimeris ir ieslēgts (%1$d sekundes). Foto tiks pārsūtīti uz šo ierīci.</item>
+        <item quantity="one">Taimeris ir ieslēgts (%1$d sekunde). Foto tiks pārsūtīti uz šo ierīci.</item>
+        <item quantity="other">Taimeris ir ieslēgts (%1$d sekundes). Foto tiks pārsūtīti uz šo ierīci.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="zero">Dzēst %1$d melnrakstus?</item>
+        <item quantity="one">Dzēst %1$d melnrakstu?</item>
+        <item quantity="other">Dzēst %1$d melnrakstus?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="zero">Pievienot līdz %d sākotnējiem iestatījumiem</item>
+        <item quantity="one">Pievienot līdz %d sākotnējam iestatījumam</item>
+        <item quantity="other">Pievienot līdz %d sākotnējiem iestatījumiem</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="zero">Vai dzēst %d iestatījumus?</item>
+        <item quantity="one">Vai dzēst %d iestatījumu?</item>
+        <item quantity="other">Vai dzēst %d iestatījumus?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="zero">Dzēsti %d iestatījumi</item>
+        <item quantity="one">Dzēsts %d iestatījums</item>
+        <item quantity="other">Dzēsti %d iestatījumi</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="zero">Importēti %d iestatījumi</item>
+        <item quantity="one">Importēti %d iestatījums</item>
+        <item quantity="other">Importēti %d iestatījumi</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+        <item quantity="other">%d jauni paziņojumi</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="zero">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="zero">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+        <item quantity="other">%1$s min.</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="zero">Ierakstīt %d sekundes</item>
+        <item quantity="one">Ierakstīt %d sekundi</item>
+        <item quantity="other">Ierakstīt %d sekundes</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="zero">Jūs varat uzņemt laika iesaldēšanas video ar %d objektiem.</item>
+        <item quantity="one">Jūs varat uzņemt laika iesaldēšanas video ar %d objektu.</item>
+        <item quantity="other">Jūs varat uzņemt laika iesaldēšanas video ar %d objektiem.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="zero">%1$s foto</item>
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s foto</item>
+    </plurals>
+</resources>

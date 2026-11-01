@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="@dimen/cp_" android:paddingBottom="@dimen/cp9" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="@dimen/cp4" android:paddingEnd="@dimen/cp4"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/message_container" android:paddingTop="@dimen/cp6" android:paddingBottom="@dimen/cp6" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <TextView android:textSize="@dimen/cp7" android:gravity="center_vertical" android:id="@id/message" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_weight="1.0" android:textAlignment="viewStart" style="?xs" />
+        <TextView android:textSize="@dimen/cp7" android:gravity="end" android:id="@id/progress_percent" android:layout_width="@dimen/cp5" android:layout_height="wrap_content" android:maxLines="1" android:layout_marginStart="@dimen/cp3" style="?xs" />
+    </LinearLayout>
+    <miuix.androidbasewidget.widget.ProgressBar android:id="@android:id/progress" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@id/message_container" style="?anv" />
+</RelativeLayout>

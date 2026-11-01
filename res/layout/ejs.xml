@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextureView android:id="@id/ttv_steam_view" android:layout_width="match_parent" android:layout_height="match_parent" />
+    <com.android.camera.ui.VerticalLabelView android:textSize="@dimen/d0c" android:textColor="@color/miuix_appcompat_white" android:id="@id/tv_camera_sign" android:padding="@dimen/d0d" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+    <TextView android:textColor="@color/miuix_appcompat_white" android:id="@id/tv_debug" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+</RelativeLayout>

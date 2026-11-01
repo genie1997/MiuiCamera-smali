@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/el6" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/container_wrapper" android:layout_width="@dimen/bd4" android:layout_height="@dimen/bcj" android:layout_marginTop="@dimen/bci">
+        <FrameLayout android:id="@id/beauty_pattern" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.android.camera2.compat.theme.custom.mm.beauty.BeautyProcessRing android:layout_gravity="center" android:id="@id/makeup_process" android:layout_width="@dimen/bd3" android:layout_height="@dimen/bd3" />
+            <com.android.camera.ui.ColorImageView android:layout_gravity="center" android:id="@id/makeup_item_icon" android:layout_width="@dimen/bdh" android:layout_height="@dimen/bdh" android:scaleType="center" />
+        </FrameLayout>
+        <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/di4" android:textColor="@color/beautycamera_beauty_advanced_item_text_normal_cv" android:ellipsize="marquee" android:gravity="center_horizontal" android:id="@id/makeup_item_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dih" android:singleLine="true" android:includeFontPadding="false" android:marqueeRepeatLimit="marquee_forever" android:fallbackLineSpacing="false" />
+    </LinearLayout>
+</LinearLayout>

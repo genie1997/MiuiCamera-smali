@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/elu" />
+    <include android:id="@id/ell" android:layout_width="@dimen/cj0" android:layout_height="@dimen/cix" android:layout_marginStart="@dimen/ciy" layout="@layout/ell" />
+</LinearLayout>

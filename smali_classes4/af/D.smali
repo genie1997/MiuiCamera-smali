@@ -1,0 +1,493 @@
+.class public final Laf/D;
+.super Laf/t;
+.source "SourceFile"
+
+
+# instance fields
+.field public d:I
+
+.field public e:Lcom/xiaomi/milab/filtersdk/CandySDK;
+
+.field public f:Ljava/nio/FloatBuffer;
+
+.field public g:Ljava/nio/FloatBuffer;
+
+.field public h:LTe/h;
+
+.field public final i:Laf/J;
+
+.field public final j:Laf/M;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 2
+
+    invoke-direct {p0}, Laf/t;-><init>()V
+
+    const/4 v0, 0x0
+
+    iput v0, p0, Laf/D;->d:I
+
+    new-instance v0, Laf/J;
+
+    invoke-direct {v0}, Laf/t;-><init>()V
+
+    const/4 v1, 0x0
+
+    iput v1, v0, Laf/J;->d:I
+
+    iput-object v0, p0, Laf/D;->i:Laf/J;
+
+    new-instance v0, Laf/M;
+
+    invoke-direct {v0}, Laf/t;-><init>()V
+
+    const/4 v1, 0x0
+
+    iput v1, v0, Laf/M;->d:I
+
+    iput-object v0, p0, Laf/D;->j:Laf/M;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a()LRe/d;
+    .locals 0
+
+    sget-object p0, LRe/d;->k:LRe/d;
+
+    return-object p0
+.end method
+
+.method public final b(LPe/g;)V
+    .locals 2
+    .annotation build Landroidx/annotation/WorkerThread;
+    .end annotation
+
+    iget-boolean v0, p0, Laf/t;->b:Z
+
+    if-eqz v0, :cond_0
+
+    const-string p0, "TiltShiftParallelRenderer"
+
+    const-string p1, "skip onAttach, this renderer already be attached"
+
+    invoke-static {p0, p1}, Lcom/xiaomi/renderengine/log/LogRE;->w(Ljava/lang/String;Ljava/lang/String;)V
+
+    return-void
+
+    :cond_0
+    invoke-super {p0, p1}, Laf/t;->b(LPe/g;)V
+
+    const/16 v0, 0xa
+
+    invoke-static {v0}, Lcom/xiaomi/gl/ShaderManager;->a(I)I
+
+    move-result v0
+
+    iput v0, p0, Laf/D;->d:I
+
+    if-eqz v0, :cond_3
+
+    invoke-static {v0}, Landroid/opengl/GLES20;->glUseProgram(I)V
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "uMVPMatrix"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "uSTMatrix"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "sTexture"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "aPosition"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetAttribLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "aTexCoord"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetAttribLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "uAlpha"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "uMaskAlpha"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "uStep"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "uInvertRect"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    iget v0, p0, Laf/D;->d:I
+
+    const-string v1, "uEffectArray"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    iget-object v0, p0, Laf/D;->f:Ljava/nio/FloatBuffer;
+
+    if-nez v0, :cond_1
+
+    sget-object v0, LUe/i;->b:[F
+
+    invoke-static {v0}, LUe/i;->b([F)Ljava/nio/FloatBuffer;
+
+    move-result-object v0
+
+    iput-object v0, p0, Laf/D;->f:Ljava/nio/FloatBuffer;
+
+    :cond_1
+    iget-object v0, p0, Laf/D;->g:Ljava/nio/FloatBuffer;
+
+    if-nez v0, :cond_2
+
+    sget-object v0, LUe/i;->d:[F
+
+    invoke-static {v0}, LUe/i;->b([F)Ljava/nio/FloatBuffer;
+
+    move-result-object v0
+
+    iput-object v0, p0, Laf/D;->g:Ljava/nio/FloatBuffer;
+
+    :cond_2
+    iget-object v0, p0, Laf/D;->i:Laf/J;
+
+    invoke-virtual {v0, p1}, Laf/J;->b(LPe/g;)V
+
+    iget-object p0, p0, Laf/D;->j:Laf/M;
+
+    invoke-virtual {p0, p1}, Laf/M;->b(LPe/g;)V
+
+    return-void
+
+    :cond_3
+    new-instance p0, Ljava/lang/IllegalArgumentException;
+
+    const-class p1, Laf/D;
+
+    const-string v0, ": mProgram = 0"
+
+    invoke-static {p1, v0}, LB3/d;->f(Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p1
+
+    invoke-direct {p0, p1}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p0
+.end method
+
+.method public final c(LA5/a;)V
+    .locals 1
+    .annotation build Landroidx/annotation/WorkerThread;
+    .end annotation
+
+    check-cast p1, LTe/h;
+
+    iput-object p1, p0, Laf/D;->h:LTe/h;
+
+    iget-object v0, p0, Laf/D;->i:Laf/J;
+
+    invoke-virtual {v0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    iput-object p1, v0, Laf/J;->p:LTe/h;
+
+    iget-object p0, p0, Laf/D;->j:Laf/M;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    iput-object p1, p0, Laf/M;->p:LTe/h;
+
+    return-void
+.end method
+
+.method public final d()V
+    .locals 3
+    .annotation build Landroidx/annotation/WorkerThread;
+    .end annotation
+
+    iget-boolean v0, p0, Laf/t;->b:Z
+
+    const-string v1, "TiltShiftParallelRenderer"
+
+    if-nez v0, :cond_0
+
+    const-string p0, "skip onDetach, this renderer already be detached"
+
+    invoke-static {v1, p0}, Lcom/xiaomi/renderengine/log/LogRE;->w(Ljava/lang/String;Ljava/lang/String;)V
+
+    return-void
+
+    :cond_0
+    const/4 v0, 0x0
+
+    iput-boolean v0, p0, Laf/t;->b:Z
+
+    iget v2, p0, Laf/D;->d:I
+
+    invoke-static {v2, v1}, Lcom/xiaomi/gl/MIGL;->glDeleteProgram(ILjava/lang/String;)V
+
+    iput v0, p0, Laf/D;->d:I
+
+    iget-object v0, p0, Laf/D;->i:Laf/J;
+
+    invoke-virtual {v0}, Laf/J;->d()V
+
+    iget-object v0, p0, Laf/D;->j:Laf/M;
+
+    invoke-virtual {v0}, Laf/M;->d()V
+
+    iget-object v0, p0, Laf/D;->e:Lcom/xiaomi/milab/filtersdk/CandySDK;
+
+    if-eqz v0, :cond_1
+
+    invoke-virtual {v0}, Lcom/xiaomi/milab/filtersdk/CandySDK;->e()V
+
+    const/4 v0, 0x0
+
+    iput-object v0, p0, Laf/D;->e:Lcom/xiaomi/milab/filtersdk/CandySDK;
+
+    :cond_1
+    return-void
+.end method
+
+.method public final e(LPe/h;)I
+    .locals 12
+    .annotation build Landroidx/annotation/WorkerThread;
+    .end annotation
+
+    const/4 v0, 0x0
+
+    iget-object v1, p0, Laf/D;->h:LTe/h;
+
+    if-nez v1, :cond_0
+
+    const-string p0, "TiltShiftParallelRenderer"
+
+    const-string v0, "skip render because attribute not ready yet!"
+
+    invoke-static {p0, v0}, Lcom/xiaomi/renderengine/log/LogRE;->w(Ljava/lang/String;Ljava/lang/String;)V
+
+    iget-object p0, p1, LPe/h;->c:LQe/b;
+
+    invoke-virtual {p0}, LQe/b;->c()I
+
+    move-result p0
+
+    return p0
+
+    :cond_0
+    iget-object v1, p0, Laf/D;->e:Lcom/xiaomi/milab/filtersdk/CandySDK;
+
+    if-nez v1, :cond_1
+
+    new-instance v1, Lcom/xiaomi/milab/filtersdk/CandySDK;
+
+    const/4 v2, 0x6
+
+    invoke-direct {v1, v2}, Lcom/xiaomi/milab/filtersdk/CandySDK;-><init>(I)V
+
+    iput-object v1, p0, Laf/D;->e:Lcom/xiaomi/milab/filtersdk/CandySDK;
+
+    const-string v2, "TiltParallel;"
+
+    invoke-virtual {v1, v2}, Lcom/xiaomi/milab/filtersdk/CandySDK;->a(Ljava/lang/String;)V
+
+    :cond_1
+    iget-object v1, p1, LPe/h;->f:Landroid/graphics/Rect;
+
+    invoke-virtual {v1}, Landroid/graphics/Rect;->width()I
+
+    move-result v1
+
+    int-to-float v1, v1
+
+    iget-object v2, p1, LPe/h;->f:Landroid/graphics/Rect;
+
+    invoke-virtual {v2}, Landroid/graphics/Rect;->height()I
+
+    move-result v3
+
+    int-to-float v3, v3
+
+    const/4 v4, 0x4
+
+    new-array v11, v4, [F
+
+    const/4 v4, 0x0
+
+    aput v0, v11, v4
+
+    const/4 v4, 0x1
+
+    aput v0, v11, v4
+
+    const/4 v0, 0x2
+
+    aput v1, v11, v0
+
+    const/4 v0, 0x3
+
+    aput v3, v11, v0
+
+    iget-object v0, p0, Laf/D;->e:Lcom/xiaomi/milab/filtersdk/CandySDK;
+
+    iget-object v1, p0, Laf/D;->h:LTe/h;
+
+    new-instance v3, Ljava/lang/StringBuilder;
+
+    const-string v4, "TiltParallel;centerClear="
+
+    invoke-direct {v3, v4}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+
+    iget v4, v1, LTe/h;->f:I
+
+    int-to-double v4, v4
+
+    const-wide/high16 v6, 0x3fe0000000000000L    # 0.5
+
+    cmpg-double v4, v4, v6
+
+    if-gez v4, :cond_2
+
+    const-wide/high16 v4, 0x3ff0000000000000L    # 1.0
+
+    goto :goto_0
+
+    :cond_2
+    const-wide/16 v4, 0x0
+
+    :goto_0
+    invoke-virtual {v3, v4, v5}, Ljava/lang/StringBuilder;->append(D)Ljava/lang/StringBuilder;
+
+    const-string v4, ";start_x="
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    iget-object v4, v1, LTe/h;->d:Landroid/graphics/PointF;
+
+    iget v5, v4, Landroid/graphics/PointF;->x:F
+
+    invoke-virtual {v3, v5}, Ljava/lang/StringBuilder;->append(F)Ljava/lang/StringBuilder;
+
+    const-string v5, ";start_y="
+
+    invoke-virtual {v3, v5}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    iget v4, v4, Landroid/graphics/PointF;->y:F
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(F)Ljava/lang/StringBuilder;
+
+    const-string v4, ";end_x="
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    iget-object v4, v1, LTe/h;->e:Landroid/graphics/PointF;
+
+    iget v5, v4, Landroid/graphics/PointF;->x:F
+
+    invoke-virtual {v3, v5}, Ljava/lang/StringBuilder;->append(F)Ljava/lang/StringBuilder;
+
+    const-string v5, ";end_y="
+
+    invoke-virtual {v3, v5}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    iget v4, v4, Landroid/graphics/PointF;->y:F
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(F)Ljava/lang/StringBuilder;
+
+    const-string v4, ";effect_width="
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    iget v4, v1, LTe/h;->g:F
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(F)Ljava/lang/StringBuilder;
+
+    const-string v4, ";maskAlpha="
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    iget v1, v1, LTe/h;->h:F
+
+    invoke-virtual {v3, v1}, Ljava/lang/StringBuilder;->append(F)Ljava/lang/StringBuilder;
+
+    const-string v1, ";"
+
+    invoke-virtual {v3, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v3}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Lcom/xiaomi/milab/filtersdk/CandySDK;->i(Ljava/lang/String;)V
+
+    iget-object v5, p0, Laf/D;->e:Lcom/xiaomi/milab/filtersdk/CandySDK;
+
+    iget-object p0, p1, LPe/h;->c:LQe/b;
+
+    invoke-virtual {p0}, LQe/b;->c()I
+
+    move-result v7
+
+    iget-object p0, p1, LPe/h;->d:LQe/b;
+
+    invoke-virtual {p0}, LQe/b;->a()I
+
+    move-result v8
+
+    iget-object p0, p1, LPe/h;->j:LUe/h;
+
+    iget-object v6, p0, LUe/h;->e:[F
+
+    invoke-virtual {v2}, Landroid/graphics/Rect;->width()I
+
+    move-result v9
+
+    invoke-virtual {v2}, Landroid/graphics/Rect;->height()I
+
+    move-result v10
+
+    invoke-virtual/range {v5 .. v11}, Lcom/xiaomi/milab/filtersdk/CandySDK;->d([FIIII[F)V
+
+    const-string p0, "CandySDK"
+
+    invoke-static {p0}, Lcom/xiaomi/gl/MIGL;->checkGlError(Ljava/lang/String;)I
+
+    iget-object p0, p1, LPe/h;->d:LQe/b;
+
+    invoke-virtual {p0}, LQe/b;->c()I
+
+    move-result p0
+
+    return p0
+.end method

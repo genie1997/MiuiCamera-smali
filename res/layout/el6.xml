@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/makeup_item_bg" android:focusable="false" android:layout_width="@dimen/bdi" android:layout_height="@dimen/bdi"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/container_wrapper" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.android.camera.ui.ColorImageView android:id="@id/makeup_item_icon" android:layout_width="@dimen/bdg" android:layout_height="@dimen/bdg" android:scaleType="center" />
+        <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/bw1" android:textColor="@color/beautycamera_beauty_advanced_item_text_normal" android:ellipsize="marquee" android:gravity="center_horizontal" android:id="@id/makeup_item_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bdo" android:singleLine="true" android:includeFontPadding="false" android:shadowColor="@color/alpha70_black" android:shadowRadius="@dimen/die" android:marqueeRepeatLimit="marquee_forever" />
+    </LinearLayout>
+</LinearLayout>

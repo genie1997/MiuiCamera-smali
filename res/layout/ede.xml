@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/user_guide_item" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:id="@id/clone_guide_texture_view_container" android:layout_width="@dimen/bk1" android:layout_height="@dimen/bjx" android:layout_marginTop="@dimen/bjz" android:layout_centerHorizontal="true" android:alpha="0.0" app:nt="@color/fullscreen_background" app:nw="10.0px" app:nx="0.0dp" app:a_6="@id/clone_guide_tips_container" app:a_o="parent" app:a_s="parent" app:a_y="parent" app:aa0="packed">
+        <com.android.camera.videoplayer.ui.VideoPlayerView android:id="@id/clone_guide_texture_view" android:layout_width="match_parent" android:layout_height="match_parent" />
+        <ImageView android:id="@id/clone_guide_video_colver" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/clone_guide_photo_cover" />
+    </androidx.cardview.widget.CardView>
+    <LinearLayout android:orientation="vertical" android:id="@id/clone_guide_tips_container" android:layout_width="wrap_content" android:layout_height="@dimen/bk1" android:layout_marginTop="@dimen/bjr" android:alpha="0.0" android:transformPivotX="0.0dp" android:transformPivotY="0.0dp" android:rotation="90.0" android:layoutDirection="ltr" app:a_6="@id/clone_guide_spacer_view" app:a_p="@id/clone_guide_texture_view_container" app:a_x="@id/clone_guide_texture_view_container" app:aa0="packed">
+        <TextView android:textSize="29.0dp" android:textColor="@color/white" android:id="@id/clone_guide_tv1" android:layout_width="@dimen/bjn" android:layout_height="wrap_content" android:text="@string/fg2" android:layoutDirection="locale" />
+        <TextView android:textSize="@dimen/bjw" android:textColor="@color/white" android:ellipsize="marquee" android:id="@id/clone_guide_tv2" android:layout_width="@dimen/bjn" android:layout_height="wrap_content" android:text="@string/fg3" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:layoutDirection="locale" />
+        <ScrollView android:id="@id/clone_guide_tv3" android:layout_width="@dimen/bjn" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bjv">
+            <LinearLayout android:orientation="vertical" android:layout_width="@dimen/bjn" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/bjh" android:textColor="@color/clone_guide_tip_color" android:id="@id/clone_guide_tip_tv1" android:layout_width="match_parent" android:layout_height="0.0px" android:text="@string/ffv" android:layout_weight="1.0" android:lineSpacingExtra="2.0dp" android:layoutDirection="locale" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <View android:id="@id/clone_guide_spacer_view" android:layout_width="@dimen/bjg" android:layout_height="@dimen/bjg" app:a_o="parent" app:a_x="@id/clone_guide_tips_container" app:aa0="packed" />
+    <View android:id="@id/clone_guide_footer_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/bjf" app:a_o="parent" app:a_x="@id/clone_guide_spacer_view" />
+</androidx.constraintlayout.widget.ConstraintLayout>

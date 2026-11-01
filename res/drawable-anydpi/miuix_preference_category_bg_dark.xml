@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingTop="@dimen/cw2" android:paddingStart="?am3" android:paddingEnd="?am2"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/miuix_appcompat_transparent" />
+        </shape>
+    </item>
+    <item android:gravity="top" android:left="?am3" android:top="@dimen/cw0" android:right="?am2">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/miuix_preference_first_last_divider_line_dark" />
+            <size android:height="@dimen/cw1" />
+        </shape>
+    </item>
+</layer-list>

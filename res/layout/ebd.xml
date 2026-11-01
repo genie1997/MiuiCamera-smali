@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="horizontal" android:id="@id/show_time_mark_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/dtj">
+        <TextView android:textSize="@dimen/e2r" android:textColor="@color/white" android:layout_gravity="start|center" android:id="@id/show_time_tick_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gk8" android:layout_marginStart="@dimen/dti" />
+    </FrameLayout>
+    <FrameLayout android:orientation="horizontal" android:id="@id/show_location_mark_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/dtj" android:layout_marginTop="@dimen/dty">
+        <TextView android:textSize="@dimen/e2r" android:textColor="@color/white" android:layout_gravity="start|center" android:id="@id/show_location_tick_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gk7" android:layout_marginStart="@dimen/dti" />
+    </FrameLayout>
+    <ScrollView android:orientation="horizontal" android:id="@id/show_description_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dty" android:layout_marginBottom="@dimen/dt7">
+        <TextView android:textSize="@dimen/e2s" android:textColor="@color/white" android:layout_gravity="start" android:id="@id/show_description_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:alpha="0.5" android:layout_marginStart="@dimen/dti" android:layout_marginEnd="@dimen/dti" />
+    </ScrollView>
+</LinearLayout>

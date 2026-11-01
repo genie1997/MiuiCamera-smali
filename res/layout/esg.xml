@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent" android:elevation="1.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/v9_smart_shutter_button_layout" android:clickable="false" android:clipChildren="false" android:layout_width="@dimen/bft" android:layout_height="@dimen/bft">
+        <com.android.camera.ui.suspendshutter.V9SuspendShutterButton android:id="@id/v9_smart_shutter_button" android:visibility="invisible" android:clickable="true" android:layout_width="@dimen/bft" android:layout_height="@dimen/bft" android:contentDescription="@string/ezb" />
+        <ProgressBar android:layout_gravity="center" android:id="@id/v9_post_processing" android:visibility="gone" android:layout_width="@dimen/bfq" android:layout_height="@dimen/bfq" android:indeterminateDuration="@integer/e9q" style="?android:progressBarStyleLarge" />
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checkable="false" android:state_pressed="true" android:color="?sl" android:alpha="@dimen/c_r" />
+    <item android:state_focused="true" android:state_checkable="false" android:color="?sl" android:alpha="@dimen/c_p" />
+    <item android:state_checkable="false" android:color="?sl" android:alpha="@dimen/c_q" android:state_hovered="true" />
+    <item android:state_checkable="false" android:color="?sl" android:alpha="@dimen/cb2" />
+    <item android:state_checked="true" android:state_pressed="true" android:color="?sy" android:alpha="@dimen/c_r" />
+    <item android:state_focused="true" android:state_checked="true" android:color="?sv" android:alpha="@dimen/c_p" />
+    <item android:state_checked="true" android:color="?sv" android:alpha="@dimen/c_q" android:state_hovered="true" />
+    <item android:state_checked="true" android:color="?sv" android:alpha="@dimen/cb2" />
+    <item android:state_pressed="true" android:color="?sv" android:alpha="@dimen/c_r" />
+    <item android:state_focused="true" android:color="?sy" android:alpha="@dimen/c_p" />
+    <item android:color="?sy" android:alpha="@dimen/c_q" android:state_hovered="true" />
+    <item android:color="?sy" android:alpha="@dimen/cb2" />
+</selector>

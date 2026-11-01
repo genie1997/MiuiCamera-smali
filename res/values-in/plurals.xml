@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="other">Fokus. %d muka terdeteksi</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="other">%d foto dalam foto beruntun</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="other">Interval: %d detik</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="other">Durasi: %d menit</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="other">Kecepatan: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="other">Durasi: %d detik</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="other">%d karakter dimasukkan.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="other">Masukkan maksimal %d karakter.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="other">Maksimal menghubungkan %d kamera ke jaringan yang sama</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="other">Maksimal menghubungkan %d monitor ke jaringan yang sama</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="other">Maksimal bisa buat %d kloning dalam satu kali proses.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="other"><Data>Tidak dapat terhubung ke kamera.&lt;br>Apl ini akan ditutup setelah &lt;font color=#FFCE16>&lt;b>%1$d dtk&lt;/b>&lt;/font>. Setelahnya, tunggu sebentar dan coba lagi.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="other"><Data>Perangkat ini terlalu panas sekarang.&lt;br>Apl akan ditutup setelah &lt;font color=#FFCE16>&lt;b>%1$d dtk&lt;/b>&lt;/font>. Perkembangan saat ini akan otomatis disimpan.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="other"><Data>Versi Kamera yang Anda gunakan tidak kompatibel dengan model perangkat Anda.&lt;br>Apl ini akan ditutup setelah &lt;font color=#FFCE16>&lt;b>%1$d dtk&lt;/b>&lt;/font> lagi. Uninstal pembaruan Kamera dan coba lagi</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Maju cepat %d detik</item>
+        <item quantity="other">Maju cepat %d detik</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Mundur %d detik</item>
+        <item quantity="other">Mundur %d detik</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="other">%1$d mnt</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="other">%1$d dtk</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="other">Timer dihidupkan (%1$d dtk). Foto akan ditransfer ke perangkat ini.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="other">Hapus %1$d draf?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="other">Maksimal %d preset</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="other">Hapus %d preset?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="other">Preset %d terhapus</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="other">%d preset terimpor</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d notifikasi baru</item>
+        <item quantity="other">%d notifikasi baru</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="other">%dd</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="other">%1$s mnt</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="other">Rekam %d detik</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="other">Anda dapat merekam video dengan efek pembekuan waktu maksimal %d subjek.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="other">%1$s foto</item>
+    </plurals>
+</resources>

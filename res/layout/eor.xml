@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/mode_icon_mm" android:layout_width="@dimen/d1h" android:layout_height="@dimen/d1h" android:layout_marginVertical="@dimen/d1g" />
+    <com.android.camera.ui.AdaptiveMarqueeTextView android:textSize="@dimen/d1j" android:textColor="@color/more_mode_edit_mode_list_text_color" android:ellipsize="marquee" android:gravity="center" android:layout_gravity="center|bottom" android:id="@id/mode_name" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/blw" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:importantForAccessibility="no" android:fallbackLineSpacing="true" app:ae8="1.1" />
+</FrameLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_gravity="left|bottom" android:orientation="vertical" android:id="@id/manual_picture_style_root_layout" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr">
+        <FrameLayout android:gravity="left|bottom" android:orientation="vertical" android:id="@id/manual_picture_style_slide_layout" android:layout_width="@dimen/dbm" android:layout_height="match_parent" android:layout_marginLeft="@dimen/d_3" android:layout_toRightOf="@id/picture_style_list_layout_mm" android:layout_centerVertical="true" android:layoutDirection="ltr">
+            <com.android.camera.ui.ZoomViewMM android:layout_gravity="center_vertical" android:id="@id/manual_picture_style_single_slidebar" android:layout_width="@dimen/bd7" android:layout_height="@dimen/dmb" android:layout_marginTop="@dimen/d8g" app:a80="true" />
+        </FrameLayout>
+        <LinearLayout android:gravity="left|bottom" android:orientation="vertical" android:id="@id/manual_picture_style_color_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="@dimen/d_3" android:layout_toRightOf="@id/picture_style_list_layout_mm" android:layout_alignParentBottom="true" android:layout_centerVertical="true">
+            <RelativeLayout android:orientation="vertical" android:id="@id/manual_picture_style_color_temp_layout" android:layout_width="@dimen/dbk" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dma" android:layout_marginBottom="@dimen/dma" android:layoutDirection="ltr">
+                <LinearLayout android:orientation="vertical" android:id="@id/style_color_temp_tvs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/d_4" android:layout_toRightOf="@id/style_color_temp_slide" android:layout_centerVertical="true">
+                    <TextView android:textSize="@dimen/e5x" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/style_color_temp_des" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/hh2" />
+                    <TextView android:textSize="@dimen/e5x" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/style_color_temp_value" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/hh2" />
+                </LinearLayout>
+                <com.android.camera.ui.ZoomViewMM android:id="@id/style_color_temp_slide" android:layout_width="@dimen/bd7" android:layout_height="@dimen/do5" app:a80="true" />
+            </RelativeLayout>
+            <RelativeLayout android:orientation="vertical" android:id="@id/manual_picture_style_color_tone_layout" android:layout_width="@dimen/dbk" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dma" android:layout_marginBottom="@dimen/dma" android:layoutDirection="ltr">
+                <LinearLayout android:orientation="vertical" android:id="@id/style_color_tone_tvs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/d_4" android:layout_toRightOf="@id/style_color_tone_slide" android:layout_centerVertical="true">
+                    <TextView android:textSize="@dimen/e5x" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/style_color_tone_des" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/hh2" />
+                    <TextView android:textSize="@dimen/e5x" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/style_color_tone_value" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/hh2" />
+                </LinearLayout>
+                <com.android.camera.ui.ZoomViewMM android:id="@id/style_color_tone_slide" android:layout_width="@dimen/bd7" android:layout_height="@dimen/do5" app:a80="true" />
+            </RelativeLayout>
+        </LinearLayout>
+        <com.android.camera.ui.EdgeSpringBackLayout android:id="@id/picture_style_list_layout_mm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" app:zg="top|bottom" app:zh="@dimen/d92" app:apn="vertical" app:apr="@id/picture_style_list_mm">
+            <com.android.camera2.compat.theme.custom.mm.beauty.MakeupSelectViewMM android:layout_gravity="bottom" android:id="@id/picture_style_list_mm" android:clickable="false" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </com.android.camera.ui.EdgeSpringBackLayout>
+    </RelativeLayout>
+</FrameLayout>

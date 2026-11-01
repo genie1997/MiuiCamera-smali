@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/signature_hand_bg_color" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.Toolbar android:id="@id/toolbar" android:layout_width="match_parent" android:layout_height="?android:actionBarSize" android:layout_marginTop="@dimen/bmz">
+        <ImageView android:layout_gravity="start" android:id="@id/signature_hand_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_signature_hand_back" android:contentDescription="@string/fzq" android:layout_marginStart="@dimen/bl7" />
+        <FrameLayout android:layout_gravity="center" android:id="@id/signature_hand_clear" android:background="@drawable/bg_clear_signature_hand" android:layout_width="@dimen/dlc" android:layout_height="@dimen/dlb" app:a_5="parent" app:a_a="parent" app:a_y="parent">
+            <TextView android:textSize="@dimen/dl6" android:textStyle="bold" android:textColor="@color/signature_hand_clear_text_color" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/h50" />
+        </FrameLayout>
+        <ImageView android:layout_gravity="end" android:id="@id/signature_hand_save" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_signature_hand_save" android:contentDescription="@string/g35" android:layout_marginEnd="@dimen/bl7" />
+    </androidx.appcompat.widget.Toolbar>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:layout_gravity="center" android:background="@drawable/wm_signature_hand_dashed_border" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/e35" android:layout_marginBottom="@dimen/dl_" android:layerType="software" android:layout_marginHorizontal="@dimen/dl_">
+            <com.xiaomi.camera.hand.signature.SignatureView android:id="@id/signature_hand_view" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="@dimen/dld" android:contentDescription="@string/h55" app:axh="@string/h55" app:axi="@color/signature_hand_hint_text_color" app:axj="@dimen/dl9" />
+            <View android:id="@id/mask" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent" />
+        </FrameLayout>
+        <com.miui.support.cardview.CardView android:layout_gravity="center|bottom" android:id="@id/loading_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="70.0dp" android:minWidth="172.0dp" android:minHeight="50.0dp" app:nt="@color/preference_watermark_loading_bg_color" app:nw="16.0dp" app:nx="6.0dp" app:agz="@color/alpha10_black" app:ah2="0.34000003dp">
+            <miuix.androidbasewidget.widget.ProgressBar android:layout_gravity="start|center" android:layout_width="24.0dp" android:layout_height="24.0dp" android:layout_marginStart="20.0dp" android:indeterminateTint="@color/preference_watermark_loading_view_color" />
+            <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/preference_watermark_loading_view_color" android:layout_gravity="start|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gpd" android:fontFamily="misans-normal" android:layout_marginStart="54.0dp" android:layout_marginEnd="20.0dp" android:textFontWeight="330" />
+        </com.miui.support.cardview.CardView>
+    </FrameLayout>
+</LinearLayout>

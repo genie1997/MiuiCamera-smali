@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">ଫୋକସ କରାଯାଇଛି । %d ଚେହେରା ଚିହ୍ନିତ</item>
+        <item quantity="other">ଫୋକସ କରାଯାଇଛି । %dଟି ଚେହେରା ଚିହ୍ନିତ</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">ଏକ ବର୍ଷ୍ଟ ସଟରେ %d ଫଟୋ</item>
+        <item quantity="other">ଏକ ବର୍ଷ୍ଟ ସଟରେ %d ଫଟୋ</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">ବ୍ୟବଧାନ: %d ସେକେଣ୍ଡ</item>
+        <item quantity="other">ବ୍ୟବଧାନ: %d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">ଅବଧି: %d ମିନିଟ</item>
+        <item quantity="other">ଅବଧି: %d ମିନିଟ</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">ବେଗ: %dX</item>
+        <item quantity="other">ବେଗ: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">ଅବଧି: %d ସେକେଣ୍ଡ</item>
+        <item quantity="other">ଅବଧି: %d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d କ୍ୟାରେକ୍ଟର ଦିଆଯାଇଛି।</item>
+        <item quantity="other">%d କ୍ୟାରେକ୍ଟର ଦିଆଯାଇଛି।</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">ଅତିବେଶିରେ %d କ୍ୟାରେକ୍ଟର ଦିଅନ୍ତୁ।</item>
+        <item quantity="other">ଅତିବେଶିରେ %d କ୍ୟାରେକ୍ଟର ଦିଅନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">ସମାନ ନେଟୱାର୍କ ସହିତ ଆପଣ ଅତିବେଶିରେ %dଟି କ୍ୟାମେରା ସଂଯୋଗ କରିପାରିବେ</item>
+        <item quantity="other">ସମାନ ନେଟୱାର୍କ ସହିତ ଆପଣ ଅତିବେଶିରେ %dଟି କ୍ୟାମେରା ସଂଯୋଗ କରିପାରିବେ</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">ସମାନ ନେଟୱାର୍କ ସହିତ ଆପଣ ଅତିବେଶିରେ %dଟି ମନିଟର ସଂଯୋଗ କରିପାରିବେ</item>
+        <item quantity="other">ସମାନ ନେଟୱାର୍କ ସହିତ ଆପଣ ଅତିବେଶିରେ %dଟି ମନିଟର ସଂଯୋଗ କରିପାରିବେ</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">ଆପଣ ଥରକେ %d ପର୍ଯ୍ୟନ୍ତ କ୍ଲୋନ୍ ତିଆରି କରିପାରିବେ ।</item>
+        <item quantity="other">ଆପଣ ଥରକେ %dଟି ପର୍ଯ୍ୟନ୍ତ କ୍ଲୋନ୍ ତିଆରି କରିପାରିବେ।</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>କ୍ୟାମେରା ସହିତ ସଂଯୋଗ ହୋଇପାରୁନାହିଁ।&lt;br> ଏହି ଆପ୍ &lt;font color=#FFCE16>&lt;b>%1$d ସେକେଣ୍ଡରେ&lt;/b>&lt;/font> ବନ୍ଦ ହୋଇଯିବ। ଏହା ପରେ ଗୋଟିଏ ବା ଦୁଇ ମିନିଟ ଅପେକ୍ଷା କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</Data></item>
+        <item quantity="other"><Data>କ୍ୟାମେରା ସହିତ ସଂଯୋଗ ହୋଇପାରୁନାହିଁ।&lt;br> ଏହି ଆପ୍ &lt;font color=#FFCE16>&lt;b>%1$d ସେକେଣ୍ଡରେ&lt;/b>&lt;/font>ବନ୍ଦ ହୋଇଯିବ। ଏହା ପରେ ଗୋଟିଏ ବା ଦୁଇ ମିନିଟ ଅପେକ୍ଷା କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>ଏହି ଡିଭାଇସ ଏବେ ବହୁତ ଗରମ ହୋଇଛି।&lt;br> ଆପଟି &lt;font color=#FFCE16>&lt;b>%1$d ସେକେଣ୍ଡରେ&lt;/b>&lt;/font> ବନ୍ଦ ହୋଇଯିବ। ବର୍ତ୍ତମାନର ପ୍ରଗତି ସ୍ୱତଃ ସେଭ୍ ହୋଇଛି।</Data></item>
+        <item quantity="other"><Data>ଏହି ଡିଭାଇସ ଏବେ ବହୁତ ଗରମ ହୋଇଛି।&lt;br> ଆପଟି &lt;font color=#FFCE16>&lt;b>%1$d ସେକେଣ୍ଡରେ&lt;/b>&lt;/font> ବନ୍ଦ ହୋଇଯିବ। ବର୍ତ୍ତମାନର ପ୍ରଗତି ସ୍ୱତଃ ସେଭ୍ ହୋଇଛି।</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>ଆପଣ ବ୍ୟବହାର କରୁଥିବା କ୍ୟାମେରା ସଂସ୍କରଣ ଆପଣଙ୍କ ଡିଭାଇସ ମଡେଲ ସହିତ କମ୍ପାଟିବୁଲ ନୁହେଁ।&lt;br> ଆପଟି &lt;font color=#FFCE16>&lt;b>%1$d ସେକେଣ୍ଡରେ&lt;/b>&lt;/font> ବନ୍ଦ ହେବ। କ୍ୟାମେରା ଅପଡେଟକୁ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</Data></item>
+        <item quantity="other"><Data>ଆପଣ ବ୍ୟବହାର କରୁଥିବା କ୍ୟାମେରା ସଂସ୍କରଣ ଆପଣଙ୍କ ଡିଭାଇସ ମଡେଲ ସହିତ କମ୍ପାଟିବୁଲ ନୁହେଁ।&lt;br> ଆପଟି &lt;font color=#FFCE16>&lt;b>%1$d ସେକେଣ୍ଡରେ&lt;/b>&lt;/font> ବନ୍ଦ ହେବ। କ୍ୟାମେରା ଅପଡେଟକୁ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d ମିନିଟ୍‌</item>
+        <item quantity="other">%1$d ମିନିଟ୍‌</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d ସେକେଣ୍ଡ</item>
+        <item quantity="other">%1$d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">ଟାଇମର୍ ଚାଲୁ ହୋଇଛି (%1$d ସେକେଣ୍ଡ)। ଫଟୋଗୁଡ଼ିକ ଏହି ଡିଭାଇସକୁ ସ୍ଥାନାନ୍ତର ହେବ।</item>
+        <item quantity="other">ଟାଇମର୍ ଚାଲୁ ହୋଇଛି (%1$d ସେକେଣ୍ଡ)। ଫଟୋଗୁଡ଼ିକ ଏହି ଡିଭାଇସକୁ ସ୍ଥାନାନ୍ତର ହେବ।</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d ଡ୍ରାଫ୍ଟ‌ ଡିଲିଟ୍ କରିବେ?</item>
+        <item quantity="other">%1$d ଡ୍ରାଫ୍ଟ ଡିଲିଟ୍ କରିବେ?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">%d ପ୍ରିସେଟ ଯାଏଁ ଯୋଗ କରନ୍ତୁ</item>
+        <item quantity="other">%d ପ୍ରିସେଟ ଯାଏଁ ଯୋଗ କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">ବର୍ତ୍ତମାନ %d ପ୍ରିସେଟ ଡିଲିଟ କରିବେ?</item>
+        <item quantity="other">ବର୍ତ୍ତମାନ %d ପ୍ରିସେଟ ଡିଲିଟ କରିବେ?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d ପ୍ରିସେଟ ଡିଲିଟ ହୋଇଛି</item>
+        <item quantity="other">%d ପ୍ରିସେଟ ଡିଲିଟ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d ପ୍ରିସେଟ ଇମ୍ପୋର୍ଟ ହୋଇଛି</item>
+        <item quantity="other">%d ପ୍ରିସେଟ ଇମ୍ପୋର୍ଟ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s ମିନିଟ</item>
+        <item quantity="other">%1$sଟି ମିନିଟ</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%d ସେକେଣ୍ଡ ରେକର୍ଡ କରନ୍ତୁ</item>
+        <item quantity="other">%d ସେକେଣ୍ଡ ରେକର୍ଡ କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">ଆପଣ କେବଳ %d ସବଜେକ୍ଟ ସହିତ ଟାଇମ୍ ଫ୍ରିଜ୍ ଭିଡିଓ ସୁଟ୍ କରିପାରିବେ।</item>
+        <item quantity="other">ଆପଣ %dଟି ସବଜେକ୍ଟ ପର୍ଯ୍ୟନ୍ତ ଟାଇମ୍ ଫ୍ରିଜ୍ ଭିଡିଓ ସୁଟ୍ କରିପାରିବେ।</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s ଫଟୋ</item>
+        <item quantity="other">%1$sଟି ଫଟୋ</item>
+    </plurals>
+</resources>

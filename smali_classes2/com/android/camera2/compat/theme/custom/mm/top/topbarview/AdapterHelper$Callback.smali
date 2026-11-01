@@ -1,0 +1,28 @@
+.class interface abstract Lcom/android/camera2/compat/theme/custom/mm/top/topbarview/AdapterHelper$Callback;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/android/camera2/compat/theme/custom/mm/top/topbarview/AdapterHelper;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "Callback"
+.end annotation
+
+
+# virtual methods
+.method public abstract markViewHoldersUpdated(IILjava/lang/Object;)V
+.end method
+
+.method public abstract offsetPositionsForAdd(II)V
+.end method
+
+.method public abstract offsetPositionsForMove(II)V
+.end method
+
+.method public abstract offsetPositionsForRemovingLaidOutOrNewView(II)V
+.end method

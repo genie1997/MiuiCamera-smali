@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="40.0dp" android:width="40.0dp" android:viewportWidth="40.0" android:viewportHeight="40.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$ic_mode_slow_motion_cv__0" android:pathData="M30.4,20H32C32,15.029 27.971,11 23,11C18.029,11 14,15.029 14,20H15.6C15.6,15.913 18.913,12.6 23,12.6C27.087,12.6 30.4,15.913 30.4,20Z" />
+    <path android:fillColor="@drawable/$ic_mode_slow_motion_cv__1" android:pathData="M15.6,20H14C14,24.971 18.029,29 23,29C27.971,29 32,24.971 32,20H30.4C30.4,24.087 27.087,27.4 23,27.4C18.913,27.4 15.6,24.087 15.6,20Z" />
+    <path android:fillColor="@drawable/$ic_mode_slow_motion_cv__2" android:pathData="M14,20C14,22.761 16.239,25 19,25C21.761,25 24,22.761 24,20H22.4C22.4,21.878 20.878,23.4 19,23.4C17.122,23.4 15.6,21.878 15.6,20H14Z" />
+    <path android:fillColor="@drawable/$ic_mode_slow_motion_cv__3" android:pathData="M24,20C24,17.239 21.761,15 19,15C16.239,15 14,17.239 14,20H15.6C15.6,18.122 17.122,16.6 19,16.6C20.878,16.6 22.4,18.122 22.4,20H24Z" />
+    <path android:fillColor="@drawable/$ic_mode_slow_motion_cv__4" android:pathData="M30.4,20H32C32,13.373 26.627,8 20,8C13.373,8 8,13.373 8,20H9.6C9.6,14.256 14.256,9.6 20,9.6C25.744,9.6 30.4,14.256 30.4,20Z" />
+    <path android:fillColor="@drawable/$ic_mode_slow_motion_cv__5" android:pathData="M30.4,20H32C32,26.627 26.627,32 20,32C13.373,32 8,26.627 8,20H9.6C9.6,25.744 14.256,30.4 20,30.4C25.744,30.4 30.4,25.744 30.4,20Z" />
+</vector>

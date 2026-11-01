@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="other">མདོ་གཏོགས་ལེགས་གྲུབ། མིའི་གདོང་%dདཔྱད་འཇལ་ཐུབ་སོང་།</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="other">པར་ལེན་ཁ་གྲངས་%d</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="other">དུས་ཡུན་བར་ཐག་སྐར་ཆ་%d</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="other">དུས་ཡུན%dསྐར་མ།</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="other">མྱུར་ཚད་%dསྡེབ།</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="other">ཕབ་བསྐྲུན་དུས་ཚོད་སྐར་ཆ་%d</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="other">ཡིག་རྟགས་%dནང་འཇུག་ཟིན།</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="other">མང་ཤོས་སུ་ཡིག་རྟགས་%dནང་འཇུག་ཆོག</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="other">དྲ་རྒྱ་གཅིག་གི་སྟེང་མང་ཤོས་སུའང་བརྙན་ལེན་ཆས་%dདང་སྦྲེལ་ཆོག</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="other">དྲ་རྒྱ་གཅིག་གི་སྟེང་མང་ཤོས་སུའང་ལྟ་ཞིབ་ཆས་%dསྦྲེལ་ཆོག</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="other">མང་མཐར་ཡང་གཟུགས་དབྱེ་%dརྒྱབ་སྐྱོར་བྱེད།</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="other"><Data>པར་ཆས་དང་སྦྲེལ་མཐུད་མི་ཐུབ།&lt;br>ཉེར་སྤྱོད་&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>རྗེས་ནས་ཕྱིར་འཐེན་བྱེད། ཅུང་ཙམ་ནས་ཚོད་ལྟ་གནང་རོགས།</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="other"><Data>སྒྲིག་ཆས་ཀྱི་དྲོད་ཚད་མཐོ་དྲགས་པས། &lt;br>ཉེར་སྤྱོད་མི་འགྱང་བའི་&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>རྗེས་ཕྱིར་འཐེན་བྱེད། བརྙན་ལེན་སྒྲུབ་ཚད་རང་འགུལ་གྱིས་ཉར་གསོག་བྱེད།</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="other"><Data>མིག་སྔའི་པར་ཆས་པར་གཞི་དང་འཕྲུལ་ཆས་གཉིས་མི་འཚམ་&lt;br>ཉེར་སྤྱོད་&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>རྗེས་ཕྱིར་ཐོན་རྒྱུ་ཡིན། པར་གཞི་འདི་སུབ་རྗེས་བེད་སྤྱོད་རོགས།</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="other">སྐར་མ་%1$d</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="other">སྐར་ཆ་%1$d</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="other">སྐར་ཆ་%1$dཡི་ལྡོག་རྩིས་པར་ལེན་ཁ་ཕྱེ་ཟིན་ལ་རང་འགུལ་གྱིས་པར་རིས་ཁ་པར་སྟེང་སྐུར།</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="other">ཟིན་བྲིས་%1$dསུབ་ཟིན་ནམ།</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="other">མང་ཤོས་སུ་%dབསྣན་ཆོག</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="other">སྔོན་བཀོད་%dབསུབ་པ་ཡིན་ནམ།</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="other">སྔོན་བཀོད་%dབསུབ་ཟིན།</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="other">སྔོན་བཀོད་%dནང་འདྲེན་བྱས་ཟིན་།</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="other">%dS</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="other">སྐར་མ%1$s</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="other">སྐར་ཆ་%dཕབ་འཇུག</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="other">མི་གཟུགས་པར་ལེན་ %d ལས་རྒྱབ་སྐྱོར་མི་བྱེད།</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="other">ཤོག་ལྷེ་%1$s</item>
+    </plurals>
+</resources>

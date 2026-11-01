@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/description_item_video" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/description_item_video_cover" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:contentDescription="@null" />
+    <com.android.camera.ui.FastmotionTextureVideoView android:id="@id/ebq" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <com.android.camera.ui.MaskCircleCornerView android:id="@id/description_item_video_view_mask" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</RelativeLayout>

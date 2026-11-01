@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/add_entrance" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingVertical="@dimen/ce4"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/ugc_add_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/ce0">
+        <ImageView android:id="@id/ugc_ic_add" android:layout_width="@dimen/cel" android:layout_height="@dimen/cel" android:src="@drawable/ic_pro_ugc_add" />
+        <TextView android:textSize="@dimen/ce5" android:textColor="@color/white" android:id="@id/ugc_ic_add_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fyo" android:layout_marginStart="@dimen/ceb" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/ugc_import_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ce0" android:paddingHorizontal="@dimen/ce0">
+        <ImageView android:id="@id/ugc_ic_import" android:layout_width="@dimen/cel" android:layout_height="@dimen/cel" android:src="@drawable/ic_pro_ugc_import" />
+        <TextView android:textSize="@dimen/ce5" android:textColor="@color/white" android:id="@id/ugc_ic_import_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fye" android:layout_marginStart="@dimen/ceb" />
+    </LinearLayout>
+</LinearLayout>

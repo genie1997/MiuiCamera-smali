@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Фокусирано. Детектирано е %d лице</item>
+        <item quantity="other">Фокусирано. Се детектира %d лице</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d фотографија во серија од фотографии</item>
+        <item quantity="other">%d фотографии во серија од фотографии</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Интервал: %d секунда</item>
+        <item quantity="other">Интервал: %d секунди</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Времетраење: %d минута</item>
+        <item quantity="other">Времетраење: %d минути</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Брзина: %dX</item>
+        <item quantity="other">Брзина: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Времетраење: %d секунда</item>
+        <item quantity="other">Времетраење: %d секунди</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Внесе %d знак.</item>
+        <item quantity="other">Внесе %d знака.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Внесете до %d знак.</item>
+        <item quantity="other">Внесете до %d знака.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Може да се поврзете на најмногу %d камера на истата мрежа</item>
+        <item quantity="other">Може да се поврзете на најмногу %d камери на истата мрежа</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Може да поврзете најмногу %d монитор на истата мрежа</item>
+        <item quantity="other">Може да поврзете најмногу %d монитори на истата мрежа</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Може да креирате најмногу %d клон наеднаш.</item>
+        <item quantity="other">Може да креирате најмногу %d клонови наеднаш.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Не може да се поврзе со камерата.&lt;br>Оваа апликација ќе се затвори по &lt;font color=#FFCE16>&lt;b>%1$d сек&lt;/b>&lt;/font>. Потоа, причекајте и обидете се повторно.</Data></item>
+        <item quantity="other"><Data>Не може да се поврзе со камертаа.&lt;br>Оваа апликација ќе се затвори по &lt;font color=#FFCE16>&lt;b>%1$d сек&lt;/b>&lt;/font>. Потоа причекајте и обидете се повторно.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Уредот сега е прегреан.&lt;br>Апликацијата ќе се затвори по &lt;font color=#FFCE16>&lt;b>%1$d сек&lt;/b>&lt;/font>. Тековниот напредок се зачува автоматски.</Data></item>
+        <item quantity="other"><Data>Уредот сега е прегреан.&lt;br>Апликацијата ќе се затвори по &lt;font color=#FFCE16>&lt;b>%1$d сек&lt;/b>&lt;/font>. Тековниот напредок се зачува автоматски.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Верзијата на Камера што ја користите не е компатибилна со вашиот модел на уред.&lt;br>Апликацијата ќе се затвори по &lt;font color=#FFCE16>&lt;b>%1$d секунда&lt;/b>&lt;/font>. Деинсталирајте ги ажурирањата на Камера и обидете се повторно.</Data></item>
+        <item quantity="other"><Data>Верзијата Камера која ја користите не е компатибилна со вашиот модел на уред.&lt;br>Апл. ќе се затвори за &lt;font color=#FFCE16>&lt;b>%1$d секунди&lt;/b>&lt;/font>. Деинсталирајте ги ажурирањата на Камера и обидете се пак.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d мин</item>
+        <item quantity="other">%1$d минути</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d сек</item>
+        <item quantity="other">%1$d секунди</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Вклучен тајмер (%1$d сек.). Фотографиите ќе се префрлат на уредов.</item>
+        <item quantity="other">Вклучен тајмер (%1$d секунди). Фотографиите ќе се префрлат на уредов.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Избриши %1$d нацрт?</item>
+        <item quantity="other">Избриши %1$d нацрти?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Додај до %d претходно поставена поставка</item>
+        <item quantity="other">Додај до %d претходно поставени поставки</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Да се избрише %d претходно поставена ставка?</item>
+        <item quantity="other">Да се избришат %d претходно поставени ставки?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Се избриша %d претходно поставена ставка</item>
+        <item quantity="other">Се избришаа %d претходно поставени ставки</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Се увезе %d претходно поставена ставка</item>
+        <item quantity="other">Се увезоа %d претходно поставени ставки</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dсек</item>
+        <item quantity="other">%dсек</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s мин</item>
+        <item quantity="other">%1$s мин</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Снимај %d секунда</item>
+        <item quantity="other">Снимај %d секунди</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Можете да креирате замрзнати видео снимки само со%d објект.</item>
+        <item quantity="other">Можете да креирате замрзнати видео снимки со најмногу %d објекти.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s фотографија</item>
+        <item quantity="other">%1$s фотографии</item>
+    </plurals>
+</resources>

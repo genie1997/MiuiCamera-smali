@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Xiyyeeffatamaa. Fuulli %d adda baafameera</item>
+        <item quantity="other">Xiyyeeffatamaa. Fuulotni %d adda baafamaniiru</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d suuraa kan suuraa saffisaa keessa</item>
+        <item quantity="other">%d suuraawwan suuraa saffisaa keessaa</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Garaagarummaa: sekondii %d</item>
+        <item quantity="other">Garaagarummaa: sekondiiwwan %d</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Turtii: daqiiqaa %d</item>
+        <item quantity="other">Turtii: daqiiqaawwan %d</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Saffisa: %dX</item>
+        <item quantity="other">Saffisa: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Turtii: sekondii %d</item>
+        <item quantity="other">Turtii: sekondiiwwan %d</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Arfiin %d galeera.</item>
+        <item quantity="other">Arfiilee %d galaniiru.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Hamma arfii %d galchaa.</item>
+        <item quantity="other">Hamma arfillee %d tti galchaa.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Hamma kaameeraa %d tti neetwoorkii walfakkaataa waliin walitti hidhu dandeessu</item>
+        <item quantity="other">Hamma kaameeraawwan %d tti neetwoorkii walfakkaataa waliin walitti hidhu dandeessu</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Hamma to’attu %d tti neetwoorkii walfakkaataan walitti hidhuu dandeessu</item>
+        <item quantity="other">Hamma to’attuuwwan %d tti neetwoorkii walfakkaataan walitti hidhuu dandeessu</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Yeroo tokkotti Kiloonii hamma %d uumuu dandeessau.</item>
+        <item quantity="other">Yeroo tokkotti Kiloonii hamma %d uumuu dandeessu.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Kameeraa waliin wal qunnamsiisuu hin danda’u.&lt;br>Appiin kun sekondii &lt;font color=#FFCE16>&lt;b>%1$d keessatti&lt;/b>&lt;/font> cufama. Kana booda, daqiiqaa tokko ykn lama eeguudhaan irra deebi’aa yaalaa.</Data></item>
+        <item quantity="other"><Data>Kameeraa waliin wal qunnamsiisuu hin danda’u.&lt;br>Appiin kun sekondiiwwan &lt;font color=#FFCE16>&lt;b>%1$d keessatti&lt;/b>&lt;/font> ni cufama. Kana booda, daqiiqaa tokko ykn lama eeguudhaan irra deebi’aa yaalaa.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Meeshaan kun amma baayʼee hoʼaa jira.&lt;br>Appichi sekondii &lt;font color=#FFCE16>&lt;b>%1$d keessatti &lt;/b>&lt;/font> ni cufama. Adeemsi amma jiru ofumaan olkaa’ameera.</Data></item>
+        <item quantity="other"><Data>Meeshaan kun amma baayʼee hoʼee jira.&lt;br>Appichi sekondii &lt;font color=#FFCE16>&lt;b>%1$d keessatti &lt;/b>&lt;/font> ni cufama. Adeemsi amma jiru ofumaan olkaa’ameera.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Maxxansi Kameeraa isin fayyadamaa jirtan moodeela meeshaa keessanii waliin hin walsimu.&lt;br>Appichi sekondii &lt;font color=#FFCE16>&lt;b>%1$d keessatti ni cufama &lt;/b>&lt;/font>. Haaroomsawwan kaameeraa haquun irra deebi’aa yaalaa.</Data></item>
+        <item quantity="other"><Data>Maxxansi Kameeraa isin fayyadamaa jirtan moodeela meeshaa keessanii waliin hin walsimu.&lt;br>Appichi sekondii &lt;font color=#FFCE16>&lt;b>%1$d keessatti ni cufama&lt;/b>&lt;/font>. Haaroomsawwan kaameeraa haquun irra deebi’aa yaalaa.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">Daqiiqaa %1$d</item>
+        <item quantity="other">Daqiiqaawwan %1$d</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">Sekondii %1$d</item>
+        <item quantity="other">Sekondiiwwan %1$d</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Lakkooftuu sa’aatii baname (sekondii %1$d). Suuraan gara meeshaa kanaatti ni dabarfama.</item>
+        <item quantity="other">Lakkooftuu sa’aatii baname (sekondiiwwan %1$d). Suuraan gara meeshaa kanaatti ni dabarfama.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Wixinee %1$d balleessaa?</item>
+        <item quantity="other">Wixineewwan %1$d balleessaa?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Hamma durqindaa’ina %d dabalaa</item>
+        <item quantity="other">Hamma durqindaa’inoota %d dabalaa</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Durqindaa’aa %d amma haquu?</item>
+        <item quantity="other">Durqindaa’oota %d amma haquu?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Durqindaa’aan %d haqameera</item>
+        <item quantity="other">Durqindaa’onni %d haqamaniiru</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Durqindaa’aan %d galfameera</item>
+        <item quantity="other">Durqindaa’onni %d galfamaniiru</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">Daqiiqaa %1$s</item>
+        <item quantity="other">Daqiiqaawwan %1$s</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Sekondii %d gaalmeessaa</item>
+        <item quantity="other">Sekondiiwwan %d galmeessaa</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Yeroo Dhaabbi Viidiyoo dhimma %d qofaa waliin waraabuu dandeessu.</item>
+        <item quantity="other">Yeroo Dhaabbi Viidiyoo hamma dhimma %d waliin waraabuu dandeessu.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">Suuraa %1$s</item>
+        <item quantity="other">Suuraalee %1$s</item>
+    </plurals>
+</resources>

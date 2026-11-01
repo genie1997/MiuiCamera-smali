@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Zaostrené. Rozpoznaná %d tvár</item>
+        <item quantity="few">Zaostrené. Rozpoznané %d tváre</item>
+        <item quantity="many">Zaostrené. Rozpoznanej %d tváre</item>
+        <item quantity="other">Zaostrené. Rozpoznaných %d tvárí</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d fotografia z dávkového snímania</item>
+        <item quantity="few">%d fotografie z dávkového snímania</item>
+        <item quantity="many">%d fotografie z dávkového snímania</item>
+        <item quantity="other">%d fotografií z dávkového snímania</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Interval: %d sekunda</item>
+        <item quantity="few">Interval: %d sekundy</item>
+        <item quantity="many">Interval: %d sekundy</item>
+        <item quantity="other">Interval: %d sekúnd</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Trvanie: %d minúta</item>
+        <item quantity="few">Trvanie: %d minúty</item>
+        <item quantity="many">Trvanie: %d minúty</item>
+        <item quantity="other">Trvanie: %d minút</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Rýchlosť: %dX</item>
+        <item quantity="few">Rýchlosť: %dX</item>
+        <item quantity="many">Rýchlosť: %dX</item>
+        <item quantity="other">Rýchlosť: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Doba trvania: %d sekunda</item>
+        <item quantity="few">Doba trvania: %d sekundy</item>
+        <item quantity="many">Doba trvania: %d sekundy</item>
+        <item quantity="other">Doba trvania: %d sekúnd</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Zadaný %d znak.</item>
+        <item quantity="few">Zadané %d znaky.</item>
+        <item quantity="many">Zadaného %d znaku.</item>
+        <item quantity="other">Zadaných %d znakov.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Zadajte najviac %d znak.</item>
+        <item quantity="few">Zadajte najviac %d znaky.</item>
+        <item quantity="many">Zadajte najviac %d znaku.</item>
+        <item quantity="other">Zadajte najviac %d znakov.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">K rovnakej sieti môžete pripojiť maximálne %d kameru</item>
+        <item quantity="few">K rovnakej sieti môžete pripojiť maximálne %d kamery</item>
+        <item quantity="many">K rovnakej sieti môžete pripojiť maximálne %d kamier</item>
+        <item quantity="other">K rovnakej sieti môžete pripojiť maximálne %d kamier</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">K rovnakej sieti môžete pripojiť maximálne %d monitor</item>
+        <item quantity="few">K rovnakej sieti môžete pripojiť maximálne %d monitory</item>
+        <item quantity="many">K rovnakej sieti môžete pripojiť maximálne %d monitoru</item>
+        <item quantity="other">K rovnakej sieti môžete pripojiť maximálne %d monitorov</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Môžete vytvoriť až %d klon naraz.</item>
+        <item quantity="few">Môžete vytvoriť až %d klony naraz.</item>
+        <item quantity="many">Môžete vytvoriť až %d klonu naraz.</item>
+        <item quantity="other">Môžete vytvoriť až %d klonov naraz.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Nie je možné sa pripojiť k fotoaparátu.&lt;br>Aplikácia bude za &lt;font color=#FFCE16>&lt;b>%1$d sekundu &lt;/b>&lt;/font> ukončená. Po ukončení aplikácie chvíľu počkajte a skúste to znova.</Data></item>
+        <item quantity="few"><Data>Nie je možné sa pripojiť k fotoaparátu.&lt;br>Aplikácia bude za &lt;font color=#FFCE16>&lt;b>%1$d sekundy &lt;/b>&lt;/font> ukončená. Po ukončení aplikácie chvíľu počkajte a skúste to znova.</Data></item>
+        <item quantity="many"><Data>Nie je možné sa pripojiť k fotoaparátu.&lt;br>Aplikácia bude za &lt;font color=#FFCE16>&lt;b>%1$d sekundy &lt;/b>&lt;/font> ukončená. Po ukončení aplikácie chvíľu počkajte a skúste to znova.</Data></item>
+        <item quantity="other"><Data>Nie je možné sa pripojiť k fotoaparátu.&lt;br>Aplikácia bude za &lt;font color=#FFCE16>&lt;b>%1$d sekúnd &lt;/b>&lt;/font> ukončená. Po ukončení aplikácie chvíľu počkajte a skúste to znova.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Toto zariadenie je teraz prehriate.&lt;br>Aplikácia sa zatvorí za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Aktuálny priebeh sa uloží automaticky.</Data></item>
+        <item quantity="few"><Data>Toto zariadenie je teraz prehriate.&lt;br>Aplikácia sa zatvorí za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Aktuálny priebeh sa uloží automaticky.</Data></item>
+        <item quantity="many"><Data>Toto zariadenie je teraz prehriate.&lt;br>Aplikácia sa zatvorí za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Aktuálny priebeh sa uloží automaticky.</Data></item>
+        <item quantity="other"><Data>Toto zariadenie je teraz prehriate.&lt;br>Aplikácia sa zatvorí za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Aktuálny priebeh sa uloží automaticky.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Verzia fotoaparátu, ktorú používate, nie je kompatibilná s modelom vášho zariadenia.&lt;br>Aplikácia sa zavrie za &lt;font color=#FFCE16>&lt;b>%1$d sekundu&lt;/b>&lt;/font>. Odinštalujte aktualizácie fotoaparátu a skúste to znova.</Data></item>
+        <item quantity="few"><Data>Verzia fotoaparátu, ktorú používate, nie je kompatibilná s modelom vášho zariadenia.&lt;br>Aplikácia sa zavrie za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Odinštalujte aktualizácie fotoaparátu a skúste to znova.</Data></item>
+        <item quantity="many"><Data>Verzia fotoaparátu, ktorú používate, nie je kompatibilná s modelom vášho zariadenia.&lt;br>Aplikácia sa zavrie za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Odinštalujte aktualizácie fotoaparátu a skúste to znova.</Data></item>
+        <item quantity="other"><Data>Verzia fotoaparátu, ktorú používate, nie je kompatibilná s modelom vášho zariadenia.&lt;br>Aplikácia sa zavrie za &lt;font color=#FFCE16>&lt;b>%1$d sekúnd&lt;/b>&lt;/font>. Odinštalujte aktualizácie fotoaparátu a skúste to znova.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Pretočiť dopredu o %d sekundu</item>
+        <item quantity="few">Pretočiť dopredu o %d sekundy</item>
+        <item quantity="many">Pretočiť dopredu o %d sekundy</item>
+        <item quantity="other">Pretočiť dopredu o %d sekúnd</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Pretočiť späť o %d sekundu</item>
+        <item quantity="few">Pretočiť späť o %d sekundy</item>
+        <item quantity="many">Pretočiť späť o %d sekundy</item>
+        <item quantity="other">Pretočiť späť o %d sekúnd</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
+        <item quantity="other">%1$d min.</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="few">%1$d sek.</item>
+        <item quantity="many">%1$d sek.</item>
+        <item quantity="other">%1$d sek.</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Zapnutý časovač (%1$d sek.). Fotografie sa prenesú do tohto zariadenia.</item>
+        <item quantity="few">Zapnutý časovač (%1$d sek.). Fotografie sa prenesú do tohto zariadenia.</item>
+        <item quantity="many">Zapnutý časovač (%1$d sek.). Fotografie sa prenesú do tohto zariadenia.</item>
+        <item quantity="other">Zapnutý časovač (%1$d sek.). Fotografie sa prenesú do tohto zariadenia.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Vymazať %1$d koncept?</item>
+        <item quantity="few">Vymazať %1$d koncepty?</item>
+        <item quantity="many">Vymazať %1$d konceptov?</item>
+        <item quantity="other">Vymazať %1$d konceptov?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Pridajte maximálne %d predvoľbu</item>
+        <item quantity="few">Pridajte maximálne %d predvoľby</item>
+        <item quantity="many">Pridajte maximálne %d predvolieb</item>
+        <item quantity="other">Pridajte maximálne %d predvolieb</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Vymazať %d predvoľbu teraz?</item>
+        <item quantity="few">Vymazať %d predvoľby teraz?</item>
+        <item quantity="many">Vymazať %d predvoľby teraz?</item>
+        <item quantity="other">Vymazať %d predvolieb teraz?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Vymazaná %d predvoľba</item>
+        <item quantity="few">Vymazané %d predvoľby</item>
+        <item quantity="many">Vymazanej %d predvoľby</item>
+        <item quantity="other">Vymazaných %d predvolieb</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Importovaná %d predvoľba</item>
+        <item quantity="few">Importované %d predvoľby</item>
+        <item quantity="many">Importovanej %d predvoľby</item>
+        <item quantity="other">Importovaných %d predvolieb</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+        <item quantity="other">%d nových upozornení</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d sek.</item>
+        <item quantity="few">%d sek.</item>
+        <item quantity="many">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min.</item>
+        <item quantity="few">%1$s min.</item>
+        <item quantity="many">%1$s min.</item>
+        <item quantity="other">%1$s min.</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Nahrať %d sekundu</item>
+        <item quantity="few">Nahrať %d sekundy</item>
+        <item quantity="many">Nahrať %d sekundy</item>
+        <item quantity="other">Nahrať %d sekúnd</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Videá s funkciou zmrazenia môžete natáčať iba s %d objektom.</item>
+        <item quantity="few">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+        <item quantity="many">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+        <item quantity="other">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s fotografia</item>
+        <item quantity="few">%1$s fotografie</item>
+        <item quantity="many">%1$s fotografie</item>
+        <item quantity="other">%1$s fotografií</item>
+    </plurals>
+</resources>

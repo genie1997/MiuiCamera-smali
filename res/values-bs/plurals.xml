@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Fokusirano. %d lice otkriveno</item>
+        <item quantity="few">Fokusirano. %d lica otkrivena</item>
+        <item quantity="other">Fokusirano. %d lica otkriveno</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d fotografija u brzoj fotografiji</item>
+        <item quantity="few">%d fotografije u brzoj fotografiji</item>
+        <item quantity="other">%d fotografija u brzoj fotografiji</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Interval: %d sekunda</item>
+        <item quantity="few">Interval: %d sekunde</item>
+        <item quantity="other">Interval: %d sekundi</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Trajanje: %d minuta</item>
+        <item quantity="few">Trajanje: %d minute</item>
+        <item quantity="other">Trajanje: %d minuta</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Brzina: %dX</item>
+        <item quantity="few">Brzina: %dX</item>
+        <item quantity="other">Brzina: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Trajanje: %d sekunda</item>
+        <item quantity="few">Trajanje: %d sekunde</item>
+        <item quantity="other">Trajanje: %d sekundi</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Unesen %d karakter.</item>
+        <item quantity="few">Unesena %d karaktera.</item>
+        <item quantity="other">Uneseno %d karaktera.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Unesite do %d karaktera.</item>
+        <item quantity="few">Unesite do %d karaktera.</item>
+        <item quantity="other">Unesite do %d karaktera.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Na istu mrežu možete povezati do %d kamere</item>
+        <item quantity="few">Na istu mrežu možete povezati do %d kamere</item>
+        <item quantity="other">Na istu mrežu možete povezati do %d kamera</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Na istu mrežu možete povezati do %d monitora</item>
+        <item quantity="few">Na istu mrežu možete povezati do %d monitora</item>
+        <item quantity="other">Na istu mrežu možete povezati do %d monitora</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">%d klon može biti kreiran odjednom.</item>
+        <item quantity="few">%d klona mogu biti kreirana odjednom.</item>
+        <item quantity="other">%d klonova mogu biti kreirana odjednom.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Ne mogu se povezati na kameru.&lt;br>Ova aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nakon toga, pričekajte minutu ili dvije i pokušajte ponovo.</Data></item>
+        <item quantity="few"><Data>Ne mogu se povezati na kameru.&lt;br>Ova aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nakon toga, pričekajte minutu ili dvije i pokušajte ponovo.</Data></item>
+        <item quantity="other"><Data>Ne mogu se povezati na kameru.&lt;br>Ova aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nakon toga, pričekajte minutu ili dvije i pokušajte ponovo.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Ovaj uređaj je sada prevruć.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Trenutni rad je automatski sačuvan.</Data></item>
+        <item quantity="few"><Data>Ovaj uređaj je sada prevruć.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Trenutni rad je automatski sačuvan.</Data></item>
+        <item quantity="other"><Data>Ovaj uređaj je sada prevruć.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Trenutni rad je automatski sačuvan.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Verzija Kamere koju koristite nije kompatibilna sa modelom vašeg uređaja.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Deinstalirajte ažuriranja Kamere i pokušajte ponovo.</Data></item>
+        <item quantity="few"><Data>Verzija Kamere koju koristite nije kompatibilna sa modelom vašeg uređaja.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Deinstalirajte ažuriranja Kamere i pokušajte ponovo.</Data></item>
+        <item quantity="other"><Data>Verzija Kamere koju koristite nije kompatibilna sa modelom vašeg uređaja.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Deinstalirajte ažuriranja Kamere i pokušajte ponovo.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Premotavanje %d sekundu naprijed</item>
+        <item quantity="few">Premotavanje %d sekunde naprijed</item>
+        <item quantity="other">Premotavanje %d sekundi naprijed</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Premotavanje %d sekundu nazad</item>
+        <item quantity="few">Premotavanje %d sekunde nazad</item>
+        <item quantity="other">Premotavanje %d sekundi nazad</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d sek</item>
+        <item quantity="few">%1$d sek</item>
+        <item quantity="other">%1$d sek</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Uključen tajmer (%1$d s). Fotografije će biti prebačene na ovaj uređaj.</item>
+        <item quantity="few">Uključen tajmer (%1$d s). Fotografije će biti prebačene na ovaj uređaj.</item>
+        <item quantity="other">Uključen tajmer (%1$d s). Fotografije će biti prebačene na ovaj uređaj.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Obrisati %1$d skicu?</item>
+        <item quantity="few">Obrisati %1$d skice?</item>
+        <item quantity="other">Obrisati %1$d skica?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Dodajte do %d postavke</item>
+        <item quantity="few">Dodajte do %d postavke</item>
+        <item quantity="other">Dodajte do %d postavki</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Izbrisati %d unaprijed podešenu postavku sada?</item>
+        <item quantity="few">Izbrisati %d unaprijed podešene postavke sada?</item>
+        <item quantity="other">Izbrisati %d unaprijed podešenih postavki sada?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Izbrisana je %d unaprijed podešena postavka</item>
+        <item quantity="few">Izbrisano je %d unaprijed postavljenih postavki</item>
+        <item quantity="other">Izbrisano je %d unaprijed podešenih postavki</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Uvezena je %d unaprijed podešena postavka</item>
+        <item quantity="few">Uvezene su %d unaprijed podešene postavke</item>
+        <item quantity="other">Uvezeno je %d unaprijed podešenih postavki</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d novo obavještenje</item>
+        <item quantity="few">%d nova obavještenja</item>
+        <item quantity="other">%d novih obavještenja</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%ds</item>
+        <item quantity="few">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min</item>
+        <item quantity="few">%1$s min</item>
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Snimi %d sekundu</item>
+        <item quantity="few">Snimi %d sekunde</item>
+        <item quantity="other">Snimi %d sekundi</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Možete snimati zaleđene videozapise samo sa %d subjektom.</item>
+        <item quantity="few">Možete snimati zaleđene videozapise samo sa %d subjekta.</item>
+        <item quantity="other">Možete snimati zaleđene videozapise samo sa %d subjekata.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s fotografija</item>
+        <item quantity="few">%1$s fotografije</item>
+        <item quantity="other">%1$s fotografija</item>
+    </plurals>
+</resources>

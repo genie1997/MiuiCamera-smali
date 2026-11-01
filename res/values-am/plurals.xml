@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">ያተኮረ። %d መልክ ተለይቷል</item>
+        <item quantity="other">ያተኮረ። %d ፊቶች ተለይቷል</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d ፎቶ በ ፈጣን ተከታታይ ፎቶ</item>
+        <item quantity="other">%d ፎቶዎች በ ፈጣን ተከታታይ ፎቶ</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">ጊዜ፡- %d ሰከንድ</item>
+        <item quantity="other">ጊዜ፡- %d ሰከንዶች</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">የጊዜ ርዝመት፦ %d ደቂቃ</item>
+        <item quantity="other">የጊዜ ርዝመት፦ %d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">ፍጥነት፦ %dX</item>
+        <item quantity="other">ፍጥነት፦ %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">ጊዜ፡- %d ሰከንድ</item>
+        <item quantity="other">ጊዜ፡- %d ሰከንዶች</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d ቁምፊ ገብቷል።</item>
+        <item quantity="other">%d ቁምፊዎች ገብተዋል።</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">እስከ %d ቁምፊ ያስገቡ።</item>
+        <item quantity="other">እስከ %d ቁምፊዎች ያስገቡ።</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">እስከ %d ካሜራን ወደ ተመሳሳይ አውታረ መረብ ማገናኘት ይችላሉ</item>
+        <item quantity="other">እስከ %d ካሜራዎችን ወደ ተመሳሳይ አውታረ መረብ ማገናኘት ይችላሉ</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">እስከ %d ማሳያን ወደ ተመሳሳይ አውታረ መረብ ማገናኘት ይችላሉ</item>
+        <item quantity="other">እስከ %d ማሳያዎችን ወደ ተመሳሳይ አውታረ መረብ ማገናኘት ይችላሉ</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">በአንድ ጊዜ እስከ %d ተመሳሳይ ምስል መፍጠር ይችላሉ።</item>
+        <item quantity="other">በአንድ ጊዜ እስከ %d ተመሳሳይ ምስሎችን መፍጠር ይችላሉ።</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>ከካሜራው ጋር መገናኘት አይቻልም።&lt;br>ይህ መተግበርያ በ &lt;font color=#FFCE16>&lt;b>%1$d ሴ ይዘጋል&lt;/b>&lt;/font>። ከዚህ በኃላ፣ አንድ ደቂቃ ወይም ሁለት ይጠብቁ እና እንደገና ይሞክሩ።</Data></item>
+        <item quantity="other"><Data>ከካሜራው ጋር መገናኘት አይቻልም።&lt;br>ይህ መተግበርያ በ &lt;font color=#FFCE16>&lt;b>%1$d ሴ ይዘጋል&lt;/b>&lt;/font>። ከዚህ በኃላ፣ አንድ ደቂቃ ወይም ሁለት ይጠብቁ እና እንደገና ይሞክሩ።</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>ይህ መሳሪያ አሁን በጣም ሞቃት ነው።&lt;br>ይህ መተግበርያ በ &lt;font color=#FFCE16>&lt;b>%1$d ሴ ይዘጋል&lt;/b>&lt;/font>። የአሁኑ እድገት በራስ ሰር ተቀምጧል።</Data></item>
+        <item quantity="other"><Data>ይህ መሳሪያ አሁን በጣም ሞቃት ነው።&lt;br>ይህ መተግበርያ በ &lt;font color=#FFCE16>&lt;b>%1$d ሴዎች ይዘጋል&lt;/b>&lt;/font>። የአሁኑ እድገት በራስ ሰር ተቀምጧል።</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>እየተጠቀሙበት ያለው የካሜራ ስሪት ከመሣሪያዎ ሞዴል ጋር የሚጣጣም አይደለም።&lt;br>መተግበርያው በ &lt;font color=#FFCE16>&lt;b>%1$d ሴ ይዘጋል&lt;/b>&lt;/font>። የካሜራ ዝማኔዎችን ከተጫነበት ያስወግዱ እና እንደገና ይሞክሩ።</Data></item>
+        <item quantity="other"><Data>እየተጠቀሙበት ያለው የካሜራ ስሪት ከመሣሪያዎ ሞዴል ጋር የሚጣጣም አይደለም።&lt;br>መተግበርያው በ &lt;font color=#FFCE16>&lt;b>%1$d ሴዎች ይዘጋል&lt;/b>&lt;/font>። የካሜራ ዝማኔዎችን ከተጫነበት ያስወግዱ እና እንደገና ይሞክሩ።</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">በ%d ሰከንዶች በፍጥነት ወደፊት ያሳልፉ</item>
+        <item quantity="other">በ%d ሰከንዶች በፍጥነት ወደፊት ያሳልፉ</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">በ%d ሰከንዶች ወደኋላ ይመልሱ</item>
+        <item quantity="other">በ%d ሰከንዶች ወደኋላ ይመልሱ</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d ደ</item>
+        <item quantity="other">%1$d ደዎች</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d ሴ</item>
+        <item quantity="other">%1$d ሴዎች</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">ሰዓት ቆጣሪን አበራ (%1$d ሴ)። ፎቶዎች ወደዚህ መሳሪያ ይተላለፋሉ።</item>
+        <item quantity="other">ሰዓት ቆጣሪን አበራ (%1$d ሴዎች)። ፎቶዎች ወደዚህ መሳሪያ ይተላለፋሉ።</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d ረቂቅ ይሰረዝ?</item>
+        <item quantity="other">%1$d ረቂቆች ይሰረዙ?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">እስከ %d ቅድመ ዝግጅት አክል</item>
+        <item quantity="other">እስከ %d ቅድመ ዝግጅቶችን አክል</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d ቅድመ ቅንብር አሁን ሰርዝ?</item>
+        <item quantity="other">%d ቅድመ ቅንብሮች አሁን ሰርዝ?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d ቅድመ ቅንብር ተሰርዟል</item>
+        <item quantity="other">%d ቅድመ ቅንብሮች ተሰርዟል</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d ቅድመ ቅንብር መጥቷል</item>
+        <item quantity="other">%d ቅድመ ቅንብሮች መጥተዋል</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dሰ</item>
+        <item quantity="other">%dሰ</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s ደ</item>
+        <item quantity="other">%1$s ደዎች</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%d ሰከንድ ቅዳ</item>
+        <item quantity="other">%d ሰከንዶች ቅዳ</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">የጊዜ ማቆሚያ ቪዲዮዎችን በ %d ርዕሰ ጉዳይ ብቻ መቅረጽ ይችላሉ።</item>
+        <item quantity="other">የጊዜ ማቆሚያ ቪዲዮዎችን በ %d ርዕሰ ጉዳዮች ብቻ መቅረጽ ይችላሉ።</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s ፎቶ</item>
+        <item quantity="other">%1$s ፎቶዎች</item>
+    </plurals>
+</resources>

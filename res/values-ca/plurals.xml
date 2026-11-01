@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Enfocat. %d de cara detectada</item>
+        <item quantity="other">Enfocat. %d cares detectada</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d foto mitjançant ràfega</item>
+        <item quantity="other">%d fotos mitjançant ràfega</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Interval: %d segon</item>
+        <item quantity="other">Interval: %d segons</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Durada: %d minut</item>
+        <item quantity="other">Durada: %d minuts</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Velocitat: %dX</item>
+        <item quantity="other">Velocitat: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Duració: %d segon</item>
+        <item quantity="other">Duració: %d segons</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Heu introduit %d caràcter.</item>
+        <item quantity="other">Heu introduit %d caràcters.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Introduïu fins a %d caràcter.</item>
+        <item quantity="other">Introduïu fins a %d caràcters.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Podeu connectar fins a %d càmera a la mateixa xarxa</item>
+        <item quantity="other">Podeu connectar fins a %d càmeres a la mateixa xarxa</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Podeu connectar fins a %d monitor a la mateixa xarxa</item>
+        <item quantity="other">Podeu connectar fins a %d monitors a la mateixa xarxa</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Pots crear fins %d clon a la vegada.</item>
+        <item quantity="other">Pots crear fins %d clons a la vegada.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>"No es pot connectar a la càmera.&lt;br>Aquesta aplicació es tancarà d'aquí a &lt;font color=#FFCE16>&lt;b>%1$d segon&lt;/b>&lt;/font>. Després d'això, espereu un minut o dos i proveu-ho de nou."</Data></item>
+        <item quantity="other"><Data>"No es pot connectar a la càmera.&lt;br>Aquesta aplicació es tancarà d'aquí a &lt;font color=#FFCE16>&lt;b>%1$d segons&lt;/b>&lt;/font>. Després d'això, espereu un minut o dos i proveu-ho de nou."</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>"Aquest dispositiu està massa calent ara.&lt;br>L'aplicació es tancarà d'aquí a &lt;font color=#FFCE16>&lt;b>%1$d segon&lt;/b>&lt;/font>. El progrés actual es va desar automàticament."</Data></item>
+        <item quantity="other"><Data>"Aquest dispositiu està massa calent ara.&lt;br>L'aplicació es tancarà d'aquí a &lt;font color=#FFCE16>&lt;b>%1$d segons&lt;/b>&lt;/font>. El progrés actual es va desar automàticament."</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>"La versió de la Càmera que estàs utilitzant no és compatible amb el model del teu dispositiu.&lt;br>L'aplicació es tancarà a &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstal·leu les actualitzacions de la Càmera i torneu-ho a provar."</Data></item>
+        <item quantity="other"><Data>"La versió de la Càmera que estàs utilitzant no és compatible amb el model del teu dispositiu.&lt;br>L'aplicació es tancarà a &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstal·leu les actualitzacions de la Càmera i torneu-ho a provar."</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Avança ràpidament %d segon</item>
+        <item quantity="other">Avança ràpidament %d segons</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Rebobina %d segon</item>
+        <item quantity="other">Rebobina %d segons</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d s</item>
+        <item quantity="other">%1$d s</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Temporitzador activat (%1$d s). Les fotos es transferiran a aquest dispositiu.</item>
+        <item quantity="other">Temporitzador activat (%1$d s). Les fotos es transferiran a aquest dispositiu.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Voleu eliminar %1$d esborrany?</item>
+        <item quantity="other">Voleu eliminar %1$d esborranys?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Afegeix fins a %d valor predefinit</item>
+        <item quantity="other">Afegeix fins a %d valors predefinits</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Voleu suprimir %d predefinició ara?</item>
+        <item quantity="other">Voleu suprimir %d predefinicions ara?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d predefinició eliminada</item>
+        <item quantity="other">%d predefinicions eliminades</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d predefinició importada</item>
+        <item quantity="other">%d predefinicions importades</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d notificació nova</item>
+        <item quantity="other">%d notificacions noves</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min.</item>
+        <item quantity="other">%1$s min.</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Registra %d segon</item>
+        <item quantity="other">Registra %d segons</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Podeu enregistrar vídeos congelats només amb %d persona.</item>
+        <item quantity="other">Podeu enregistrar vídeos congelats només amb %d persones.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s fotos</item>
+    </plurals>
+</resources>

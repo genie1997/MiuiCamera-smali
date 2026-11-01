@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/notification_background" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="@dimen/d7d" android:layout_height="@dimen/d7c" layout="@layout/epz" />
+    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/d7d">
+        <LinearLayout android:orientation="horizontal" android:id="@id/notification_main_column_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/d7c">
+            <FrameLayout android:id="@id/notification_main_column" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dp" android:layout_weight="1.0" android:layout_marginEnd="8.0dp" />
+            <FrameLayout android:id="@id/right_side" android:paddingTop="@dimen/d7h" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="8.0dp">
+                <ViewStub android:layout_gravity="end|top" android:id="@id/time" android:visibility="gone" android:layout="@layout/eq4" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <ViewStub android:layout_gravity="end|top" android:id="@id/chronometer" android:visibility="gone" android:layout="@layout/eq3" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textAppearance="@style/hj6" android:layout_gravity="end|bottom" android:id="@id/info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dp" android:singleLine="true" />
+            </FrameLayout>
+        </LinearLayout>
+        <ImageView android:id="@id/action_divider" android:background="#29000000" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1.0dp" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/actions" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="-8.0dp" />
+    </LinearLayout>
+</FrameLayout>

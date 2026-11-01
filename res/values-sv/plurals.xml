@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Fokuserad. %d ansikte detekterat</item>
+        <item quantity="other">Fokuserad. %d ansikten detekterade</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d foto i en fotoserie</item>
+        <item quantity="other">%d foton i en fotoserie</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Intervall: %d sekund</item>
+        <item quantity="other">Intervall: %d sekunder</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Varaktighet: %d minut</item>
+        <item quantity="other">Varaktighet: %d minuter</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Hastighet: %dX</item>
+        <item quantity="other">Hastighet: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Varaktighet: %d sekund</item>
+        <item quantity="other">Varaktighet: %d sekunder</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Angav %d tecken.</item>
+        <item quantity="other">Angav %d tecken.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Ange upp till %d tecken.</item>
+        <item quantity="other">Ange upp till %d tecken.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Du kan ansluta upp till %d kamera till samma nätverk</item>
+        <item quantity="other">Du kan ansluta upp till %d kameror till samma nätverk</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Du kan ansluta upp till %d monitor till samma nätverk</item>
+        <item quantity="other">Du kan ansluta upp till %d skärmar till samma nätverk</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Du kan skapa upp till %d klon åt gången.</item>
+        <item quantity="other">Du kan skapa upp till %d kloner åt gången.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Det går inte att ansluta till kameran.&lt;br>Denna app kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Efter detta, vänta en minut eller två och försök igen.</Data></item>
+        <item quantity="other"><Data>Det går inte att ansluta till kameran.&lt;br>Denna app kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sekunder&lt;/b>&lt;/font>. Efter detta, vänta en minut eller två och försök igen.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Denna enhet är för varm nu.&lt;br>Appen kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sekund&lt;/b>&lt;/font>. Aktuellt förlopp sparades automatiskt.</Data></item>
+        <item quantity="other"><Data>Denna enhet är för varm nu.&lt;br>Appen kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sekunder&lt;/b>&lt;/font>. Aktuellt förlopp sparades automatiskt.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Kameraversionen dom du använder är inte kompatibel med din enhetsmodell.&lt;br>Appen kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Avinstallera kamerauppdateringar och försök igen.</Data></item>
+        <item quantity="other"><Data>Kameraversionen dom du använder är inte kompatibel med din enhetsmodell.&lt;br>Appen kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Avinstallera kamerauppdateringar och försök igen.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Spola framåt %d sekund</item>
+        <item quantity="other">Spola framåt %d sekunder</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Spola tillbaka %d sekund</item>
+        <item quantity="other">Spola tillbaka %d sekunder</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d sek</item>
+        <item quantity="other">%1$d sek</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Aktiverade timer (%1$d sekund). Foton kommer att överföras till den här enheten.</item>
+        <item quantity="other">Aktiverade timer (%1$d sekunder). Foton kommer att överföras till den här enheten.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Ta bort %1$d utkast?</item>
+        <item quantity="other">Ta bort %1$d utkast?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Lägg till %d förinställning</item>
+        <item quantity="other">Lägg till %d förinställningar</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Radera %d förinställning nu?</item>
+        <item quantity="other">Radera %d för inställningar nu?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Radera %d förinställning</item>
+        <item quantity="other">Radera %d förinställningar</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Importerad %d förinställning</item>
+        <item quantity="other">Importerade %d förinställningar</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d ny avisering</item>
+        <item quantity="other">%d nya aviseringar</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s minut</item>
+        <item quantity="other">%1$s minuter</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Spela in %d sekund</item>
+        <item quantity="other">Spela in %d sekunder</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Du kan bara filma tidsfrysningsvideor med %d motiv.</item>
+        <item quantity="other">Du kan filma tidsfrysningsvideor med upp till %d motiv.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s foton</item>
+    </plurals>
+</resources>

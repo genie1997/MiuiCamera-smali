@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/constraintLayout" android:background="@color/transparent" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:alignmentMode="alignMargins" android:importantForAccessibility="no" android:layout_marginHorizontal="@dimen/e3x"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="start|center" android:id="@id/b2y" android:layout_width="match_parent" android:layout_height="@dimen/e2z" android:importantForAccessibility="no" app:a_u="parent" app:a_y="parent">
+        <TextView android:textSize="@dimen/e3t" android:textStyle="bold" android:textColor="@color/watermark_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gp1" android:fontFamily="misans-normal" />
+    </LinearLayout>
+    <HorizontalScrollView android:gravity="start|center" android:orientation="horizontal" android:id="@id/scrollView" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="-2.0dp" app:a_u="parent" app:a_x="@id/b2y">
+        <miuix.visual.check.VisualCheckGroup android:id="@id/esu" android:layout_width="wrap_content" android:layout_height="@dimen/e37" app:a8p="@dimen/e3v" app:a_5="parent" app:a_u="parent" app:a_y="parent">
+            <miuix.visual.check.VisualCheckBox android:gravity="center" android:id="@id/wm_icon_off" android:focusable="true" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/e37" android:layout_height="@dimen/e37">
+                <miuix.visual.check.BorderLayout android:gravity="center" android:focusable="false" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/e2t" android:layout_height="@dimen/e2t" app:pl="@drawable/preference_wm_visual_check_border_oval">
+                    <androidx.constraintlayout.widget.ConstraintLayout android:background="@drawable/bg_wm_image_off" android:layout_width="@dimen/e3_" android:layout_height="@dimen/e3_">
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wm_image_off_view" android:contentDescription="@string/gq1" app:a_5="parent" app:a_a="parent" app:a_u="parent" app:a_y="parent" />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+                </miuix.visual.check.BorderLayout>
+            </miuix.visual.check.VisualCheckBox>
+            <miuix.visual.check.VisualCheckBox android:gravity="center" android:id="@id/wm_icon_default" android:focusable="true" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/e37" android:layout_height="@dimen/e37">
+                <miuix.visual.check.BorderLayout android:gravity="center" android:focusable="false" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/e2t" android:layout_height="@dimen/e2t" app:pl="@drawable/preference_wm_visual_check_border_oval">
+                    <ImageView android:id="@id/default_icon_iv" android:layout_width="@dimen/e3_" android:layout_height="@dimen/e3_" android:contentDescription="@string/gp6" app:a_5="parent" app:a_a="parent" app:a_u="parent" app:a_y="parent" />
+                </miuix.visual.check.BorderLayout>
+            </miuix.visual.check.VisualCheckBox>
+            <miuix.visual.check.VisualCheckBox android:gravity="center" android:id="@id/wm_icon_add" android:focusable="true" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/e37" android:layout_height="@dimen/e37">
+                <androidx.constraintlayout.widget.ConstraintLayout android:background="@drawable/bg_wm_image_off" android:layout_width="@dimen/e3_" android:layout_height="@dimen/e3_">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wm_image_add_view" android:contentDescription="@string/gor" app:a_5="parent" app:a_a="parent" app:a_u="parent" app:a_y="parent" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </miuix.visual.check.VisualCheckBox>
+        </miuix.visual.check.VisualCheckGroup>
+    </HorizontalScrollView>
+    <View android:id="@id/y7" android:background="@color/preference_watermark_edit_layout_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/e33" android:layout_marginTop="@dimen/e34" app:a_5="parent" app:a_x="@id/scrollView" />
+</androidx.constraintlayout.widget.ConstraintLayout>

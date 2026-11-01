@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Fokus qilindi. %d ta yuz aniqlandi</item>
+        <item quantity="other">Fokus qilindi. %d ta yuz aniqlandi</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d ta seriya rasmi</item>
+        <item quantity="other">%d ta seriya rasmi</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Interval: %d soniya</item>
+        <item quantity="other">Interval: %d soniya</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Davomiylik: %d daqiqa</item>
+        <item quantity="other">Davomiylik: %d daqiqa</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Tezlik: %dX</item>
+        <item quantity="other">Tezlik: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Davomiylik: %d soniya</item>
+        <item quantity="other">Davomiylik: %d soniya</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d belgi kiritildi.</item>
+        <item quantity="other">%d belgi kiritildi.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">%d ta belgigacha kiriting.</item>
+        <item quantity="other">%d ta belgigacha kiriting.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Siz bitta tarmoqqa %d tagacha kamerani ulashingiz mumkin</item>
+        <item quantity="other">Siz bitta tarmoqqa %d tagacha kamerani ulashingiz mumkin</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Siz bitta tarmoqqa %d tagacha monitorni ulashingiz mumkin</item>
+        <item quantity="other">Siz bitta tarmoqqa %d tagacha monitorni ulashingiz mumkin</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Bir vaqtning o‘zida %d ta klonni yaratishingiz mumkin.</item>
+        <item quantity="other">Bir vaqtning o‘zida %d ta klonni yaratishingiz mumkin.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Kameraga bog‘lab bo‘lmadi.&lt;br>Ushbu ilova &lt;font color=#FFCE16>&lt;b>%1$d son ichida yopiladi&lt;/b>&lt;/font>. Undan so‘ng, birozdan so‘ng takrorlang.</Data></item>
+        <item quantity="other"><Data>Kameraga bog‘lab bo‘lmadi.&lt;br>Ushbu ilova &lt;font color=#FFCE16>&lt;b>%1$d son ichida yopiladi&lt;/b>&lt;/font>. Undan so‘ng, birozdan so‘ng takrorlang.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Ushbu qurilma judo issue.&lt;br>Ushbu qurilma &lt;font color=#FFCE16>&lt;b>%1$d son ichida yopiladi&lt;/b>&lt;/font>. Joriy taraqqiyot avtomatik tarzda saqlandi.</Data></item>
+        <item quantity="other"><Data>Ushbu qurilma judo issue.&lt;br>Ushbu qurilma &lt;font color=#FFCE16>&lt;b>%1$d son ichida yopiladi&lt;/b>&lt;/font>. Joriy taraqqiyot avtomatik tarzda saqlandi.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Siz foydalanayotgan kamera versiyasi qurilmangiz modeliga mos kelmaydi.&lt;br>Ilova &lt;font color=#FFCE16>&lt;b>%1$d &lt;/b>&lt;/font>sekunddan keyin yopiladi. Kamera yangilanishlarini o‘chirib tashlang va qayta urinib ko‘ring.</Data></item>
+        <item quantity="other"><Data>Siz foydalanayotgan Kamera versiyasi qurilmangiz modeliga mos kelmaydi.&lt;br>Ilova &lt;font color=#FFCE16>&lt;b>%1$d &lt;/b>&lt;/font> sekundda yopiladi. Uninstall Camera updates and try again.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d daq</item>
+        <item quantity="other">%1$d daq</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d son</item>
+        <item quantity="other">%1$d son</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">(%1$d sec)Taymer yoqilgan. Rasmlar ushbu qurilmaga o‘tkaziladi.</item>
+        <item quantity="other">(%1$d secs) Taymer yoqilgan. Rasmlar ushbu qurilmaga o‘tkaziladi.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d ta qarolama o‘chirilsinmi?</item>
+        <item quantity="other">%1$d ta qarolama o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">"Oldindan oʻrnatilgan %d tagacha qo'shing"</item>
+        <item quantity="other">"Oldindan o'rnatilgan %d tagacha qo'shing"</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">"Oldindan o'rnatilgan %d ta o‘chirilsinmi?"</item>
+        <item quantity="other">"Oldindan o'rnatilgan %d ta o‘chirilsinmi?"</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">"Oldindan o'rnatilgan %d ta oʻchirildi"</item>
+        <item quantity="other">"Oldindan o'rnatilgan %d ta oʻchirildi"</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">"O'rnatilgan %d ta import qilindi"</item>
+        <item quantity="other">"O'rnatilgan %d ta import qilindi"</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d son</item>
+        <item quantity="other">%d son</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s daq</item>
+        <item quantity="other">%1$s daq</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%d soniya yozish</item>
+        <item quantity="other">%d soniya yozish</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Faqat %d ta odamni videolarini muzlatishingiz mumkin.</item>
+        <item quantity="other">Faqat %d ta odamni videolarini muzlatishingiz mumkin.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s ta rasm</item>
+        <item quantity="other">%1$s ta rasm</item>
+    </plurals>
+</resources>

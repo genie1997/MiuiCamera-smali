@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">فوکس کیا گیا۔ %d چہرہ ملا</item>
+        <item quantity="other">فوکس کیا گیا۔ %d چہرے ملے</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">برسٹ شاٹ میں %d فوٹو</item>
+        <item quantity="other">برسٹ شاٹ میں %d فوٹوز</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">وقفہ: %d سیکنڈ</item>
+        <item quantity="other">وقفہ: %d سیکنڈز</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">مدت %d منٹ</item>
+        <item quantity="other">مدت %d منٹ</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">رفتار: %dX</item>
+        <item quantity="other">رفتار: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">دورانیہ: %d سیکنڈ</item>
+        <item quantity="other">دورانیہ: %d سیکنڈ</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d حرف داخل کیا گیا</item>
+        <item quantity="other">%d حرف داخل کیے گئے</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">%d حرف تک درج کریں۔</item>
+        <item quantity="other">%d حروف تک درج کریں۔</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">آپ ایک ہی نیٹ ورک سے %d کیمرہ تک مربوط کر سکتے ہیں</item>
+        <item quantity="other">آپ ایک ہی نیٹ ورک سے %d کیمرے تک مربوط کر سکتے ہیں</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">آپ ایک ہی نیٹ ورک سے %d مانیٹر تک مربوط کر سکتے ہیں</item>
+        <item quantity="other">آپ ایک ہی نیٹ ورک سے %d مانیٹرز تک مربوط کر سکتے ہیں</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">آپ ایک بار میں %d کلون تک بنا سکتے ہیں۔</item>
+        <item quantity="other">آپ ایک بار میں %d کلون تک بنا سکتے ہیں۔</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>کیمرہ سے مربوط نہیں کر سکتے۔&lt;br>یہ ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ اس کے بعد, ایک یا دو منٹ انتظار کریں اور دوبارہ کوشش کریں۔</Data></item>
+        <item quantity="other"><Data>کیمرہ سے مربوط نہیں کر سکتے۔&lt;br>یہ ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ اس کے بعد, ایک یا دو منٹ انتظار کریں اور دوبارہ کوشش کریں۔</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>یہ ڈیوائس ابھی بہت گرم ہے۔&lt;br>ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ موجودہ پیش رفت خودکار طور پر محفوظ ہو گئی تھی۔</Data></item>
+        <item quantity="other"><Data>یہ ڈیوائس ابھی بہت گرم ہے۔&lt;br>ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ موجودہ پیش رفت خودکار طور پر محفوظ ہو گئی تھی۔</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>جو کیمرہ ورژن آپ استعمال کر رہے ہیں وہ آپ کے ڈیوائس کے ساتھ موافق نہیں ہے۔&lt;br>ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ کیمرہ اپ ڈیٹس ان انسٹال کریں اور دوبارہ کوشش کریں۔</Data></item>
+        <item quantity="other"><Data>جو کیمرہ ورژن آپ استعمال کر رہے ہیں وہ آپ کے ڈیوائس کے ساتھ موافق نہیں ہے۔&lt;br>ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ کیمرہ اپ ڈیٹس ان انسٹال کریں اور دوبارہ کوشش کریں۔</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d منٹ</item>
+        <item quantity="other">%1$d منٹ</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">‎%1$d سیکنڈ</item>
+        <item quantity="other">‎%1$d سیکنڈ</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">ٹائمر آن کیا گیا (%1$d سیکنڈ)۔ فوٹوز اس ڈیوائس پر منتقل کی جائیں گی۔</item>
+        <item quantity="other">ٹائمر آن کیا گیا (%1$d سیکنڈ)۔ فوٹوز اس ڈیوائس پر منتقل کی جائیں گی۔</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d ڈرافٹ حذف کریں؟</item>
+        <item quantity="other">%1$d ڈرافٹس حذف کریں؟</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">%d پری سیٹ تک شامل کریں</item>
+        <item quantity="other">%d پری سیٹ تک شامل کریں</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d پری سیٹ ابھی حذف کریں؟</item>
+        <item quantity="other">%d پری سیٹ ابھی حذف کریں؟</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d پری سیٹ حذف کیا گیا</item>
+        <item quantity="other">%d پری سیٹ حذف کیے گئے</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d پری سیٹ امپورٹ کیا گیا</item>
+        <item quantity="other">%d پری سیٹ امپورٹ کیے گئے</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dسیکنڈ</item>
+        <item quantity="other">%dسیکنڈ</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s منٹ</item>
+        <item quantity="other">%1$s منٹ</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%d سیکنڈ ریکارڈ کریں</item>
+        <item quantity="other">%d سیکنڈز ریکارڈ کریں</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">آپ وقت منجمد ویڈیوز کو صرف %d موضوع کے ساتھ شوٹ کر سکتے ہیں۔</item>
+        <item quantity="other">آپ وقت منجمد ویڈیوز کو صرف %d موضوعات کے ساتھ شوٹ کر سکتے ہیں۔</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s فوٹو</item>
+        <item quantity="other">%1$s فوٹوز</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/container2" android:layout_width="match_parent" android:layout_height="@dimen/byg"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.ui.TextureVideoView android:id="@id/playerView" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent" />
+    <com.android.camera.litegallery.GalleryView android:id="@id/cover" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" />
+    <ImageButton android:layout_gravity="center" android:id="@id/playerButton" android:background="@color/transparent" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gallery2_play_button" />
+    <ImageButton android:layout_gravity="start|bottom" android:id="@id/pauseButton" android:background="@color/transparent" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/byd" android:src="@drawable/gallery2_pause" android:layout_marginStart="@dimen/byf" />
+    <ImageButton android:layout_gravity="end|bottom" android:id="@id/muteButton" android:background="@color/transparent" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/byd" android:src="@drawable/gallery2_mute" android:layout_marginEnd="@dimen/byf" />
+    <TextView android:layout_gravity="center|bottom" android:id="@id/timeLine" android:background="@drawable/time_line_background" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/byd" android:paddingHorizontal="@dimen/byl" android:paddingVertical="@dimen/bym" />
+    <miuix.miuixbasewidget.widget.HyperProgressSeekBar android:layout_gravity="bottom" android:id="@id/seekbar" android:focusable="true" android:visibility="invisible" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/byi" android:layout_marginHorizontal="@dimen/bye" style="@style/htc" />
+</FrameLayout>

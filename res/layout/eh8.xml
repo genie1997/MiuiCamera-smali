@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/more_mode_container" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.BlurBackgroundView android:id="@id/more_mode_bg" android:layout_width="match_parent" android:layout_height="match_parent" />
+    <FrameLayout android:layout_gravity="top" android:id="@id/more_mode_header" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.android.camera.fragment.mode.more.EditDragLayout android:id="@id/more_mode_drag_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+        <miuix.springback.view.SpringBackLayout android:layout_gravity="center_horizontal" android:id="@id/mode_edit_list_container" android:paddingTop="@dimen/d1k" android:clipToPadding="true" android:layout_width="wrap_content" android:layout_height="wrap_content" app:apr="@id/mode_edit_list">
+            <com.android.camera.fragment.mode.more.DragMoreModeRecycleView android:layout_gravity="center|top" android:id="@id/mode_edit_list" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:overScrollMode="never" />
+        </miuix.springback.view.SpringBackLayout>
+        <com.android.camera.fragment.mode.more.DragCommonModeRecycleView android:id="@id/common_mode_edit_list_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:accessibilityTraversalAfter="@id/mode_edit_list" />
+    </com.android.camera.fragment.mode.more.EditDragLayout>
+    <com.android.camera2.compat.theme.custom.cv.more.DragLayoutBar android:layout_gravity="center_horizontal" android:id="@id/drag_bar" android:layout_width="@dimen/d1o" android:layout_height="@dimen/d1m" android:layout_marginTop="@dimen/d1n" />
+</FrameLayout>

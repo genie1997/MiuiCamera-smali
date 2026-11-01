@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Összpontosítva. %d arc felismerve</item>
+        <item quantity="other">Összpontosítva. %d arc felismerve</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d fénykép egy sorozatfelvételben</item>
+        <item quantity="other">%d fénykép egy sorozatfelvételben</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Időtartam: %d másodperc</item>
+        <item quantity="other">Időtartam: %d másodperc</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Időtartam: %d perc</item>
+        <item quantity="other">Időtartam: %d perc</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Sebesség: %dX</item>
+        <item quantity="other">Speed: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Időtartam: %d másodperc</item>
+        <item quantity="other">Időtartam: %d másodperc</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d karaktert írt be.</item>
+        <item quantity="other">%d karaktert írt be.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Legfeljebb %d karaktert írjon be.</item>
+        <item quantity="other">Legfeljebb %d karaktert írjon be.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Maximálisan %d kamerát csatlakoztathat ugyanahhoz a hálózathoz</item>
+        <item quantity="other">Maximálisan %d kamerát csatlakoztathat ugyanahhoz a hálózathoz</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Maximálisan %d monitort csatlakoztathat ugyanahhoz a hálózathoz</item>
+        <item quantity="other">Maximálisan %d monitort csatlakoztathat ugyanahhoz a hálózathoz</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Maximálisan %d klónt hozhat létre egyszerre.</item>
+        <item quantity="other">Maximálisan %d klónt hozhat létre egyszerre.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Nem lehet csatlakozni a kamerához.&lt;br>Ez az alkalmazás &lt;font color=#FFCE16>&lt;b>%1$d másodpercen belül bezáródik&lt;/b>&lt;/font>. Ezután várjon egy vagy két percet, és próbálkozzon újra.</Data></item>
+        <item quantity="other"><Data>Nem lehet csatlakozni a kamerához.&lt;br>Ez az alkalmazás &lt;font color=#FFCE16>&lt;b>%1$d másodpercen belül bezáródik&lt;/b>&lt;/font>. Ezután várjon egy vagy két percet, és próbálkozzon újra.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Ez a készülék túl forró most.&lt;br>Az alkalmazás &lt;font color=#FFCE16>&lt;b>%1$d másodpercen belül bezáródik&lt;/b>&lt;/font>. A jelenlegi előrehaladás automatikusan el lett mentve.</Data></item>
+        <item quantity="other"><Data>Ez a készülék túl forró most.&lt;br>The app will be closed in &lt;font color=#FFCE16>&lt;b>%1$d másodpercen belül bezáródik&lt;/b>&lt;/font>. A jelenlegi előrehaladás automatikusan el lett mentve.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Az Ön által használt Kamera verziója nem kompatibilis az Ön készülékének a típusával.&lt;br>Az alkalmazás &lt;font color=#FFCE16>&lt;b>%1$d másodperc&lt;/b>&lt;/font> múlva bezáródik. Távolítsa el a Kamera frissítéseit, és próbálja újra.</Data></item>
+        <item quantity="other"><Data>Az Ön által használt Kamera verziója nem kompatibilis az Ön készülékének a típusával.&lt;br>Az alkalmazás &lt;font color=#FFCE16>&lt;b>%1$d másodperc&lt;/b>&lt;/font> múlva bezáródik. Távolítsa el a Kamera frissítéseit, és próbálja újra.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Előretekerés %d másodperccel</item>
+        <item quantity="other">Előretekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Visszatekerés %d másodperccel</item>
+        <item quantity="other">Visszatekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d perc</item>
+        <item quantity="other">%1$d perc</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d mp</item>
+        <item quantity="other">%1$d mp</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Időzítő bekapcsolva (%1$d mp). A fényképek átkerülnek erre a készülékre.</item>
+        <item quantity="other">Időzítő bekapcsolva (%1$d mp). A fényképek átkerülnek erre a készülékre.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Törli a(z) %1$d piszkozatot?</item>
+        <item quantity="other">Törli a(z) %1$d piszkozazokat?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Akár %d előbeállítás hozzáadása</item>
+        <item quantity="other">Akár %d előbeállítás hozzáadása</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d előbeállítás törlése most?</item>
+        <item quantity="other">%d előbeállítás törlése most?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d előbeállítás törölve</item>
+        <item quantity="other">%d előbeállítás törölve</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d előbeállítás importálva</item>
+        <item quantity="other">%d előbeállítás importálva</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d új értesítés</item>
+        <item quantity="other">%d új értesítés</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d mp</item>
+        <item quantity="other">%d mp</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s perc</item>
+        <item quantity="other">%1$s perc</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%d másodperc rögzítése</item>
+        <item quantity="other">%d másodperc rögzítése</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Csak %d tárggyal készíthet time freeze videókat.</item>
+        <item quantity="other">Maximum %d tárggyal készíthet time freeze videókat.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s kép</item>
+        <item quantity="other">%1$s kép</item>
+    </plurals>
+</resources>

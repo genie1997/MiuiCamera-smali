@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="hs_" parent="@style/hq9">
+        <item name="android:textAppearance">@style/hdr</item>
+        <item name="android:textColor">?android:editTextColor</item>
+        <item name="android:textColorHint">?zm</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:background">@drawable/miuix_appcompat_edit_text_bg_light</item>
+        <item name="android:paddingLeft">@dimen/cpw</item>
+        <item name="android:paddingRight">@dimen/cpw</item>
+        <item name="android:minHeight">@dimen/cpv</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSelectHandleLeft">@drawable/miuix_appcompat_text_select_handle_left_light</item>
+        <item name="android:textSelectHandleRight">@drawable/miuix_appcompat_text_select_handle_right_light</item>
+        <item name="android:textSelectHandle">@drawable/miuix_appcompat_text_select_handle_middle_light</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="b10">@color/miuix_appcompat_handle_and_cursor_color_light</item>
+    </style>
+</resources>

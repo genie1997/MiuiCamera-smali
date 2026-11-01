@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@id/manual_parameter_layout" android:layout_width="@dimen/chg" android:layout_height="@dimen/chh"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/manual_parameter_divider" android:layout_width="@dimen/chf" android:layout_height="@dimen/chy" android:src="@drawable/manually_paramer_recycler_divider_horizontal" />
+</LinearLayout>

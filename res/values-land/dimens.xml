@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b85">48.0dp</dimen>
+    <dimen name="cjk">450.0dp</dimen>
+    <dimen name="cjl">600.0dp</dimen>
+    <dimen name="clh">10.0dp</dimen>
+    <dimen name="cli">10.0dp</dimen>
+    <dimen name="d1x">24.0dp</dimen>
+    <dimen name="d20">24.0dp</dimen>
+    <dimen name="d39">20.0dp</dimen>
+    <dimen name="d3a">4.0dp</dimen>
+    <dimen name="d3e">96.0dp</dimen>
+    <dimen name="d3h">0.0dp</dimen>
+    <dimen name="d3i">0.0dp</dimen>
+    <dimen name="d3j">104.0dp</dimen>
+    <dimen name="d3r">68.0dp</dimen>
+    <dimen name="d3s">64.0dp</dimen>
+    <dimen name="d3t">32.0dp</dimen>
+    <dimen name="d3u">24.0dp</dimen>
+    <dimen name="d3v">32.0dp</dimen>
+</resources>

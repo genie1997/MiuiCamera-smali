@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etz">
+        <item quantity="one">%d секунд алдыга түрдүрүү</item>
+        <item quantity="other">%d секунд алдыга түрдүрүү</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">%d секунд артка түрдүрүү</item>
+        <item quantity="other">%d секунд артка түрдүрүү</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d жаңы билдирме</item>
+        <item quantity="other">%d жаңы билдирме</item>
+    </plurals>
+</resources>

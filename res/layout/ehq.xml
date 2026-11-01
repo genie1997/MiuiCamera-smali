@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/polaroid_edit_container" android:clipChildren="false" android:layout_width="@dimen/dco" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.viewpager2.widget.ViewPager2 android:id="@id/polaroid_edit_viewPager" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/edit_menu_indicator" android:layout_width="match_parent" android:layout_height="@dimen/dcn" android:layout_marginBottom="@dimen/dcs">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/edit_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/polaroid_edit_cancel" android:contentDescription="@string/flj" android:layout_marginStart="@dimen/dc_" />
+        <TextView android:textSize="@dimen/dc8" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/text_tab_filter" android:layout_width="@dimen/dc9" android:layout_height="@dimen/dc7" android:text="@string/g_m" android:layout_marginStart="@dimen/dcp" />
+        <TextView android:textSize="@dimen/dc8" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/text_tab_watermark" android:layout_width="@dimen/dc9" android:layout_height="@dimen/dc7" android:text="@string/g_r" />
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/edit_done" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/polaroid_edit_done" android:contentDescription="@string/g36" android:layout_marginStart="@dimen/dca" />
+    </LinearLayout>
+</LinearLayout>

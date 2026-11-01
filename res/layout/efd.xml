@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/fnumber_layout_parent" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/beauty_lens_list_stub" android:layout="@layout/eat" android:inflatedId="@id/eat" android:layout_width="match_parent" android:layout_height="@dimen/bxj" />
+    <ViewStub android:id="@id/cv_lens_list_stub" android:layout="@layout/ebo" android:inflatedId="@id/ebo" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/adjust_parent" android:inflatedId="@id/adjust_parent_layout" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>

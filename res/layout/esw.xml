@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/esw" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/rl_top_navigation_layout" android:layout_width="match_parent" android:layout_height="@dimen/dg5" android:layout_marginLeft="@dimen/dqk" android:layout_marginRight="@dimen/dqk">
+        <ImageView android:gravity="center" android:id="@id/iv_top_extra_menu_back" android:layout_width="@dimen/dsw" android:layout_height="@dimen/dsw" android:src="@drawable/ic_vector_config_back" android:layout_centerVertical="true" android:contentDescription="@string/fzq" />
+        <TextView android:textSize="@dimen/dsy" android:textColor="@color/white" android:id="@id/atv_top_extra_menu_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/goq" android:layout_centerInParent="true" android:contentDescription="@string/goq" android:contextClickable="true" />
+        <ImageView android:gravity="center" android:id="@id/esq" android:visibility="gone" android:layout_width="@dimen/dg4" android:layout_height="@dimen/dg4" android:src="@drawable/ic_parameter_description_entrance_normal" android:layout_centerVertical="true" android:contentDescription="@string/h3u" android:alpha="0.8" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center_horizontal" android:id="@id/config_extra_watermark_switch_recyclerview" android:paddingLeft="@dimen/ds_" android:paddingRight="@dimen/ds_" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dsx" android:overScrollMode="never" />
+    <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center_horizontal" android:id="@id/config_top_extra_menu_recyclerview" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:overScrollMode="never" android:paddingStart="@dimen/dsb" android:paddingEnd="@dimen/dsa" />
+    <include android:id="@id/layout_watermark_switch_close" android:visibility="gone" layout="@layout/ebb" />
+    <include android:id="@id/layout_watermark_switch_standard" android:visibility="gone" layout="@layout/ebf" />
+    <include android:id="@id/layout_watermark_switch_leica" android:visibility="gone" layout="@layout/ebd" />
+    <include android:id="@id/layout_watermark_switch_westcoast" android:visibility="gone" layout="@layout/ebg" />
+</LinearLayout>

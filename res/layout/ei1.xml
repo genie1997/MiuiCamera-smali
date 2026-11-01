@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/softlight_content" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/dmk" android:textColor="@color/white" android:layout_gravity="center|bottom" android:id="@id/softlight_tip" android:background="@android:color/transparent" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:shadowColor="#80000000" android:shadowRadius="1.0" />
+    <com.android.camera.ui.NoScrollViewPager android:layout_gravity="center|bottom" android:id="@id/softlight_viewPager" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.android.camera.ui.TopAlertSlideSwitchButton android:layout_gravity="center_horizontal" android:id="@id/softlight_mode" android:layout_width="wrap_content" android:layout_height="@dimen/dnm" android:layout_marginTop="@dimen/dnn" android:layout_marginBottom="@dimen/dnn" app:q9="@dimen/dp9" app:a7c="#ffffff" app:a7z="true" app:b1o="@dimen/dpe" />
+</LinearLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Imezingatia. Uso %d umetambuliwa</item>
+        <item quantity="other">Imezingatia. Nyuso %d zimetambuliwa</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">Picha %d ilipigwa kwa picha ya mfululizo</item>
+        <item quantity="other">Picha %d zilipigwa kwa picha ya mfululizo</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Kipindi cha muda: sekunde %d</item>
+        <item quantity="other">Kipindi cha muda: sekunde %d</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Muda: dakika %d</item>
+        <item quantity="other">Muda: dakika %d</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Kasi: %dX</item>
+        <item quantity="other">Kasi: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Muda: sekunde %d</item>
+        <item quantity="other">Muda: sekunde %d</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Weka herufi %d.</item>
+        <item quantity="other">Weka herufi %d.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Weka hadi herufi %d.</item>
+        <item quantity="other">Weka hadi herufi %d.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Unaweza kuunganisha hadi kamera %d kwenye mtandao uleule</item>
+        <item quantity="other">Unaweza kuunganisha hadi kamera %d kwenye mtandao uleule</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Unaweza kuunganisha hadi monita %d kwenye mtandao uleule</item>
+        <item quantity="other">Unaweza kuunganisha hadi monita %d kwenye mtandao uleule</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Unaweza kuunda hadi pachisho %d kwa wakati mmoja.</item>
+        <item quantity="other">Unaweza kuunda hadi pachisho %d kwa wakati mmoja.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Haiwezi kuunganisha kwenye kamera.&lt;br>Programu hii itafungwa ndani ya sekunde &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>. Baada ya muda huo, subiri dakika moja au mbili na ujaribu tena.</Data></item>
+        <item quantity="other"><Data>Haiwezi kuunganisha kwenye kamera.&lt;br>Programu hii itafungwa ndani ya sekunde&lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>. Baada ya muda huo, subiri dakika moja au mbili na ujaribu tena.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Kifaa hiki kina joto sana sasa.&lt;br>Programu itafungwa katika &lt;font color=#FFCE16>&lt;b>%1$d sekunde&lt;/b>&lt;/font>. Hatua ya sasa ilihifadhiwa kiotomatiki.</Data></item>
+        <item quantity="other"><Data>Kifaa hiki kina joto sana sasa.&lt;br>Programu itafungwa katika &lt;font color=#FFCE16>&lt;b>%1$d sekunde&lt;/b>&lt;/font>. Hatua ya sasa ilihifadhiwa kiotomatiki.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Toleo la kamera unalotumia halitangamani na modeli ya kifaa chako.&lt;br>Programu itafunga ndani ya &lt;font color=#FFCE16>&lt;b> sekunde %1$d&lt;/b>&lt;/font>. Sanidua visasisho vya Kamera na ujaribu tena.</Data></item>
+        <item quantity="other"><Data>Toleo la kamera unalotumia halitangamani na modeli ya kifaa chako.&lt;br>Programu itafunga ndani ya &lt;font color=#FFCE16>&lt;b> sekunde %1$d&lt;/b>&lt;/font>. Sanidua visasisho vya Kamera na ujaribu tena.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Sogeza mbele haraka kwa sekunde %d</item>
+        <item quantity="other">Sogeza mbele haraka kwa sekunde %d</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Rudisha nyuma kwa sekunde %d</item>
+        <item quantity="other">Rudisha nyuma kwa sekunde %d</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">dakika %1$d</item>
+        <item quantity="other">dakika %1$d</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">sekunde %1$d</item>
+        <item quantity="other">sekunde %1$d</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Imewasha kipima muda (sekunde %1$d sec). Picha zitahamishwa kwenye kifaa hiki.</item>
+        <item quantity="other">Imewasha kipima muda (sekunde %1$d sec). Picha zitahamishwa kwenye kifaa hiki.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Ungependa kufuta mwandiko%1$d?</item>
+        <item quantity="other">Ungependa kufuta mwandiko %1$d?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Ongeza hadi mpangilio %d uliowekwa mapema</item>
+        <item quantity="other">Ongeza hadi mipangilio %d iliyowekwa mapema</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Ungependa kufuta mpangilio %d uliowekwa mapema sasa?</item>
+        <item quantity="other">Ungependa kufuta mipangilio %d iliyowekwa mapema sasa?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Umefuta mpangilio %d uliowekwa mapema</item>
+        <item quantity="other">Umefuta mipangilio %d iliyowekwa mapema</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Umeleta mpangilio %d uliowekwa mapema</item>
+        <item quantity="other">Umeleta mipangilio %d iliyowekwa mapema</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">Arifa %d mpya</item>
+        <item quantity="other">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">Dakika %1$s</item>
+        <item quantity="other">Dakika %1$s</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Rekodi sekunde %d</item>
+        <item quantity="other">Rekodi sekunde %d</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Unaweza kuchukua video za kusimamisha muda pekee na mada ya %d .</item>
+        <item quantity="other">Unaweza kuchukua video za kusimamisha muda na hadi mada %d.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">Picha %1$s</item>
+        <item quantity="other">Picha %1$s</item>
+    </plurals>
+</resources>

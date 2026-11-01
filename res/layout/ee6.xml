@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/cinematic_dolly_panel_layout" android:layout_width="wrap_content" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/cinematic_dolly_operation_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/cinematic_dolly_operation_panel" android:paddingLeft="10.0dp" android:paddingTop="10.0dp" android:paddingRight="10.0dp" android:paddingBottom="10.0dp" android:visibility="gone" android:layout_width="@dimen/bi7" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/operate_scope" android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/bib" android:textColor="@color/white" android:gravity="center" android:id="@id/scope_value" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                <TextView android:textSize="@dimen/bia" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center" android:id="@id/scope_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bi9" android:text="@string/evv" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+            </LinearLayout>
+            <ImageView android:id="@id/cinematic_dolly_panel_divider" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/cinematic_dolly_panel_divider" android:rotation="90.0" android:importantForAccessibility="no" />
+            <LinearLayout android:orientation="vertical" android:id="@id/operate_speed" android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/bib" android:textColor="@color/white" android:gravity="center" android:id="@id/speed_value" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                <TextView android:textSize="@dimen/bia" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center" android:id="@id/speed_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bi9" android:text="@string/evw" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+            </LinearLayout>
+        </LinearLayout>
+        <FrameLayout android:layout_gravity="center" android:id="@id/scope_adjust_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="start|bottom" android:id="@id/scope_adjust_adverse_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_vector_cinematic_dolly_scope_adverse" android:scaleType="fitCenter" android:contentDescription="@string/evu" />
+            <com.android.camera.ui.HorizontalScopeZoomView android:id="@id/scope_adjust_view" android:layout_width="@dimen/d_t" android:layout_height="@dimen/bil" android:layout_marginTop="@dimen/bio" android:layout_marginBottom="@dimen/bio" app:a80="true" />
+        </FrameLayout>
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.android.camera.ui.ZoomViewMM android:gravity="center" android:layout_gravity="center" android:id="@id/speed_adjust_view" android:focusable="false" android:visibility="gone" android:layout_width="@dimen/d_t" android:layout_height="wrap_content" />
+        </FrameLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/bi_">
+        <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center_vertical" android:id="@id/cinematic_dolly_rv" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+</FrameLayout>

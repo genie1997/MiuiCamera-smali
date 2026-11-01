@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b9h">15.0sp</dimen>
+    <dimen name="ba_">1.5999756dp</dimen>
+    <dimen name="bcx">112.28598dp</dimen>
+    <dimen name="bcy">68.94699dp</dimen>
+    <dimen name="bd_">2.8569946dp</dimen>
+    <dimen name="biy">12.856995dp</dimen>
+    <dimen name="biz">10.28598dp</dimen>
+    <dimen name="but">45.679993dp</dimen>
+    <dimen name="c19">60.179993dp</dimen>
+    <dimen name="ddl">135.0dp</dimen>
+    <dimen name="dwb">25.139984dp</dimen>
+    <dimen name="e5d">14.47998dp</dimen>
+    <dimen name="e5f">15.0dp</dimen>
+    <dimen name="e60">3.8099976dp</dimen>
+</resources>

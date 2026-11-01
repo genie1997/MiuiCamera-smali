@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etz">
+        <item quantity="one">ເລື່ອນໄປໜ້າ %d ວິນາທີ</item>
+        <item quantity="other">ເລື່ອນໄປໜ້າ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">ຖອຍຫຼັງ %d ວິນາທີ</item>
+        <item quantity="other">ຖອຍຫຼັງ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    </plurals>
+</resources>

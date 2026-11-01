@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Fokuslandı. %d üz aşkarlandı</item>
+        <item quantity="other">Fokuslandı. %d üz aşkarlandı</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">ardıcıl çəkilişdə %d şəkil</item>
+        <item quantity="other">ardıcıl çəkilişdə %d şəkil</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">İnterval: %d saniyə</item>
+        <item quantity="other">İnterval: %d saniyə</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Müddət: %d dəqiqə</item>
+        <item quantity="other">Müddət: %d dəqiqə</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Sürət: %dX</item>
+        <item quantity="other">Sürət: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Müddət: %d saniyə</item>
+        <item quantity="other">Müddət: %d saniyə</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d simvol daxil edildi.</item>
+        <item quantity="other">%d simvol daxil edildi.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">%d simvola qədər daxil edin.</item>
+        <item quantity="other">%d simvola qədər daxil edin.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Siz eyni şəbəkəyə %d-dək kamera qoşa bilərsiniz</item>
+        <item quantity="other">Siz eyni şəbəkəyə %d-dək kamera qoşa bilərsiniz</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Siz eyni şəbəkəyə %d-dək monitor qoşa bilərsiniz</item>
+        <item quantity="other">Siz eyni şəbəkəyə %d-dək monitor qoşa bilərsiniz</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Bir dəfədə %d klona qədər yarada bilərsiniz.</item>
+        <item quantity="other">Bir dəfədə %d klona qədər yarada bilərsiniz.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Kameraya qoşula bilmir.&lt;br>Bu tətbiq &lt;font color=#FFCE16>&lt;b>%1$d san ərzində bağlanacaq&lt;/b>&lt;/font>. Bundan sonra bir-iki dəqiqə gözləyin və yenidən cəhd edin.</Data></item>
+        <item quantity="other"><Data>Kameraya qoşula bilmir.&lt;br>Bu tətbiq &lt;font color=#FFCE16>&lt;b>%1$d san ərzində bağlanacaq&lt;/b>&lt;/font>. Bundan sonra bir-iki dəqiqə gözləyin və yenidən cəhd edin.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Cihaz indi çox istidir.&lt;br>Tətbiq &lt;font color=#FFCE16>&lt;b>%1$d san ərizndə bağlanacaq&lt;/b>&lt;/font>. Cari tərəqqi avtomatik olaraq qeyd edildi.</Data></item>
+        <item quantity="other"><Data>Cihaz indi çox istidir.&lt;br>Tətbiq &lt;font color=#FFCE16>&lt;b>%1$d san ərizndə bağlanacaq&lt;/b>&lt;/font>. Cari tərəqqi avtomatik olaraq qeyd edildi.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>İstifadə etdiyiniz Kamera versiyası cihazınızın modelinə uyğun deyil.&lt;br>Tətbiq &lt;font color=#FFCE16>&lt;b>%1$d san ərzində bağlanacaq&lt;/b>&lt;/font>. Kamera yeniləmələrini silin və yenidən cəhd edin.</Data></item>
+        <item quantity="other"><Data>İstifadə etdiyiniz Kamera versiyası cihazınızın modelinə uyğun deyil.&lt;br>Tətbiq &lt;font color=#FFCE16>&lt;b>%1$d san ərzində bağlanacaq&lt;/b>&lt;/font>. Kamera yeniləmələrini silin və yenidən cəhd edin.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d dəq</item>
+        <item quantity="other">%1$d dəq</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d san</item>
+        <item quantity="other">%1$d san</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Taymer (%1$d san) açıldı. Şəkillər bu cihaza köçürüləcək.</item>
+        <item quantity="other">Taymer (%1$d san) açıldı. Şəkillər bu cihaza köçürüləcək.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d qaralama silinsin?</item>
+        <item quantity="other">%1$d qaralama silinsin?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">%d qədər ön tənzimləmə əlavə edin</item>
+        <item quantity="other">%d qədər ön tənzimləmə əlavə edin</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d əvvəlcədən təyin edilmiş indi silinsin?</item>
+        <item quantity="other">%d əvvəlcədən təyin edilmiş indi silinsin?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d əvvəlcədən təyin edilmiş silindi</item>
+        <item quantity="other">%d əvvəlcədən təyin edilmiş silindi</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d əvvəlcədən təyin edilmiş idxal olundu</item>
+        <item quantity="other">%d əvvəlcədən təyin edilmiş idxal olundu</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s dəq</item>
+        <item quantity="other">%1$s dəq</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%dsaniyə yaz</item>
+        <item quantity="other">%dsaniyə yaz</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Zaman dondurma videolarını yalnız%dmövzu ilə çəkə bilərsiniz</item>
+        <item quantity="other">Vaxt dondurma videolarını yalnız %d mövzu ilə çəkə bilərsiniz.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s şəkil</item>
+        <item quantity="other">%1$s şəkil</item>
+    </plurals>
+</resources>

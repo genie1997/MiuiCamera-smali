@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center|top" android:id="@id/filter_cv_frame_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.android.camera.ui.EdgeSpringBackLayout android:id="@id/filter_spring_layout" android:layout_width="match_parent" android:layout_height="wrap_content" app:zg="left" app:zh="100.0dp" app:apn="horizontal" app:apr="@id/effect_list">
+            <TextView android:id="@id/filter_title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.android.camera2.compat.theme.custom.cv.FilterSelectViewCV android:id="@id/effect_list" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        </com.android.camera.ui.EdgeSpringBackLayout>
+        <include android:layout_gravity="start" android:id="@id/filter_original" android:layout_width="@dimen/c4s" android:layout_height="wrap_content" android:layout_marginStart="6.0dp" android:layout_marginEnd="6.0dp" layout="@layout/ed2" />
+        <ImageView android:layout_gravity="center" android:id="@id/effect_item_selected_indicator" android:visibility="visible" android:layout_width="@dimen/dhv" android:layout_height="@dimen/dhv" android:src="@drawable/effect_filter_item_selector" android:contentDescription="@null" app:aol="@dimen/di2" />
+    </FrameLayout>
+    <com.android.camera.ui.CombineSlideView android:layout_gravity="center|bottom" android:id="@id/beauty_slide_combineslideview" android:layout_width="match_parent" android:layout_height="@dimen/dm9" />
+</FrameLayout>

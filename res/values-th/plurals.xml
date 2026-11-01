@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="other">โฟกัสแล้ว ตรวจพบ %d ใบหน้า</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="other">%d ภาพในภาพถ่ายต่อเนื่อง</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="other">ช่วงเวลา: %d วินาที</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="other">ระยะเวลา: %d นาที</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="other">ความเร็ว: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="other">ระยะเวลา: %d วินาที</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="other">ป้อนแล้ว %d อักขระ</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="other">ป้อนไม่เกิน %d อักขระ</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="other">คุณสามารถเชื่อมต่อได้ถึง %d กล้องกับเครือข่ายเดียวกัน</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="other">คุณสามารถเชื่อมต่อได้ถึง %d มอนิเตอร์กับเครือข่ายเดียวกัน</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="other">คุณสามารถสร้างได้ถึง %d การโคลนในแต่ละครั้ง</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="other"><Data>ไม่สามารถเชื่อมต่อกับกล้องได้&lt;br>แอปนี้จะถูกปิดใน &lt;font color=#FFCE16>&lt;b>%1$d วินาที&lt;/b>&lt;/font> หลังจากนี้ โปรดรอสักครู่แล้วลองอีกครั้ง</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="other"><Data>อุปกรณ์นี้ร้อนเกินไปในขณะนี้&lt;br>แอปจะถูกปิดใน &lt;font color=#FFCE16>&lt;b>%1$d วินาที&lt;/b>&lt;/font> ความคืบหน้าปัจจุบันถูกบันทึกโดยอัตโนมัติ</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="other"><Data>รุ่นของกล้องที่คุณใช้ไม่รองรับรุ่นอุปกรณ์ของคุณ&lt;br>แอปจะปิดใน &lt;font color=#FFCE16>&lt;b>%1$d วิ&lt;/b>&lt;/font> ถอนการติดตั้งการอัปเดตกล้องแล้วลองอีกครั้ง</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+        <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">กรอกลับ %d วินาที</item>
+        <item quantity="other">กรอกลับ %d วินาที</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="other">%1$d วินาที</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="other">เปิดตัวจับเวลา (%1$d วินาที) รูปภาพจะถูกถ่ายโอนไปยังอุปกรณ์นี้</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="other">ลบ %1$d ฉบับร่าง?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="other">เพิ่มค่าที่ตั้งไว้ล่วงหน้าถึง %d รายการ</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="other">ลบ %d พรีเซ็ตเลยไหม?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="other">ลบแล้ว %d พรีเซ็ต</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="other">นำเข้าแล้ว %d พรีเซ็ต</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="other">%d วิ</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="other">%1$s นาที</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="other">บันทึก %d วินาที</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="other">คุณสามารถถ่ายวิดีโอแบบหยุดเวลาได้เฉพาะกับหัวข้อ %d</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="other">%1$s รูป</item>
+    </plurals>
+</resources>

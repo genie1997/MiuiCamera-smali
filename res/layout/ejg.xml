@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="bottom" android:layout_width="@dimen/doc" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/style_item_data_layout" android:background="@drawable/makeup_item_bg" android:layout_width="match_parent" android:layout_height="@dimen/doa">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.android.camera.ui.ScrollTextview android:textSize="@dimen/dof" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/style_item_name" android:layout_width="match_parent" android:layout_height="@dimen/doe" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:layout_marginStart="8.0dp" android:layout_marginEnd="5.0dp" />
+            <com.android.camera2.compat.theme.custom.mm.manually.view.NoTouchRecyclerView android:id="@id/style_item_recyclerview" android:layout_width="match_parent" android:layout_height="@dimen/do7" android:nestedScrollingEnabled="false" />
+        </LinearLayout>
+        <FrameLayout android:id="@id/style_item_indicator_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+            <ImageView android:layout_gravity="center" android:id="@id/style_item_selected_indicator" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/effect_filter_item_selector_cv" android:layout_centerInParent="true" android:contentDescription="@null" android:rotation="0.0" />
+            <FrameLayout android:layout_gravity="right" android:id="@id/style_item_selected_menu" android:layout_width="wrap_content" android:layout_height="@dimen/doe">
+                <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dp" android:src="@drawable/ic_style_menu" android:contentDescription="@null" />
+            </FrameLayout>
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>

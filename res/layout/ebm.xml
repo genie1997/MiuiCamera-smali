@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/container_custom_shutter" android:focusable="false" android:layout_width="@dimen/bla" android:layout_height="@dimen/bl_"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center_horizontal" android:background="@drawable/custom_shutter_item_bg" android:layout_width="@dimen/bl0" android:layout_height="@dimen/bl0">
+        <ImageView android:layout_gravity="center" android:id="@id/indicator_outer" android:visibility="gone" android:layout_width="@dimen/bl0" android:layout_height="@dimen/bl0" android:src="@drawable/circle_border_selected" android:contentDescription="@null" />
+        <ImageView android:layout_gravity="center" android:id="@id/shutter_button_item_icon" android:layout_width="@dimen/bli" android:layout_height="@dimen/bli" android:contentDescription="@null" />
+        <ImageView android:layout_gravity="end" android:id="@id/icon_remove" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/custom_shutter_remove" android:contentDescription="@string/fto" />
+    </FrameLayout>
+    <com.android.camera.ui.ScrollTextview android:textSize="@dimen/bl8" android:textColor="@color/beautycamera_beauty_advanced_item_text_normal" android:gravity="center_horizontal" android:id="@id/shutter_button_item_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bl2" android:singleLine="true" android:includeFontPadding="false" />
+</LinearLayout>

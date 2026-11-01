@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Fokusuar. %d fytyrë e zbuluar</item>
+        <item quantity="other">Fokusuar. %d fytyrë e zbuluar</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d foto në një shkrepje të vazhdueshme</item>
+        <item quantity="other">%d fotografitë në një shkrepje të vazhdueshme</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Intervali: %d sekond</item>
+        <item quantity="other">Intervali: %d sekonda</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Kohëzgjatja: %d minut</item>
+        <item quantity="other">Kohëzgjatja: %d minuta</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Shpejtësia: %dX</item>
+        <item quantity="other">Shpejtësia: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Kohëzgjatja: %d sekond</item>
+        <item quantity="other">Kohëzgjatja: %d sekonda</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">U fut %d karakter.</item>
+        <item quantity="other">U futën %d karaktere.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Futni deri në %d karakter.</item>
+        <item quantity="other">Futni deri në %d karaktere.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Mund të lidhni deri në %d kamer në të njëjtin rrjet</item>
+        <item quantity="other">Mund të lidhni deri në %d kamera në të njëjtin rrjet</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Mund të lidhni deri në %d monitor në të njëjtin rrjet</item>
+        <item quantity="other">Mund të lidhni deri në %d monitora në të njëjtin rrjet</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Ju mund të krijoni deri në %d klon në një kohë.</item>
+        <item quantity="other">You can create up to %d klone në një kohë.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Nuk mund të lidhet me kamerën.&lt;br>Ky aplikacion do të mbyllet në &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>.Pas kësaj, prisni një minutë ose dy dhe provoni përsëri.</Data></item>
+        <item quantity="other"><Data>Nuk mund të lidhet me kamerën.&lt;br>Ky aplikacion do të mbyllet në &lt;font color=#FFCE16>&lt;b>%1$d sekonda&lt;/b>&lt;/font>.Pas kësaj, prisni një minutë ose dy dhe provoni përsëri.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Kjo pajisje është shumë r nxehtë tani.&lt;br>Aplikacioni do të mbyllet në &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Progresi aktual është ruajtur automatikisht.</Data></item>
+        <item quantity="other"><Data>Kjo pajisje është shumë r nxehtë tani.&lt;br>Aplikacioni do të mbyllet në &lt;font color=#FFCE16>&lt;b>%1$d sekonda&lt;/b>&lt;/font>. Progresi aktual është ruajtur automatikisht.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Versioni i kamerës që po përdorni nuk është i pajtueshëm me modelin e pajisjes tuaj.&lt;br>Aplikacioni do të mbyllet për &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font >. Çinstaloni përditësimet e kamerës dhe provoni përsëri.</Data></item>
+        <item quantity="other"><Data>Versioni i kamerës që po përdorni nuk është i pajtueshëm me modelin e pajisjes tuaj.&lt;br>Aplikacioni do të mbyllet për &lt;font color=#FFCE16>&lt;b>%1$d sekonda&lt;/b>&lt;/font >. Çinstaloni përditësimet e kamerës dhe provoni përsëri.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d sek</item>
+        <item quantity="other">%1$d sekonda</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Kohëmatësi i aktivizuar (%1$d sek). Fotografitë do të transferohen në këtë pajisje.</item>
+        <item quantity="other">Kohëmatësi i aktivizuar (%1$d sek). Fotografitë do të transferohen në këtë pajisje.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Të fshihet %1$d drafti?</item>
+        <item quantity="other">Të fshihet %1$ddraftet?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Shto deri në %d paracaktim</item>
+        <item quantity="other">Shto deri në %d paracaktime</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Të fshihet paracaktimi %d tani?</item>
+        <item quantity="other">Të fshihen paracaktimet %d tani?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">U fshi %d paracaktimi</item>
+        <item quantity="other">U fshinë %d paracaktimet</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Paracaktimi %d i importuar</item>
+        <item quantity="other">Paracaktime %d të importuara</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min</item>
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Rekord %d sekond</item>
+        <item quantity="other">Rekord %d sekonda</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Mund të xhironi video të ngrirjes së kohës vetëm me %d teme.</item>
+        <item quantity="other">Mund të xhironi video me ngrirje kohe deri në %d teme.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s fotot</item>
+    </plurals>
+</resources>

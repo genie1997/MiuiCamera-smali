@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bcz">23.75998dp</dimen>
+    <dimen name="bpo">45.23999dp</dimen>
+    <dimen name="bpp">279.82812dp</dimen>
+    <dimen name="bpr">29.98999dp</dimen>
+    <dimen name="bps">36.72dp</dimen>
+    <dimen name="bpt">60.23999dp</dimen>
+    <dimen name="bpu">-15.0dp</dimen>
+    <dimen name="bpx">140.0dp</dimen>
+    <dimen name="bpz">213.44dp</dimen>
+    <dimen name="bq0">-15.0dp</dimen>
+    <dimen name="bq1">-53.359985dp</dimen>
+    <dimen name="bq2">16.23999dp</dimen>
+    <dimen name="bq3">55.859985dp</dimen>
+    <dimen name="cd0">22.459991dp</dimen>
+    <dimen name="d_5">117.0dp</dimen>
+    <dimen name="d_t">117.0dp</dimen>
+</resources>

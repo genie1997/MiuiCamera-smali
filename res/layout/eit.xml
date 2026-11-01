@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/vv_dialog" android:background="@drawable/bg_vv_dialog" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="@dimen/dzn" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/dzv" android:textColor="@color/vv_dialog_title_color" android:gravity="center" android:id="@id/vv_dialog_title" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dzi" />
+    <TextView android:textSize="@dimen/boq" android:textColor="@color/vv_dialog_message_color" android:gravity="center" android:id="@id/vv_dialog_message" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dzu" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/vv_dialog_checkbox_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dzr" android:layout_marginStart="@dimen/dzp">
+        <CheckBox android:theme="@style/hcr" android:id="@id/vv_dialog_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.android.camera.ui.ScrollTextview android:textSize="@dimen/boo" android:textColor="@color/vv_dialog_message_color" android:ellipsize="marquee" android:gravity="center" android:id="@id/vv_dialog_checkbox_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_marginStart="@dimen/dzq" android:layout_marginEnd="@dimen/dzo" />
+    </LinearLayout>
+    <FrameLayout android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="@dimen/dzh" android:layout_marginTop="@dimen/dzi" android:layout_marginBottom="@dimen/dzi">
+        <TextView android:textSize="@dimen/dzt" android:textColor="@color/vv_dialog_cancel_color" android:gravity="center" android:layout_gravity="start" android:id="@id/vv_dialog_negative" android:background="@drawable/bg_vv_dialog_button_cancel_exit" android:layout_width="@dimen/dzl" android:layout_height="match_parent" android:layout_marginStart="@dimen/dzj" />
+        <TextView android:textSize="@dimen/dzt" android:textColor="@color/vv_dialog_positive_color" android:gravity="center" android:layout_gravity="end" android:id="@id/vv_dialog_positive" android:background="@drawable/bg_vv_dialog_button_positive_exit" android:layout_width="@dimen/dzl" android:layout_height="match_parent" android:layout_marginEnd="@dimen/dzj" />
+    </FrameLayout>
+</LinearLayout>

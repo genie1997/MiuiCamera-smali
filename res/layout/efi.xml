@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/black" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/gallery_content" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/byc">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/list_item_recycler" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr" />
+        <TextView android:textSize="@dimen/byj" android:textColor="@color/gallery2_text_color" android:layout_gravity="center_horizontal" android:id="@id/gallery2_empty" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/byh" android:text="@string/ftl" android:drawableTop="@drawable/gallery2_empty" />
+    </FrameLayout>
+    <micamx.compat.ui.widget.bar.MixBar android:textSize="@dimen/byb" android:textColor="@color/white" android:id="@id/action_bar" android:layout_marginTop="@dimen/by_" android:layout_marginHorizontal="@dimen/bya" style="@style/i0z" />
+</FrameLayout>

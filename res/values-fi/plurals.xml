@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Tarkennettu. %d kasvot havaittu</item>
+        <item quantity="other">Tarkennettu. %d kasvot havaittu</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d kuva sarjaotoksessa</item>
+        <item quantity="other">%d kuvaa sarjaotoksessa</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Aikaväli: %d sekunti</item>
+        <item quantity="other">Aikaväli: %d sekuntia</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Kesto: %d minuutti</item>
+        <item quantity="other">Kesto: %d minuuttia</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Nopeus: %dX</item>
+        <item quantity="other">Nopeus: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Kesto: %d sekunti</item>
+        <item quantity="other">Kesto: %d sekuntia</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Syötettiin %d merkki.</item>
+        <item quantity="other">Syötettiin %d merkkiä.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Kirjoita enintään %d merkki.</item>
+        <item quantity="other">Kirjoita enintään %d merkkiä.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Voit yhdistää enintään %d kameran samaan verkkoon</item>
+        <item quantity="other">Voit yhdistää enintään %d kameraa samaan verkkoon</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Voit liittää enintään %d monitorin samaan verkkoon</item>
+        <item quantity="other">Voit liittää enintään %d monitoria samaan verkkoon</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Voit luoda enintään %d kloonin kerralla.</item>
+        <item quantity="other">Voit luoda enintään %d kloonia kerralla.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Ei voi muodostaa yhteyttä kameraan.&lt;br>Tämä sovellus suljetaan &lt;font color=#FFCE16>&lt;b>%1$d sekunnin kuluttua&lt;/b>&lt;/font>. Odota tämän jälkeen pari minuuttia ja yritä uudelleen.</Data></item>
+        <item quantity="other"><Data>Ei voi muodostaa yhteyttä kameraan.&lt;br>Tämä sovellus suljetaan &lt;font color=#FFCE16>&lt;b>%1$d sekunnin kuluttua&lt;/b>&lt;/font>. Odota tämän jälkeen pari minuuttia ja yritä uudelleen.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Tämä laite on nyt liian kuuma.&lt;br>Tämä sovellus suljetaan &lt;font color=#FFCE16>&lt;b>%1$d sekunnin kuluttua&lt;/b>&lt;/font>. Tämänhetkinen edistyminen tallennettiin automaattisesti.</Data></item>
+        <item quantity="other"><Data>Tämä laite on nyt liian kuuma.&lt;br>Tämä sovellus suljetaan &lt;font color=#FFCE16>&lt;b>%1$d sekunnin kuluttua&lt;/b>&lt;/font>. Tämänhetkinen edistyminen tallennettiin automaattisesti.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Käyttämäsi Kamera-versio ei ole yhteensopiva laitemallisi kanssa.&lt;br>Sovellus sulkeutuu &lt;font color=#FFCE16>&lt;b>%1$d sek kuluttua&lt;/b>&lt;/font >. Poista Kamera-päivitykset ja yritä uudelleen.</Data></item>
+        <item quantity="other"><Data>Käyttämäsi Kamera-versio ei ole yhteensopiva laitemallisi kanssa.&lt;br>Sovellus sulkeutuu &lt;font color=#FFCE16>&lt;b>%1$d sek kuluttua&lt;/b>&lt;/font >. Poista Kamera-päivitykset ja yritä uudelleen.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Siirry eteenpäin %d sekunti</item>
+        <item quantity="other">Siirry eteenpäin %d sekuntia</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Siirry taaksepäin %d sekunti</item>
+        <item quantity="other">Siirry taaksepäin %d sekuntia</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d minuutti</item>
+        <item quantity="other">%1$d minuuttia</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d sekunti</item>
+        <item quantity="other">%1$d sekuntia</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Ajastin päällä (%1$d sek). Valokuvat siirretään tälle laitteelle.</item>
+        <item quantity="other">Ajastin päällä (%1$d sek). Valokuvat siirretään tälle laitteelle.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Poistetaanko %1$d luonnos?</item>
+        <item quantity="other">Poistetaanko %1$d luonnosta?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Lisää enintään %d esiasetus</item>
+        <item quantity="other">Lisää enintään %d esiasetusta</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Poistetaanko %d esiasetus nyt?</item>
+        <item quantity="other">Poistetaanko %d esiasetusta nyt?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d esiasetus poistettu</item>
+        <item quantity="other">%d esiasetusta poistettu</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d esiasetus tuotu</item>
+        <item quantity="other">%d esiasetusta tuotu</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d uusi ilmoitus</item>
+        <item quantity="other">%d uutta ilmoitusta</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min</item>
+        <item quantity="other">%1$s minuuttia</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Tallenna %d sekunti</item>
+        <item quantity="other">Tallenna %d sekuntia</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Voit kuvata aikapysäytettyjä videoita vain %d kohteella.</item>
+        <item quantity="other">Voit kuvata aikapysäytettyjä videoita enintään %d kohteella.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s kuva</item>
+        <item quantity="other">%1$s kuvaa</item>
+    </plurals>
+</resources>

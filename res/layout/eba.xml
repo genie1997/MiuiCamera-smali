@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/view_select" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatButton android:textSize="@dimen/d0x" android:textColor="@color/white" android:id="@id/iv_con_camera" android:background="@color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fjs" android:drawableTop="@drawable/ic_vector_cine_camera" android:layout_marginStart="@dimen/d0w" android:fallbackLineSpacing="false" />
+    <LinearLayout android:orientation="vertical" android:id="@id/view_screen_prompt" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/d0n" android:layout_below="@id/iv_con_camera" android:layout_alignStart="@id/iv_con_camera">
+        <TextView android:textSize="@dimen/d0o" android:textColor="#99ffffff" android:id="@id/view_monitor_screen_prompt" android:padding="3.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <Switch android:id="@id/view_monitor_screen_prompt_switch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:thumb="@drawable/switch_thumb" android:track="@drawable/switch_track" android:showText="false" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatButton android:textSize="@dimen/d0x" android:textColor="@color/white" android:id="@id/iv_con_monitor" android:background="@color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fjt" android:drawableTop="@drawable/ic_vector_cine_monitor" android:layout_marginEnd="@dimen/d0w" android:layout_alignEnd="@id/iv_con_camera" android:layout_alignParentEnd="true" android:fallbackLineSpacing="false" />
+    <LinearLayout android:orientation="vertical" android:id="@id/view_switch_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/d0n" android:layout_below="@id/iv_con_monitor" android:layout_alignStart="@id/iv_con_monitor">
+        <TextView android:textSize="@dimen/d0o" android:textColor="#99ffffff" android:id="@id/view_monitor_prompt" android:padding="3.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fju" />
+        <Switch android:id="@id/view_monitor_remote_switch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:thumb="@drawable/switch_thumb" android:track="@drawable/switch_track" android:showText="false" />
+    </LinearLayout>
+</RelativeLayout>

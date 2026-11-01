@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">ഫോക്കസ് ചെയ്തു. %d മുഖം കണ്ടെത്തി</item>
+        <item quantity="other">ഫോക്കസ് ചെയ്തു. %d മുഖങ്ങൾ കണ്ടെത്തി</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">ഒരു ബഴ്സ്റ്റ് ഷോട്ടിൽ %d ഫോട്ടോ</item>
+        <item quantity="other">ഒരു ബഴ്സ്റ്റ് ഷോട്ടിൽ %d ഫോട്ടോകൾ</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">ഇടവേള: %d സെക്കന്റ്</item>
+        <item quantity="other">ഇടവേള: %d സെക്കന്റ്</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">ദൈർഘ്യം: %d മിനിറ്റ്</item>
+        <item quantity="other">ദൈർഘ്യം: %d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">വേഗത: %dX</item>
+        <item quantity="other">വേഗത: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">ദൈർഘ്യം: %d സെക്കന്റ്</item>
+        <item quantity="other">ദൈർഘ്യം: %d സെക്കന്റ്</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d അക്ഷരം നൽകി.</item>
+        <item quantity="other">%d അക്ഷരങ്ങൾ നൽകി.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">%d അക്ഷരം വരെ നൽകി.</item>
+        <item quantity="other">%d അക്ഷരം വരെ നൽകി.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">ഒരേ നെറ്റ്‌വർക്കിലേക്ക് നിങ്ങൾക്ക് %d ക്യാമറ വരെ കണക്റ്റുചെയ്യാം</item>
+        <item quantity="other">ഒരേ നെറ്റ്‌വർക്കിലേക്ക് നിങ്ങൾക്ക് %d ക്യാമറകൾ വരെ കണക്റ്റുചെയ്യാം</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">ഒരേ നെറ്റ്‌വർക്കിലേക്ക് നിങ്ങൾക്ക് %d മോണിറ്റർ വരെ കണക്റ്റുചെയ്യാം</item>
+        <item quantity="other">ഒരേ നെറ്റ്‌വർക്കിലേക്ക് നിങ്ങൾക്ക് %d മോണിറ്ററുകൾ വരെ കണക്റ്റുചെയ്യാം</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">നിങ്ങൾക്ക് ഒരു സമയം %d ക്ലോൺ വരെ സൃഷ്ടിക്കാൻ കഴിയും.</item>
+        <item quantity="other">നിങ്ങൾക്ക് ഒരു സമയം %d ക്ലോണുകൾ വരെ സൃഷ്ടിക്കാൻ കഴിയും.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>ക്യാമറയിലേക്ക് കണക്റ്റുചെയ്യാനാകുന്നില്ല.&lt;br>ഈ ആപ്പ് &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>-ൽ അടയ്ക്കും. ഇതിനുശേഷം, ഒന്നോ രണ്ടോ മിനിറ്റ് കാത്തിരുന്ന് വീണ്ടും ശ്രമിക്കുക.</Data></item>
+        <item quantity="other"><Data>ക്യാമറയിലേക്ക് കണക്റ്റുചെയ്യാനാകുന്നില്ല.&lt;br>ഈ ആപ്പ് &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>-ൽ അടയ്ക്കും. ഇതിനുശേഷം, ഒന്നോ രണ്ടോ മിനിറ്റ് കാത്തിരുന്ന് വീണ്ടും ശ്രമിക്കുക.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>ഈ ഉപകരണം ഇപ്പോൾ വളരെ ചൂടായിരിക്കുന്നു.&lt;br>ഈ ആപ്പ് &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>-ൽ അടയ്ക്കും. നിലവിലെ പുരോഗതി സ്വയമേവ സംരക്ഷിച്ചു.</Data></item>
+        <item quantity="other"><Data>ഈ ഉപകരണം ഇപ്പോൾ വളരെ ചൂടായിരിക്കുന്നു.&lt;br>ഈ ആപ്പ് &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>-ൽ അടയ്ക്കും. നിലവിലെ പുരോഗതി സ്വയമേവ സംരക്ഷിച്ചു.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>നിങ്ങൾ ഉപയോഗിക്കുന്ന ക്യാമറ പതിപ്പ് ഉപകരണ മോഡലുമായി പൊരുത്തപ്പെടുന്നില്ല.&lt;br>ആപ്പ് &lt;font color=#FFCE16>&lt;b>%1$d സെക്കന്റിനുള്ളിൽ അടയ്ക്കും&lt;/b>&lt;/font>. ക്യാമറ അപ്‌ഡേറ്റുകൾ അൺഇൻസ്റ്റാൾ ചെയ്‌ത് വീണ്ടും ശ്രമിക്കുക.</Data></item>
+        <item quantity="other"><Data>നിങ്ങൾ ഉപയോഗിക്കുന്ന ക്യാമറ പതിപ്പ് ഉപകരണ മോഡലുമായി പൊരുത്തപ്പെടുന്നില്ല.&lt;br>ആപ്പ് &lt;font color=#FFCE16>&lt;b>%1$d സെക്കന്റിനുള്ളിൽ അടയ്ക്കും&lt;/b>&lt;/font>. ക്യാമറ അപ്‌ഡേറ്റുകൾ അൺഇൻസ്റ്റാൾ ചെയ്‌ത് വീണ്ടും ശ്രമിക്കുക.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d മിനിറ്റ്</item>
+        <item quantity="other">%1$d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d സെക്കന്റ്</item>
+        <item quantity="other">%1$d സെക്കന്റ്</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">ടൈമർ ഓണാക്കി (%1$d സെക്കന്റ്). ഈ ഉപകരണത്തിലേക്ക് ഫോട്ടോകൾ കൈമാറും.</item>
+        <item quantity="other">ടൈമർ ഓണാക്കി (%1$d സെക്കന്റ്). ഈ ഉപകരണത്തിലേക്ക് ഫോട്ടോകൾ കൈമാറും.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d ഡ്രാഫ്റ്റ് മായ്ക്കണോ?</item>
+        <item quantity="other">%1$d ഡ്രാഫ്റ്റുകൾ മായ്ക്കട്ടെ?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">%d പ്രീസെറ്റ് വരെ ചേർക്കുക</item>
+        <item quantity="other">%d പ്രീസെറ്റുകൾ വരെ ചേർക്കുക</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d പ്രീസെറ്റ് ഇപ്പോൾ മായ്ക്കണോ?</item>
+        <item quantity="other">%d പ്രീസെറ്റുകൾ ഇപ്പോൾ മായ്ക്കണോ?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d പ്രീസെറ്റ് മായ്ച്ചു</item>
+        <item quantity="other">%d പ്രീസെറ്റുകൾ മായ്ച്ചു</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d പ്രീസെറ്റ് ഇംപോർട്ട് ചെയ്തു</item>
+        <item quantity="other">%d പ്രീസെറ്റുകൾ ഇംപോർട്ട് ചെയ്തു</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dസെ</item>
+        <item quantity="other">%dസെ</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s മിനിറ്റ്</item>
+        <item quantity="other">%1$s മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%d സെക്കൻ്റ് റെക്കോർഡുചെയ്യുക</item>
+        <item quantity="other">%d സെക്കൻ്റ് റെക്കോർഡുചെയ്യുക</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">%d സബ്ജക്റ്റ് ഉപയോഗിച്ച് മാത്രമേ നിങ്ങൾക്ക് ടൈം ഫ്രീസ് വീഡിയോകൾ ഷൂട്ട് ചെയ്യാൻ കഴിയൂ.</item>
+        <item quantity="other">%d സബ്ജക്റ്റുകൾ ഉപയോഗിച്ച് മാത്രമേ നിങ്ങൾക്ക് ടൈം ഫ്രീസ് വീഡിയോകൾ ഷൂട്ട് ചെയ്യാൻ കഴിയൂ.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s ഫോട്ടോ</item>
+        <item quantity="other">%1$s ഫോട്ടോകൾ</item>
+    </plurals>
+</resources>

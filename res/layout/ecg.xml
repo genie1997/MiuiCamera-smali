@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="36.359985dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20.0dp" android:text="@string/fnj" style="@style/hay" />
+    <TextView android:id="@id/function_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="18.179993dp" android:text="@string/fnp" style="@style/hax" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="18.359985dp">
+            <ImageView android:id="@id/dual_video_user_guide_merge_1" android:layout_width="320.0dp" android:layout_height="180.0dp" android:src="@drawable/dual_video_user_guide_merge_1" />
+            <TextView android:textSize="13.089996sp" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="7.269989dp" android:text="1X" android:layout_alignBottom="@id/dual_video_user_guide_merge_1" android:layout_marginStart="10.179993dp" android:layout_alignStart="@id/dual_video_user_guide_merge_1" />
+            <TextView android:textSize="13.089996sp" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="7.269989dp" android:text="5X" android:layout_alignBottom="@id/dual_video_user_guide_merge_1" android:layout_marginStart="170.18dp" android:layout_alignStart="@id/dual_video_user_guide_merge_1" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/dual_video_user_guide_merge_2" android:layout_width="320.0dp" android:layout_height="180.0dp" android:src="@drawable/dual_video_user_guide_merge_2" />
+            <TextView android:textSize="13.089996sp" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="7.269989dp" android:text="1X" android:layout_alignBottom="@id/dual_video_user_guide_merge_2" android:layout_marginStart="10.179993dp" android:layout_alignStart="@id/dual_video_user_guide_merge_2" />
+            <TextView android:textSize="11.639984sp" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="49.26999dp" android:text="@string/gl_" android:layout_alignTop="@id/dual_video_user_guide_merge_2" android:layout_marginStart="12.359985dp" android:layout_alignStart="@id/dual_video_user_guide_merge_2" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

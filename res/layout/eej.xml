@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/camera_hint_text_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="@dimen/bv6" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@id/camera_hint_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/bd1" android:paddingEnd="@dimen/bd1" android:fontFeatureSettings="tnum" />
+    </FrameLayout>
+</FrameLayout>

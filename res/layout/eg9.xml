@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/arrow_root" android:paddingTop="@dimen/bx8" android:paddingBottom="@dimen/bx8" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/ccu" android:layoutDirection="ltr" android:paddingStart="@dimen/bx7" android:paddingEnd="@dimen/bx7"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/arrow" android:layout_width="@dimen/bwv" android:layout_height="@dimen/bwv" android:elevation="2.0dp" />
+    <com.android.camera.fragment.presentation.LinearGradientSlideView android:id="@id/slide_mask" android:layout_width="@dimen/bww" android:layout_height="match_parent" android:layout_marginRight="@dimen/bx0" android:elevation="1.0dp" />
+    <com.android.camera.ui.ScrollTextview android:textSize="@dimen/bx5" android:textColor="@color/white_alpha_75" android:ellipsize="marquee" android:id="@id/slide_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/bx1" android:maxWidth="@dimen/bx2" android:text="@string/g8r" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="vertical" android:id="@id/zoom_panel_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.android.camera2.compat.theme.custom.mm.zoom.HorizontalScaleZoomView android:id="@id/zoom_panel" android:layout_width="match_parent" android:layout_height="@dimen/dha" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="center|bottom" android:id="@id/zoom_panel_tip_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/dmj" android:layout_marginBottom="@dimen/dha">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/zoom_panel_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bqt">
+            <TextView android:textSize="@dimen/dmk" android:textColor="@color/white" android:layout_gravity="center" android:id="@id/zoom_panel_tip_text" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <ViewStub android:layout_gravity="center" android:id="@id/zoom_panel_audio_indicator" android:layout="@layout/eaq" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

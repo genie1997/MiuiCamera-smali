@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@id/vlog_pro_gallery_item_root" android:layout_width="@dimen/e0i" android:layout_height="@dimen/e0g" android:layout_marginHorizontal="@dimen/e0m" app:nt="@color/fullscreen_background" app:nw="@dimen/brt" app:nx="0.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/vlog_pro_gallery_item_image" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:contentDescription="@null" />
+    <ImageView android:id="@id/vlog_pro_gallery_item_indicator" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/bg_vv_gallery_item_selected" android:scaleType="fitXY" android:contentDescription="@null" />
+    <TextView android:textSize="@dimen/dy4" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_horizontal" android:layout_gravity="left|bottom" android:id="@id/vlog_pro_gallery_item_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dp" android:layout_marginBottom="5.0dp" android:maxWidth="@dimen/e0s" android:singleLine="true" />
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="right|bottom" android:id="@id/vlog_pro_gallery_item_state" android:visibility="gone" android:layout_width="@dimen/e0q" android:layout_height="@dimen/e0q" />
+    <ProgressBar android:layout_gravity="right|bottom" android:id="@id/vlog_pro_gallery_item_loading" android:visibility="gone" android:layout_width="@dimen/e0q" android:layout_height="@dimen/e0q" android:indeterminateDrawable="@drawable/vv_download_progress" style="?android:progressBarStyleLarge" />
+</androidx.cardview.widget.CardView>

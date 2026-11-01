@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Fokussiert, %d Gesicht gefunden</item>
+        <item quantity="other">Fokussiert, %d Gesichter gefunden</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d Foto in einer Serienaufnahme</item>
+        <item quantity="other">%d Fotos in einer Serienaufnahme</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Intervall: %d Sekunde</item>
+        <item quantity="other">Intervall: %d Sekunden</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Dauer: %d Minute</item>
+        <item quantity="other">Dauer: %d Minuten</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Geschwindigkeit: %dX</item>
+        <item quantity="other">Geschwindigkeit: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Länge: %d Sekunde</item>
+        <item quantity="other">Länge: %d Sekunden</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d Zeichen eingegeben.</item>
+        <item quantity="other">%d Zeichen eingegeben.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Gib bis zu %d Zeichen ein.</item>
+        <item quantity="other">Gib bis zu %d Zeichen ein.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Du kannst bis zu %d Kamera mit dem gleichen Netzwerk verbinden</item>
+        <item quantity="other">Du kannst bis zu %d Kameras mit dem gleichen Netzwerk verbinden</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Du kannst bis zu %d Monitor mit dem gleichen Netzwerk verbinden</item>
+        <item quantity="other">Du kannst bis zu %d Monitore mit dem gleichen Netzwerk verbinden</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Du kannst bis zu %d Klon gleichzeitig erstellen.</item>
+        <item quantity="other">Du kannst bis zu %d Klone gleichzeitig erstellen.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Kamera kann nicht verbunden werden.&lt;br>Diese App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek.&lt;/b> geschlossen&lt;/font>. Warte danach eine oder zwei Minuten und versuche es erneut.</Data></item>
+        <item quantity="other"><Data>Kamera kann nicht verbunden werden.&lt;br>Diese App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek.&lt;/b> geschlossen&lt;/font>. Warte danach eine oder zwei Minuten und versuche es erneut.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Dieses Gerät ist gerade zu heiß.&lt;br>Die App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek.&lt;/b> geschlossen&lt;/font>. Der aktuelle Fortschritt wird automatisch gespeichert.</Data></item>
+        <item quantity="other"><Data>Dieses Gerät ist gerade zu heiß.&lt;br>Die App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek.&lt;/b> geschlossen&lt;/font>. Der aktuelle Fortschritt wird automatisch gespeichert.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Die Kameraversion, die du verwendest ist mit deinem Gerätemodell nicht kompatibel.&lt;br>Die App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek.&lt;/b>&lt;/font> geschlossen. Deinstalliere Kamera-Updates und versuche es erneut.</Data></item>
+        <item quantity="other"><Data>Die Kameraversion, die du verwendest ist mit deinem Gerätemodell nicht kompatibel.&lt;br>Die App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek.&lt;/b>&lt;/font> geschlossen. Deinstalliere Kamera-Updates und versuche es erneut.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">%d Sekunde vorspulen</item>
+        <item quantity="other">%d Sekunden vorspulen</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">%d Sekunde zurückspulen</item>
+        <item quantity="other">%d Sekunden zurückspulen</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d Min</item>
+        <item quantity="other">%1$d Min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d Sek</item>
+        <item quantity="other">%1$d Sek</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Timer aktiviert (%1$d Sek.). Fotos werden auf dieses Gerät übertragen.</item>
+        <item quantity="other">Timer aktiviert (%1$d Sek.). Fotos werden auf dieses Gerät übertragen.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d Entwurf löschen?</item>
+        <item quantity="other">%1$d Entwürfe löschen?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Füge bis zu %d Voreinstellung hinzu.</item>
+        <item quantity="other">Füge bis zu %d Voreinstellungen hinzu.</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d Voreinstellung jetzt löschen?</item>
+        <item quantity="other">%d Voreinstellungen jetzt löschen?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d Voreinstellung gelöscht</item>
+        <item quantity="other">%d Voreinstellungen gelöscht</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d Voreinstellung importiert</item>
+        <item quantity="other">%d Voreinstellungen importiert</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d neue Benachrichtigung</item>
+        <item quantity="other">%d neue Benachrichtigungen</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s Min.</item>
+        <item quantity="other">%1$s Min.</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Aufnahme %d Sekunde</item>
+        <item quantity="other">Aufnahme %d Sekunden</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Du kannst Time-Freeze-Videos nur mit %d Motiv aufnehmen.</item>
+        <item quantity="other">Du kannst Time-Freeze-Videos nur mit %d Motiven aufnehmen.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s Foto</item>
+        <item quantity="other">%1$s Fotos</item>
+    </plurals>
+</resources>

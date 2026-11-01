@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr" android:paddingHorizontal="@dimen/dpx" android:paddingVertical="@dimen/dq5"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:id="@id/time_watermark_inner" android:background="@drawable/bg_time_aiwatermark" android:layout_width="@dimen/dq2" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/dpv" android:textStyle="normal" android:textColor="#ffffff" android:gravity="center" android:id="@id/date" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dpu" android:importantForAccessibility="no" android:fontFamily="mipro-regular" android:letterSpacing="0.02" />
+        <TextView android:textSize="@dimen/dq4" android:textStyle="bold" android:textColor="#ffffff" android:gravity="center" android:id="@id/month" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dq3" android:importantForAccessibility="no" android:fontFamily="mipro-regular" />
+        <TextView android:textStyle="bold" android:textColor="#ffffff" android:gravity="center" android:id="@id/hour" android:background="#ffffff" android:layout_width="@dimen/dq1" android:layout_height="@dimen/dpy" android:layout_marginTop="@dimen/dq0" android:layout_marginBottom="@dimen/dpz" android:importantForAccessibility="no" android:fontFamily="mipro-regular" android:letterSpacing="0.0" />
+    </LinearLayout>
+</LinearLayout>

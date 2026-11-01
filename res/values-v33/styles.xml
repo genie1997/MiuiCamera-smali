@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="hds" parent="@style/hct">
+        <item name="android:textSize">@dimen/cuu</item>
+        <item name="android:textColor">?h1</item>
+        <item name="android:fontFamily">@string/g42</item>
+        <item name="android:fallbackLineSpacing">true</item>
+    </style>
+    <style name="hov" parent="@style/hof">
+        <item name="android:textAppearance">@style/hdl</item>
+        <item name="android:textSize">@dimen/cu0</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|top</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">0.0dp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:hyphenationFrequency">fullFast</item>
+    </style>
+</resources>

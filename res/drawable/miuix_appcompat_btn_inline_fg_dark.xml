@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.appcompat.app.ButtonForegroundDrawable app:n4="@dimen/cnh" app:ni="@dimen/cnh" app:a61="0.06" app:agb="@color/miuix_appcompat_tint_color_dark" app:aja="0.0" app:ani="0.08"
+  xmlns:app="http://schemas.android.com/apk/res-auto" />

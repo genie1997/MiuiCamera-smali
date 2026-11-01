@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eue">Navigate home</string>
+    <string name="euf">Navigate up</string>
+    <string name="eug">Done</string>
+    <string name="euh">See all</string>
+    <string name="eui">Choose an app</string>
+    <string name="euj">OFF</string>
+    <string name="euk">ON</string>
+    <string name="eul">Alt+</string>
+    <string name="eum">Ctrl+</string>
+    <string name="eun">delete</string>
+    <string name="euo">enter</string>
+    <string name="eup">Function+</string>
+    <string name="euq">Meta+</string>
+    <string name="eur">Shift+</string>
+    <string name="eus">space</string>
+    <string name="eut">Sym+</string>
+    <string name="euu">Menu+</string>
+    <string name="euv">Search…</string>
+    <string name="euw">Clear query</string>
+    <string name="eux">Search</string>
+    <string name="euy">Submit query</string>
+    <string name="euz">Voice search</string>
+    <string name="ev0">Share with</string>
+    <string name="ev1">Share with %s</string>
+    <string name="ev2">Collapse</string>
+    <string name="f9w">Answer</string>
+    <string name="f9x">Video</string>
+    <string name="f9y">Decline</string>
+    <string name="f9z">Hang Up</string>
+    <string name="f_0">Incoming call</string>
+    <string name="f_1">Ongoing call</string>
+    <string name="f_2">Screening an incoming call</string>
+    <string name="fk4">Copy</string>
+    <string name="fqa">Advanced</string>
+    <string name="g8s">Not set</string>
+    <string name="gqw">"'%1$s' copied to clipboard."</string>
+    <string name="gub">999+</string>
+    <string name="gv5">%1$s, %2$s</string>
+    <string name="h17">OFF</string>
+    <string name="h18">ON</string>
+</resources>

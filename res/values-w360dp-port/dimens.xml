@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="d31">4.0dp</dimen>
+    <dimen name="d33">18.0dp</dimen>
+    <dimen name="d34">40.0dp</dimen>
+    <dimen name="d35">2.0dp</dimen>
+    <dimen name="d37">2.0dp</dimen>
+    <dimen name="d38">40.0dp</dimen>
+    <dimen name="d39">40.0dp</dimen>
+    <dimen name="d3l">4.0dp</dimen>
+</resources>

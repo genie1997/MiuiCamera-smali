@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/parameter_description_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dad">
+        <ImageView android:id="@id/parameter_description_icon" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:gravity="center_vertical" android:id="@id/parameter_description_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/dal" android:fallbackLineSpacing="false" style="@style/hay" />
+    </LinearLayout>
+    <TextView android:id="@id/parameter_description_content" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/daj" android:layout_marginBottom="@dimen/dag" android:layout_marginStart="@dimen/dai" android:layout_marginEnd="@dimen/dah" style="@style/hax" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="15.0sp" android:id="@id/parameter_description_content_extra" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dag" android:drawablePadding="@dimen/dae" android:layout_marginStart="@dimen/dai" android:layout_marginEnd="@dimen/dah" android:textFontWeight="500" app:z1="@drawable/ic_vector_download_desc" style="@style/hax" />
+</LinearLayout>

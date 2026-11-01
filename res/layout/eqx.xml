@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.visual.check.VisualCheckGroup android:id="@id/preference_reference_group" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <miuix.visual.check.VisualCheckBox android:gravity="center_horizontal" android:id="@id/preference_reference_off_check_box" android:paddingTop="12.0dp" android:focusable="true" android:layout_width="@dimen/dg1" android:layout_height="wrap_content" android:contentDescription="@string/fuy">
+            <miuix.visual.check.BorderLayout android:padding="@dimen/de_" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" app:pl="@drawable/preference_reference_visual_check_border">
+                <miuix.smooth.SmoothFrameLayout2 android:layout_width="@dimen/dg0" android:layout_height="@dimen/dfz" android:radius="8.0dp">
+                    <View android:layout_gravity="center" android:id="@id/preference_reference_off_cover" android:background="@drawable/reference_off" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </miuix.smooth.SmoothFrameLayout2>
+            </miuix.visual.check.BorderLayout>
+            <miuix.visual.check.VisualCheckedTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/more_mode_type_setting_text_color_normal" android:gravity="center_horizontal" android:id="@id/preference_reference_off_title" android:padding="@dimen/ded" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fuy" android:maxLines="3" />
+        </miuix.visual.check.VisualCheckBox>
+        <miuix.visual.check.VisualCheckBox android:gravity="center_horizontal" android:id="@id/preference_reference_nine_grid_check_box" android:paddingTop="12.0dp" android:focusable="true" android:layout_width="@dimen/dg1" android:layout_height="wrap_content" android:contentDescription="@string/grh">
+            <miuix.visual.check.BorderLayout android:padding="@dimen/de_" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" app:pl="@drawable/preference_reference_visual_check_border">
+                <miuix.smooth.SmoothFrameLayout2 android:layout_width="@dimen/dg0" android:layout_height="@dimen/dfz" android:radius="8.0dp">
+                    <View android:layout_gravity="center" android:id="@id/preference_nine_grid_cover" android:background="@drawable/reference_nine_grid" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </miuix.smooth.SmoothFrameLayout2>
+            </miuix.visual.check.BorderLayout>
+            <miuix.visual.check.VisualCheckedTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/more_mode_type_setting_text_color_normal" android:gravity="center_horizontal" android:id="@id/preference_reference_nine_grid_title" android:padding="@dimen/ded" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/grh" android:maxLines="3" />
+        </miuix.visual.check.VisualCheckBox>
+        <miuix.visual.check.VisualCheckBox android:gravity="center_horizontal" android:id="@id/preference_reference_golden_section_check_box" android:paddingTop="12.0dp" android:focusable="true" android:layout_width="@dimen/dg1" android:layout_height="wrap_content" android:contentDescription="@string/grg">
+            <miuix.visual.check.BorderLayout android:padding="@dimen/de_" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" app:pl="@drawable/preference_reference_visual_check_border">
+                <miuix.smooth.SmoothFrameLayout2 android:layout_width="@dimen/dg0" android:layout_height="@dimen/dfz" android:radius="8.0dp">
+                    <View android:layout_gravity="center" android:id="@id/preference_golden_section_cover" android:background="@drawable/reference_golden_section" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </miuix.smooth.SmoothFrameLayout2>
+            </miuix.visual.check.BorderLayout>
+            <miuix.visual.check.VisualCheckedTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/more_mode_type_setting_text_color_normal" android:gravity="center_horizontal" android:id="@id/preference_reference_golden_section_title" android:padding="@dimen/ded" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/grg" android:maxLines="3" />
+        </miuix.visual.check.VisualCheckBox>
+    </miuix.visual.check.VisualCheckGroup>
+</LinearLayout>

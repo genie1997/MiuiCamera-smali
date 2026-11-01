@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/e2x" android:focusable="false" android:clickable="false" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="start|center" android:id="@id/b2y" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="@dimen/e2y" android:paddingHorizontal="@dimen/e3x">
+        <TextView android:textSize="@dimen/e3y" android:textStyle="bold" android:textColor="@color/watermark_text_color" android:id="@id/watermark_group_name" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="misans-normal" android:textFontWeight="450" />
+    </LinearLayout>
+    <HorizontalScrollView android:id="@id/type_scroll_view" android:focusable="false" android:scrollbars="none" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <LinearLayout android:orientation="horizontal" android:id="@id/watermark_items_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="match_parent" />
+    </HorizontalScrollView>
+</LinearLayout>

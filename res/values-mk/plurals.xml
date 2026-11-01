@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etz">
+        <item quantity="one">Премотајте напред %d секунда</item>
+        <item quantity="other">Премотајте напред %d секунди</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Премотајте %d секунда</item>
+        <item quantity="other">Премотајте %d секунди</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d ново известување</item>
+        <item quantity="other">%d нови известувања</item>
+    </plurals>
+</resources>

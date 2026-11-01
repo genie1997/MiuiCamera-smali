@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <miuix.smooth.SmoothContainerDrawable2 android:radius="@dimen/cny"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <child>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/miuix_appcompat_transparent" />
+                    <padding android:left="@dimen/cnz" android:top="@dimen/cnz" android:right="@dimen/cnz" android:bottom="@dimen/cnz" />
+                </shape>
+            </child>
+        </miuix.smooth.SmoothContainerDrawable2>
+    </item>
+    <item>
+        <miuix.smooth.SmoothContainerDrawable2 android:radius="@dimen/cny"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <child>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/miuix_appcompat_dialog_default_bg_color_dark" />
+                </shape>
+            </child>
+        </miuix.smooth.SmoothContainerDrawable2>
+    </item>
+</layer-list>

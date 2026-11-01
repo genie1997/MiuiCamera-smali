@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/root_view" android:paddingBottom="@dimen/dtm" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.android.camera.ui.ColorImageView android:id="@id/main_image" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/dti" android:scaleType="centerInside" />
+            <com.android.camera.ui.ColorImageView android:id="@id/label_image" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/dti" android:scaleType="centerInside" />
+        </FrameLayout>
+        <RelativeLayout android:layout_gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.android.camera.ui.ScrollTextview android:textSize="@dimen/dto" android:textColor="@color/white" android:gravity="center_horizontal" android:id="@id/label_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/dtf" android:maxLines="3" android:layout_centerHorizontal="true" android:fallbackLineSpacing="false" />
+        </RelativeLayout>
+    </LinearLayout>
+</merge>

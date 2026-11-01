@@ -1,0 +1,53 @@
+{
+  "version": "20250731-dev-1",
+  "data": [
+    {
+      "id": "cg.test1",
+      "category": "test",
+      "uri": "assets://cg/test1.zip",
+      "ratio": "1x1",
+      "i18n": [
+        {
+          "lang": "default",
+          "name": "Test3"
+        },
+        {
+          "lang": "cn",
+          "name": "测试模板1"
+        }
+      ]
+    },
+    {
+      "id": "cg.test2",
+      "category": "test",
+      "uri": "assets://cg/test2.zip",
+      "ratio": "2x3",
+      "i18n": [
+        {
+          "lang": "default",
+          "name": "Test2"
+        },
+        {
+          "lang": "cn",
+          "name": "测试模板2"
+        }
+      ]
+    },
+    {
+      "id": "cg.test3",
+      "category": "test",
+      "uri": "assets://cg/test3.zip",
+      "ratio": "2x3",
+      "i18n": [
+        {
+          "lang": "default",
+          "name": "Test2"
+        },
+        {
+          "lang": "cn",
+          "name": "测试模板3"
+        }
+      ]
+    }
+  ]
+}

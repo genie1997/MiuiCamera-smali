@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/result_image_view" android:background="@android:color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/eyr" />
+    <ImageView android:id="@id/result_image_view_livephoto_icon" android:padding="6.0dp" android:visibility="gone" android:layout_width="52.0dp" android:layout_height="52.0dp" android:src="@drawable/ic_motionphoto" android:scaleType="center" />
+    <com.android.camera.ui.TextureVideoView android:id="@id/result_image_surfaceview" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/eyr" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/v6_video_btn_play" android:background="@drawable/bg_thumbnail_background_full" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_vector_play" android:scaleType="centerInside" android:contentDescription="@string/exm" style="@style/hge" />
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/intent_bottom" android:layout_width="match_parent" android:layout_height="@dimen/bft">
+        <FrameLayout android:layout_gravity="start|center" android:id="@id/intent_done_retry" android:layout_width="@dimen/bft" android:layout_height="@dimen/bft" android:contentDescription="@string/g31" android:layout_marginStart="@dimen/bf9">
+            <ImageView android:layout_gravity="start|center" android:id="@id/intent_done_retry_bg" android:background="@drawable/bg_thumbnail_background_full" android:layout_width="@dimen/bf_" android:layout_height="@dimen/bf_" android:scaleType="center" />
+            <ImageView android:layout_gravity="start|center" android:id="@id/intent_done_retry_ic" android:layout_width="@dimen/bf_" android:layout_height="@dimen/bf_" android:src="@drawable/ic_vector_close_mimoji" android:scaleType="center" />
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="end|center" android:id="@id/done_button" android:layout_width="@dimen/bft" android:layout_height="@dimen/bft" android:contentDescription="@string/exi" android:layout_marginEnd="@dimen/bf9">
+            <ImageView android:layout_gravity="end|center" android:id="@id/done_button_bg" android:background="@drawable/bg_thumbnail_background_full" android:layout_width="@dimen/bf_" android:layout_height="@dimen/bf_" android:scaleType="center" />
+            <ImageView android:layout_gravity="end|center" android:id="@id/done_button_ic" android:layout_width="@dimen/bf_" android:layout_height="@dimen/bf_" android:src="@drawable/ic_live_record_save" android:scaleType="center" android:contentDescription="@string/exi" android:alpha="50.0" />
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>

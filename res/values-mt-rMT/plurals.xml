@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Iffukat. Sab wiċċ wieħed (%d)</item>
+        <item quantity="few">Iffukat. Sab %d uċuħ</item>
+        <item quantity="many">Iffukat. Sab %d-il wiċċ</item>
+        <item quantity="other">Iffukat. Sab %d wiċċ</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">"Ritratti wieħed (%d) minn sensiela ta' ritratti"</item>
+        <item quantity="few">"%d ritratti minn sensiela ta' ritratti"</item>
+        <item quantity="many">"%d-il ritratt minn sensiela ta' ritratti"</item>
+        <item quantity="other">"%d ritratt minn sensiela ta' ritratti"</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Waqfa: sekonda (%d)</item>
+        <item quantity="few">Waqfa: %d sekondi</item>
+        <item quantity="many">Waqfa: %d-il sekonda</item>
+        <item quantity="other">Waqfa: %d sekonda</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Tul: minuta (%d)</item>
+        <item quantity="few">Tul: %d minuti</item>
+        <item quantity="many">Tul: %d-il minuta</item>
+        <item quantity="other">Tul: %d minuta</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Ħeffa: %dX</item>
+        <item quantity="few">Ħeffa: %dX</item>
+        <item quantity="many">Ħeffa: %dX</item>
+        <item quantity="other">Ħeffa: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Tul: sekonda (%d)</item>
+        <item quantity="few">Tul: %d sekondi</item>
+        <item quantity="many">Tul: %d-il sekonda</item>
+        <item quantity="other">Tul: %d sekonda</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Daħħalt simbolu (%d).</item>
+        <item quantity="few">Daħħalt %d simboli.</item>
+        <item quantity="many">Daħħalt %d-il simbolu.</item>
+        <item quantity="other">Daħħalt %d simbolu.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Daħħal sa simbolu (%d).</item>
+        <item quantity="few">Daħħal sa %d simboli.</item>
+        <item quantity="many">Daħħal sa %d-il simbolu.</item>
+        <item quantity="other">Daħħal sa %d simbolu.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">"Tista' tqabbad sa kamera waħda (%d) mal-istess netwerk"</item>
+        <item quantity="few">"Tista' tqabbad sa %d kameras mal-istess netwerk"</item>
+        <item quantity="many">"Tista' tqabbad sa %d-il kamera mal-istess netwerk"</item>
+        <item quantity="other">"Tista' tqabbad sa %d kamera mal-istess netwerk"</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">"Tista' tqabbad sa monitor wieħed (%d) mal-istess netwerk"</item>
+        <item quantity="few">"Tista' tqabbad sa %d monitors mal-istess netwerk"</item>
+        <item quantity="many">"Tista' tqabbad sa %d-il monitor mal-istess netwerk"</item>
+        <item quantity="other">"Tista' tqabbad sa %d monitor mal-istess netwerk"</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">"Tista' toħloq sa kopja waħda (%d) kull darba."</item>
+        <item quantity="few">"Tista' toħloq sa %d kopji kull darba."</item>
+        <item quantity="many">"Tista' toħloq sa %d-il kopja kull darba."</item>
+        <item quantity="other">"Tista' toħloq sa %d klonu kull darba."</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>"Ma jistax jaqbad mal-kamera.&lt;br>Din l-applikazzjoni ser tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d sekonda&lt;/b>&lt;/font>. Wara dan, stenna minuta jew tnejn u erġa' pprova."</Data></item>
+        <item quantity="few"><Data>"Ma jistax jaqbad mal-kamera.&lt;br>Din l-applikazzjoni se tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d-il sekonda&lt;/b>&lt;/font>. Wara dan, stenna minuta jew tnejn u erġa' pprova."</Data></item>
+        <item quantity="many"><Data>"Ma jistax jaqbad mal-kamera.&lt;br>Din l-applikazzjoni se tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d sekonda&lt;/b>&lt;/font>. Wara dan, stenna minuta jew tnejn u erġa' pprova."</Data></item>
+        <item quantity="other"><Data>"Ma jistax jaqbad mal-kamera.&lt;br>Din l-applikazzjoni se tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d sekondi&lt;/b>&lt;/font>. Wara dan, stenna minuta jew tnejn u erġa' pprova."</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>"Dan it-tagħmir issa saħan iżżejjed.&lt;br>Din l-applikazzjoni se tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d sekonda&lt;/b>&lt;/font>. Il-progress li sar s'issa kien issejvjat awtomatikament."</Data></item>
+        <item quantity="few"><Data>"Dan it-tagħmir issa saħan iżżejjed.&lt;br>Din l-applikazzjoni se tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d-il sekonda&lt;/b>&lt;/font>. Il-progress li sar s'issa kien issejvjat awtomatikament."</Data></item>
+        <item quantity="many"><Data>"Dan it-tagħmir issa saħan iżżejjed.&lt;br>Din l-applikazzjoni se tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d sekonda&lt;/b>&lt;/font>. Il-progress li sar s'issa kien issejvjat awtomatikament."</Data></item>
+        <item quantity="other"><Data>"Dan it-tagħmir issa saħan iżżejjed.&lt;br>Din l-applikazzjoni se tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d sekondi&lt;/b>&lt;/font>. Il-progress li sar s'issa kien issejvjat awtomatikament."</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>"Il-verżjoni ta' Kamera li qed tuża mhix kompatibbli mal-mudell tat-tagħmir tiegħek.&lt;br>Dil-app se tingħalaq f'&lt;font color=#FFCE16>&lt;b>sekonda %1$d&lt;/b>&lt;/font>. Neħħi l-aġġornamenti ta' Kamera u erġa' pprova."</Data></item>
+        <item quantity="few"><Data>"Il-verżjoni ta' Kamera li qed tuża mhix kompatibbli mal-mudell tat-tagħmir tiegħek.&lt;br>Dil-app se tingħalaq f'&lt;font color=#FFCE16>&lt;b>%1$d sekondi&lt;/b>&lt;/font>. Neħħi l-aġġornamenti ta' Kamera u erġa' pprova."</Data></item>
+        <item quantity="many"><Data>"Il-verżjoni ta' Kamera li qed tuża mhix kompatibbli mal-mudell tat-tagħmir tiegħek.&lt;br>Dil-app se tingħalaq fi &lt;font color=#FFCE16>&lt;b>%1$d-il sekonda&lt;/b>&lt;/font>. Neħħi l-aġġornamenti ta' Kamera u erġa' pprova."</Data></item>
+        <item quantity="other"><Data>"Il-verżjoni ta' Kamera li qed tuża mhix kompatibbli mal-mudell tat-tagħmir tiegħek.&lt;br>Dil-app se tingħalaq f'&lt;font color=#FFCE16>&lt;b>%1$d sekonda&lt;/b>&lt;/font>. Neħħi l-aġġornamenti ta' Kamera u erġa' pprova."</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">minuta (%1$d)</item>
+        <item quantity="few">%1$d min</item>
+        <item quantity="many">%1$d-il min</item>
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">sekonda (%1$d)</item>
+        <item quantity="few">%1$d sek</item>
+        <item quantity="many">%1$d-il sek</item>
+        <item quantity="other">%1$d sek</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Xgħelt it-timer (sekonda %1$d). Ir-ritratti se jitmexxew għal dan it-tagħmir.</item>
+        <item quantity="few">Xgħelt it-timer (%1$d sekondi). Ir-ritratti se jitmexxew għal dan it-tagħmir.</item>
+        <item quantity="many">Xgħelt it-timer (%1$d-il sekonda). Ir-ritratti se jitmexxew għal dan it-tagħmir.</item>
+        <item quantity="other">Xgħelt it-timer (%1$d sekonda). Ir-ritratti se jitmexxew għal dan it-tagħmir.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Tixtieq tħassar abbozz wieħed (%1$d)?</item>
+        <item quantity="few">Tixtieq tħassar %1$d abbozzi?</item>
+        <item quantity="many">Tixtieq tħassar %1$d-il abbozz?</item>
+        <item quantity="other">Tixtieq tħassar %1$d abbozz?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Żid sa mudell wieħed (%d)</item>
+        <item quantity="few">Żid sa %d mudelli</item>
+        <item quantity="many">Żid sa %d-il mudell</item>
+        <item quantity="other">Żid sa %d mudell</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Tixtieq tħassar għażla minn qabel (%d) issa?</item>
+        <item quantity="few">Tixtieq tħassar %d għażliet minn qabel issa?</item>
+        <item quantity="many">Tixtieq tħassar %d-il għażla minn qabel issa?</item>
+        <item quantity="other">Tixtieq tħassar %d għażla minn qabel issa?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Ħassart għażla minn qabel (%d)</item>
+        <item quantity="few">Ħassart %d għażliet minn qabel</item>
+        <item quantity="many">Ħassart %d-il għażla minn qabel</item>
+        <item quantity="other">Ħassart %d għażla minn qabel</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Daħħalt għażla minn qabel (%d)</item>
+        <item quantity="few">Daħħalt %d għażliet minn qabel</item>
+        <item quantity="many">Daħħalt %d-il għażla min qabel</item>
+        <item quantity="other">Daħħalt %d għażla minn qabel</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">sek (%d)</item>
+        <item quantity="few">%d sek</item>
+        <item quantity="many">%d-il sek</item>
+        <item quantity="other">%d sek</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">minuta (%1$s)</item>
+        <item quantity="few">%1$s min</item>
+        <item quantity="many">%1$s-il min</item>
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Irreġistra sekonda (%d)</item>
+        <item quantity="few">Irreġistra %d sekondi</item>
+        <item quantity="many">Irreġistra %d-il sekonda</item>
+        <item quantity="other">Irreġistra %d sekonda</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">"Tista' tiġbed il-filmati bil-ħin iffriżat b'suġġett wieħed (%d) biss."</item>
+        <item quantity="few">"Tista' tiġbed il-vidjos bil-ħin iffriżat b'%d suġġetti biss."</item>
+        <item quantity="many">"Tista' tiġbed il-vidjos bil-ħin iffriżat bi %d-il suġġett biss."</item>
+        <item quantity="other">"Tista' tiġbed il-vidjos bil-ħin iffriżat b'%d suġġett biss."</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">Ritratt %1$s</item>
+        <item quantity="few">%1$s ritratti</item>
+        <item quantity="many">%1$s-il ritratt</item>
+        <item quantity="other">%1$s( ritratt</item>
+    </plurals>
+</resources>

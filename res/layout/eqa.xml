@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center|bottom" android:orientation="horizontal" android:background="@drawable/btn_bottom_capsule_tip_bg" android:paddingTop="@dimen/bg4" android:paddingBottom="@dimen/bg4" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/bg9" android:paddingEnd="@dimen/bga"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/d78" android:textColor="@color/white" android:id="@id/popup_tips_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ga1" />
+    <ImageView android:id="@id/popup_tips_enter_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_enter_popup_tip" android:contentDescription="@string/fm2" />
+</LinearLayout>

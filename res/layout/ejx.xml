@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/cow" android:textColor="@color/vv_dialog_message_color" android:id="@id/tv_friend_mode_wizard_scan_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fte" android:layout_marginStart="@dimen/by4" android:layout_marginEnd="@dimen/by4" android:fallbackLineSpacing="false" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/by7" android:layout_marginBottom="@dimen/by6" android:layout_below="@id/tv_friend_mode_wizard_scan_content" android:layout_marginStart="@dimen/by4">
+        <miuix.androidbasewidget.widget.ProgressBar android:layout_gravity="center_vertical" android:id="@id/pb_friend_wizard_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/by5" />
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/iv_friend_wizard_search" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/friend_mode_wizard_tips_no_result" android:layout_marginEnd="@dimen/by5" />
+        <TextView android:textSize="@dimen/cpc" android:textColor="@color/vv_dialog_message_color" android:layout_gravity="center_vertical" android:id="@id/tv_friend_wizard_search_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ftd" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Έγινε εστίαση. %d πρόσωπο εντοπίστηκε</item>
+        <item quantity="other">Έγινε εστίαση. %d πρόσωπα εντοπίστηκαν</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d φωτογραφία σε λήψη ριπής</item>
+        <item quantity="other">%d φωτογραφίες σε λήψη ριπής</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Χρονικό διάστημα: %d δευτερόλεπτο</item>
+        <item quantity="other">Χρονικό διάστημα: %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Διάρκεια: %d λεπτό</item>
+        <item quantity="other">Διάρκεια: %d λεπτά</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Ταχύτητα: %dX</item>
+        <item quantity="other">Ταχύτητα: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Διάρκεια: %d δευτερόλεπτο</item>
+        <item quantity="other">Διάρκεια: %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Εισαγάγατε %d χαρακτήρα.</item>
+        <item quantity="other">Εισαγάγατε %d χαρακτήρες.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Εισαγάγετε έως %d χαρακτήρα.</item>
+        <item quantity="other">Εισαγάγετε έως %d χαρακτήρες.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Μπορείτε να συνδέσετε έως και %d κάμερα στο ίδιο δίκτυο</item>
+        <item quantity="other">Μπορείτε να συνδέσετε έως και %d κάμερες στο ίδιο δίκτυο</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Μπορείτε να συνδέσετε έως και %d οθόνη στο ίδιο δίκτυο</item>
+        <item quantity="other">Μπορείτε να συνδέσετε έως και %d οθόνες στο ίδιο δίκτυο</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Μπορείτε να δημιουργήστε έως %d κλώνο τη φορά.</item>
+        <item quantity="other">Μπορείτε να δημιουργήστε έως %d κλώνους τη φορά.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Δεν είναι δυνατή η σύνδεση με την κάμερα.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευ&lt;/b>&lt;/font>. Μετά από αυτό, περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</Data></item>
+        <item quantity="other"><Data>Δεν είναι δυνατή η σύνδεση με την κάμερα.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευ&lt;/b>&lt;/font>. Μετά από αυτό, περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Αυτή η συσκευή είναι πολύ ζεστή τώρα.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευ&lt;/b>&lt;/font>. Η τρέχουσα πρόοδος αποθηκεύτηκε αυτόματα.</Data></item>
+        <item quantity="other"><Data>Αυτή η συσκευή είναι πολύ ζεστή τώρα.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευ&lt;/b>&lt;/font>. Η τρέχουσα πρόοδος αποθηκεύτηκε αυτόματα.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Η έκδοση της Κάμερας που χρησιμοποιείτε δεν είναι συμβατή με το μοντέλο της συσκευής σας.&lt;br>Η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευ&lt;/b>&lt;/font>. Απεγκαταστήστε τις ενημερώσεις της Κάμερας και δοκιμάστε ξανά.</Data></item>
+        <item quantity="other"><Data>Η έκδοση της Κάμερας που χρησιμοποιείτε δεν είναι συμβατή με το μοντέλο της συσκευής σας.&lt;br>Η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευ&lt;/b>&lt;/font>. Απεγκαταστήστε τις ενημερώσεις της Κάμερας και δοκιμάστε ξανά.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Γρήγορη προώθηση κατά %d δευτερόλεπτο</item>
+        <item quantity="other">Γρήγορη προώθηση κατά %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
+        <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d λεπ</item>
+        <item quantity="other">%1$d λεπ</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d δευ</item>
+        <item quantity="other">%1$d δευ</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Ενεργοποιημένος χρονοδιακόπτης (%1$d δευ). Οι φωτογραφίες θα μεταφερθούν σε αυτήν τη συσκευή.</item>
+        <item quantity="other">Ενεργοποιημένος χρονοδιακόπτης (%1$d δευ). Οι φωτογραφίες θα μεταφερθούν σε αυτήν τη συσκευή.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Διαγραφή %1$d προχείρου;</item>
+        <item quantity="other">Διαγραφή %1$d προχείρων;</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Προσθέστε έως και %d προεπιλογή</item>
+        <item quantity="other">Προσθέστε έως και %d προεπιλογές</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Διαγραφή %d προεπιλογής τώρα;</item>
+        <item quantity="other">Διαγραφή %d προεπιλογών τώρα;</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Διαγράφηκε %d προεπιλογή</item>
+        <item quantity="other">Διαγραφή %d προεπιλογών</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Εισήχθηκε %d προεπιλογή</item>
+        <item quantity="other">Εισήχθηκαν %d προεπιλογές</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d νέα ειδοποίηση</item>
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dδ</item>
+        <item quantity="other">%dδ</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s λεπτό</item>
+        <item quantity="other">%1$s λεπτά</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Εγγραφή %d δευτερολέπτου</item>
+        <item quantity="other">Εγγραφή %d δευτερολέπτων</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Μπορείτε να τραβήξετε βίντεο παγώματος χρόνου μόνο με %d θέμα.</item>
+        <item quantity="other">Μπορείτε να τραβήξετε βίντεο παγώματος χρόνου μέχρι και %d θέματα.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s φωτογραφία</item>
+        <item quantity="other">%1$s φωτογραφίες</item>
+    </plurals>
+</resources>

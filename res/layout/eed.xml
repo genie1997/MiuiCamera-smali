@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/makeup_image_parent" android:layout_width="@dimen/blv" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dhy" android:layout_marginBottom="@dimen/dhw"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:gravity="center" android:clipChildren="false" android:layout_width="@dimen/blv" android:layout_height="@dimen/dhv">
+        <com.android.camera.ui.NormalRoundView android:gravity="center" android:layout_gravity="center" android:id="@id/makeups_container_wrapper" android:focusable="false" android:clipChildren="false" android:layout_width="@dimen/blu" android:layout_height="@dimen/dhu" app:aol="@dimen/di2">
+            <ImageView android:id="@id/item_image_view" android:layout_width="@dimen/blu" android:layout_height="@dimen/dhu" android:scaleType="centerInside" android:contentDescription="@null" />
+        </com.android.camera.ui.NormalRoundView>
+        <ImageView android:id="@id/item_selected_indicator" android:visibility="gone" android:layout_width="@dimen/blv" android:layout_height="@dimen/dhv" android:src="@drawable/effect_filter_item_selector" android:contentDescription="@null" />
+    </FrameLayout>
+    <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/di4" android:textColor="#ffffff" android:ellipsize="end" android:gravity="center_horizontal" android:layout_gravity="center|bottom" android:id="@id/name_text_view" android:layout_width="@dimen/blu" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dig" android:maxLines="2" android:shadowColor="@color/alpha70_black" android:shadowRadius="@dimen/die" />
+</LinearLayout>

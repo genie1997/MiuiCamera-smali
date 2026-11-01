@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/authorize_parent_layout" android:background="@color/black" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/goto_authorize_layout" android:background="@color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ScrollView android:layout_gravity="right" android:layout_width="@dimen/be0" android:layout_height="@dimen/dim" android:layout_marginTop="@dimen/din" android:layout_marginRight="@dimen/djj">
+            <TextView android:textSize="@dimen/dip" android:textColor="#f3ffffff" android:gravity="center" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/dio" android:text="@string/fm3" />
+        </ScrollView>
+        <FrameLayout android:layout_gravity="right|bottom" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginRight="@dimen/djj">
+            <TextView android:textSize="@dimen/dil" android:textColor="#e6ffffff" android:gravity="center" android:layout_gravity="right|bottom" android:id="@id/authorize_exit" android:background="@drawable/bg_secondscreen_authorize_button_exit" android:layout_width="@dimen/be0" android:layout_height="@dimen/bdy" android:layout_marginBottom="@dimen/dik" android:text="@string/flj" />
+            <TextView android:textSize="@dimen/dij" android:textColor="#e6ffffff" android:gravity="center" android:layout_gravity="right|bottom" android:id="@id/authorize_agree" android:background="@drawable/bg_secondscreen_authorize_button_agree" android:layout_width="@dimen/be0" android:layout_height="@dimen/bdy" android:layout_marginBottom="@dimen/dii" android:text="@string/flq" />
+        </FrameLayout>
+    </FrameLayout>
+    <FrameLayout android:orientation="vertical" android:id="@id/waiting_authorize_layout" android:background="@color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingHorizontal="@dimen/djj">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/second_screen_flip_waiting_authorize" android:layout_width="@dimen/djl" android:layout_height="@dimen/djl" android:layout_marginTop="@dimen/dji" android:src="@drawable/icon_flip_waiting_authorize" android:scaleType="centerInside" android:contentDescription="@null" />
+        <ScrollView android:layout_gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="@dimen/diq" android:layout_marginTop="@dimen/dir" android:paddingHorizontal="@dimen/dis">
+            <TextView android:textSize="@dimen/dit" android:textColor="#e6ffffff" android:gravity="center_horizontal" android:id="@id/aza" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/gr4" />
+        </ScrollView>
+        <TextView android:textSize="@dimen/dko" android:textColor="#e6ffffff" android:gravity="center" android:layout_gravity="center|bottom" android:id="@id/waiting_authorize_exit_view" android:background="@drawable/bg_secondscreen_authorize_button_exit" android:layout_width="@dimen/be0" android:layout_height="@dimen/bdy" android:layout_marginBottom="@dimen/dkn" android:text="@string/fll" android:contentDescription="@string/fll" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/exit_main_screen_layout" android:background="@color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingHorizontal="@dimen/dj9">
+        <com.airbnb.lottie.LottieAnimationView android:id="@id/exit_main_screen_lottie_view" android:layout_width="@dimen/dj8" android:layout_height="@dimen/dj6" android:layout_marginTop="@dimen/dj7" android:scaleType="center" />
+        <TextView android:textSize="@dimen/dj_" android:textColor="@color/white_alpha_40" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gr3" android:textFontWeight="330" />
+    </LinearLayout>
+</FrameLayout>

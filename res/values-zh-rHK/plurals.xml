@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="other">對焦完成，檢測到%d張人臉</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="other">拍攝張數%d張</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="other">時間間隔%d秒</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="other">時長%d分鐘</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="other">速度%d倍</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="other">錄製時間%d秒</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="other">已輸入%d字符</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="other">最多可輸入%d字符</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="other">同一網絡下最多支援存取%d台攝錄機</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="other">同一網絡下最多支援存取%d台監視器</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="other">最多支援%d個分身</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="other"><Data>無法連線到相機，&lt;br>應用程式將在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>後退出，請稍候重試。</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="other"><Data>裝置溫度過高，&lt;br>應用程式將在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>後退出，拍攝進度已自動儲存。</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="other"><Data>當前相機版本和機型不匹配，&lt;br>應用程式將在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>後退出，請移除該版本後使用。</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">快轉 %d 秒</item>
+        <item quantity="other">快轉 %d 秒</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">倒帶 %d 秒</item>
+        <item quantity="other">倒帶 %d 秒</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="other">%1$d分</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="other">已預設開啟倒數計時%1$ds拍攝，並自動傳輸相片至本機</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="other">是否刪除%1$d項草稿？</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="other">最多支援新增%d個預設</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="other">是否删除%d個預設？</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="other">已删除%d個預設</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="other">已匯入%d個預設</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d 個新通知</item>
+        <item quantity="other">%d 個新通知</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="other">%dS</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="other">%1$s分鐘</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="other">%d秒錄製</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="other">僅支援 %d 個人像拍攝</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="other">%1$s張</item>
+    </plurals>
+</resources>

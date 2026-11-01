@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="@dimen/cku" android:paddingStart="@dimen/ckw" android:paddingEnd="@dimen/ckv">
+        <ImageButton android:layout_gravity="start|center" android:id="@id/button_close" android:background="@drawable/editor_cancel_action_button_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/fgf" />
+        <TextView android:textSize="@dimen/dfj" android:textStyle="bold" android:ellipsize="marquee" android:layout_gravity="center" android:id="@id/title_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/dfg" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:textAlignment="center" />
+        <ImageButton android:layout_gravity="end|center" android:id="@id/button_save" android:background="@drawable/editor_done_action_button_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/h15" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/dfh" android:paddingVertical="@dimen/dfi">
+        <EditText android:layout_gravity="center" android:id="@id/edit_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="text" android:imeOptions="actionDone" android:paddingEnd="@dimen/e2c" android:fallbackLineSpacing="false" style="@style/hsc" />
+        <TextView android:textSize="@dimen/e4_" android:textColor="@color/watermark_summer_text_color" android:gravity="center" android:layout_gravity="end|center" android:id="@id/count_tip" android:clickable="true" android:layout_width="@dimen/e2c" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/dff" android:textColor="@color/privacy_watermark_edit_history" android:id="@id/history_label" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/gll" android:paddingHorizontal="@dimen/dfh" android:paddingVertical="@dimen/dfi" />
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/history_list_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:overScrollMode="never" />
+            <TextView android:textSize="@dimen/dfe" android:textStyle="bold" android:textColor="@color/privacy_watermark_edit_clear_history" android:id="@id/button_clear_history" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/glk" android:paddingHorizontal="@dimen/dfh" android:paddingVertical="@dimen/dfi" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Ya ƙura ido. Ya gano fuska %d</item>
+        <item quantity="other">Ya ƙura ido. Ya gano fuskoki %d</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">Hoto %d a cikin batsewa</item>
+        <item quantity="other">Hotuna %d a cikin batsewa</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Tsakanin: sakan %d</item>
+        <item quantity="other">Tsakanin: sakan %d</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Tsawon lokaci: minti %d</item>
+        <item quantity="other">Tsawon lokaci: mintuna %d</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Sauri: %dX</item>
+        <item quantity="other">Sauri: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Tsawon lokacin: sakan %d</item>
+        <item quantity="other">Tsawon lokacin: sakan %d</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">An sa harafi %d.</item>
+        <item quantity="other">An sa haruffa %d.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Sa har zuwa harafi %d</item>
+        <item quantity="other">Sa har zuwa haruffa %d</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Kana iya hada kyamara har zuwa %d akan hanyar sadarwa dayan</item>
+        <item quantity="other">Kana iya hada kyamarori har zuwa %d akan hanyar sadarwa dayan</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Kana iya hada monita har zuwa %d akan hanyar sadarwa dayan</item>
+        <item quantity="other">Kana iya hada monita har zuwa %d akan hanyar sadarwa dayan</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Kana iya kirkirar yaduwa har zuwa %d a lokaci daya.</item>
+        <item quantity="other">Kana iya kirkirar yaduwa har zuwa %d a lokaci guda.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Bai iya hadawa da kyamara.&lt;br>wannan manhaja zai rufe cikin &lt;font color=#FFCE16>&lt;b> sakan %1$d&lt;/b>&lt;/font>. Bayan wanan, dakata minti daya ko biyu sai ka sake gwadawa.</Data></item>
+        <item quantity="other"><Data>Bai iya hadawa da kyamara.&lt;br>wannan manhaja zai rufe cikin &lt;font color=#FFCE16>&lt;b> sakan %1$d&lt;/b>&lt;/font>. Bayan wanan, dakata minti daya ko biyu sai ka sake gwadawa.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>"Na'urar ta yi zafi sosai a yanzu.&lt;br>Wannan manhaja zai kulle da kansa cikin &lt;font color=#FFCE16>&lt;b> sakan %1$d&lt;/b>&lt;/font>. Aikin zai adana da kansa."</Data></item>
+        <item quantity="other"><Data>"Na'urar ta yi zafi sosai a yanzu.&lt;br>Wannan manhaja zai kulle da kansa cikin &lt;font color=#FFCE16>&lt;b> sakan %1$d&lt;/b>&lt;/font>. Aikin zai adana da kansa."</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>"Sigar kyamarar da kuke amfani da ita ba ta dace da samfurin na'urar ku ba.&lt;br> Manhajar za ta rufe cikin sak &lt;font color=#FFCE16>&lt;b>%1$d &lt;/b>&lt;/font>. Cire sabuntawar kamara kuma a sake gwadawa."</Data></item>
+        <item quantity="other"><Data>"Sigar kyamarar da kuke amfani da ita ba ta dace da samfurin na'urar ku ba.&lt;br> Manhajar za ta rufe cikin sak &lt;font color=#FFCE16>&lt;b>%1$d &lt;/b>&lt;/font>. Cire sabuntawar kamara kuma a sake gwadawa."</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">mintuna %1$d</item>
+        <item quantity="other">mintuna %1$d</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">sak %1$d</item>
+        <item quantity="other">sak %1$d</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">"An kunna Ƙirga lokaci (%1$d sec). Za a aika hotuna zuwa wannan na'urar."</item>
+        <item quantity="other">"An kunna Ƙirga lokaci (%1$d sec). Za a aika hotuna zuwa wannan na'urar."</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">A share daftari %1$d?</item>
+        <item quantity="other">A share daftari %1$d?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Kara setin farko har zuwa %d</item>
+        <item quantity="other">Kara setin farko har zuwa %d</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">A share saitin farko %d a yanzu?</item>
+        <item quantity="other">A share saitin farko %d a yanzu?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">An share saitin farko %d</item>
+        <item quantity="other">An share saitin farko %d</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">An shigo da saitin farko %d</item>
+        <item quantity="other">An shigo da saitin farko %d</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">minti %1$s</item>
+        <item quantity="other">mintuna %1$s</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Yi rikodin sakan %d</item>
+        <item quantity="other">Yi rikodin sakan %d</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Kana iya daukar Bidiyon loacin daskarewa kadai da abu %d.</item>
+        <item quantity="other">Kana iya daukar Bidiyon loacin daskarewa kadai da abubuwa %d.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">Hoto %1$s</item>
+        <item quantity="other">Hotuna %1$s</item>
+    </plurals>
+</resources>

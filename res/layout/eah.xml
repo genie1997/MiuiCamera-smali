@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/e3d" android:paddingVertical="4.0dp">
+        <EditText android:layout_gravity="center" android:id="@id/edit_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="text" android:imeOptions="actionDone" android:paddingEnd="@dimen/e2c" android:fallbackLineSpacing="false" style="@style/hsc" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/dff" android:textColor="@color/privacy_watermark_edit_history" android:id="@id/history_label" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/gll" android:paddingHorizontal="@dimen/dfh" android:paddingVertical="@dimen/dfi" />
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/history_list_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:overScrollMode="never" />
+            <TextView android:textSize="@dimen/dfe" android:textStyle="bold" android:textColor="@color/privacy_watermark_edit_clear_history" android:id="@id/button_clear_history" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/glk" android:paddingHorizontal="@dimen/dfh" android:paddingVertical="@dimen/dfi" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

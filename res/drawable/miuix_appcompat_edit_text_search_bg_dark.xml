@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.smooth.SmoothContainerDrawable2 android:radius="@dimen/cq2"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <child>
+        <shape>
+            <size android:height="@dimen/cpz" />
+            <solid android:color="@color/miuix_appcompat_edit_text_search_bg_solid_dark" />
+        </shape>
+    </child>
+</miuix.smooth.SmoothContainerDrawable2>

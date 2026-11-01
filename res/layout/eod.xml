@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.flexible.view.HyperCellLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:background="?aok" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/cwq" app:az_="radioButtonPreference"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatRadioButton android:gravity="center_vertical" android:id="@android:id/checkbox" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="match_parent" android:button="?amc" app:ji="@id/area_head2" />
+    <ImageView android:gravity="center" android:layout_gravity="center" android:id="@android:id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:adjustViewBounds="true" android:minWidth="@dimen/de9" app:ji="@id/area_head" />
+    <androidx.appcompat.widget.AppCompatCheckedTextView android:textAppearance="@style/hde" android:ellipsize="end" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textAlignment="viewStart" app:ji="@id/area_title" />
+    <androidx.appcompat.widget.AppCompatCheckedTextView android:textAppearance="@style/hd7" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="10" android:textAlignment="viewStart" app:ji="@id/area_content" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@android:id/widget_frame" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/cxo" app:ji="@id/area_end" />
+</miuix.flexible.view.HyperCellLayout>

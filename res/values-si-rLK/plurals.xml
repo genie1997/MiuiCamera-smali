@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">නාභිගත වී ඇත. %d මුහුණක් අනාවරණය විය</item>
+        <item quantity="other">නාභිගත වී ත. %d මුහුණු අනාවරණය වී ඇත</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">පොකුරු ඡායාරූපවල %d ඡායාරූපයක්</item>
+        <item quantity="other">පොකුරු ඡායාරූපවල ඡායාරූප %dක්</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">විරාමය: තත්පර %d</item>
+        <item quantity="other">විරාමය: තත්පර %d</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">කාල සීමාව: විනාඩි %d</item>
+        <item quantity="other">කාල සීමාව: විනාඩි %d</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">වේගය: %dX</item>
+        <item quantity="other">වේගය: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">කාලය: තත්පර %d</item>
+        <item quantity="other">කාලය: තත්පර %d</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">අනුලකුණු %dක් ඇතුළත් කර ඇත.</item>
+        <item quantity="other">අනුලකුණු %dක් ඇතුළත් කර ඇත.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">අනුලකුණු %dක් දක්වා ඇතුළත් කරන්න.</item>
+        <item quantity="other">අනුලකුණු %dක් දක්වා ඇතුළත් කරන්න.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">ඔබට කැමරා %dක් එකම ජාලයට සම්බන්ධ කළ හැකියි</item>
+        <item quantity="other">ඔබට කැමරා %dක් එකම ජාලයට සම්බන්ධ කළ හැකියි</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">ඔබට එකම ජාලයට මොනිටර %dක් දක්වා සම්බන්ධ කළ හැකි ය</item>
+        <item quantity="other">ඔබට එකම ජාලයට මොනිටර් %dක් දක්වා සම්බන්ධ කළ හැකි ය</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">ඔබට එකවර ක්ලෝන %dක් දක්වා තැනිය හැකි ය.</item>
+        <item quantity="other">ඔබට එකවර ක්ලෝන %dක් දක්වා තැනිය හැකි ය.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>කැමරාවට සම්බන්ධ විය නොහැක.&lt;br>මෙම යෙදුම තත්පර &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>ක් තුළ වසා දමනු ඇත. මින් පසු, මොහොතක් රැඳී සිට නැවත උත්සාහ කරන්න.</Data></item>
+        <item quantity="other"><Data>කැමරාවට සම්බන්ධ විය නොහැක.&lt;br>මෙම යෙදුම තත්පර &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font> තුළ වසා දමනු ඇත. මින් පසු, මොහොතක් රැඳී සිට නැවත උත්සාහ කරන්න.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>මෙම උපාංගය දැන් අධික ලෙස රත් වී ඇත.&lt;br>යෙදුම තත්පර &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>ක් තුළ වසා දමනු ඇත. වත්මන් ප්‍රගතිය ස්වයංක්‍රීයව සුරකින ලදී.</Data></item>
+        <item quantity="other"><Data>මෙම උපාංගය දැන් අධික ලෙස රත් වී ඇත.&lt;br>යෙදුම තත්පර &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>ක් තුළ වසා දමනු ඇත. වත්මන් ප්‍රගතිය ස්වයංක්‍රීයව සුරකින ලදී.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>ඔබ භාවිතා කරන කැමරා අනුවාදය ඔබගේ උපාංග ආකෘතියට අනුකූල නොවේ.&lt;br>යෙදුම තත්පර &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>ක් තුළ වසා දමනු ලැබේ. කැමරා යාවත්කාලීන කිරීම් ඉවත් කර නැවත උත්සාහ කරන්න.</Data></item>
+        <item quantity="other"><Data>ඔබ භාවිත කරන කැමරා අනුවාදය ඔබගේ උපාංග ආකෘතියට අනුකූල නොවේ.&lt;br>යෙදුම තත්පර &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>ක් තුළ වසා දමනු ඇත. කැමරා යාවත්කාලීන කිරීම් ඉවත් කර නැවත උත්සාහ කරන්න.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">විනා %1$dක්</item>
+        <item quantity="other">විනා %1$dක්</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">තත්පර %1$dක්</item>
+        <item quantity="other">තත් %1$d</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">කාල මාපකය ක්‍රියාත්මක කර ඇත (තත්පර %1$d). ඡායාරූප මෙම උපාංගයට මාරු කරනු ලැබේ.</item>
+        <item quantity="other">කාල මාපකය ක්‍රියාත්මක කර ඇත (තත්පර %1$d). ඡායාරූප මෙම උපාංගයට මාරු කරනු ලැබේ.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">කෙටුම්පත් %1$dක් මකා දමන්න ද?</item>
+        <item quantity="other">කෙටුම්පත් %1$dක් මකා දමන්න ද?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">පෙර සැකසුම් %dක් දක්වා එකතු කරන්න</item>
+        <item quantity="other">පෙර සැකසුම් %dක් දක්වා එකතු කරන්න</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">දැන් පෙර සැකසුම් %dක් මකා දමන්න ද?</item>
+        <item quantity="other">දැන් පෙර සැකසුම් %dක් මකා දමන්න ද?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">පෙර සැකසුම් %dක් මකා දමන ලදී</item>
+        <item quantity="other">පෙර සැකසුම් %dක් මකා දමන ලදී</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">පෙර සැකසුම් %dක් ආයාත කරන ලදී</item>
+        <item quantity="other">පෙර සැකසුම් %dක් නිර්යාත කරන ලදී</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">ත %d</item>
+        <item quantity="other">ත %d</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">විනා %1$sක්</item>
+        <item quantity="other">විනා %1$sක්</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">තත්පර %dක් පටිගත කරන්න</item>
+        <item quantity="other">තත්පර %dක් පටිගත කරන්න</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">ඔබට කාල නැවතුම් වීඩියෝ රූගත කළ හැක්කේ වස්තු විෂයන් %dක් සමඟ පමණි.</item>
+        <item quantity="other">ඔබට වස්තු විෂයන් %dක් සමග දක්වා කාල නැවතුම් වීඩියෝ රූගත කළ හැකිය.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">ඡායාරූප %1$sක්</item>
+        <item quantity="other">ඡායාරූප %1$sක්</item>
+    </plurals>
+</resources>

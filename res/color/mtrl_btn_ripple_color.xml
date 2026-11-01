@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:color="?sp" android:alpha="@dimen/d4v" />
+    <item android:state_focused="true" android:color="?sp" android:alpha="@dimen/d4t" android:state_hovered="true" />
+    <item android:state_focused="true" android:color="?sp" android:alpha="@dimen/d4t" />
+    <item android:color="?sp" android:alpha="@dimen/d4u" android:state_hovered="true" />
+    <item android:color="?sp" android:alpha="@dimen/d4s" />
+</selector>

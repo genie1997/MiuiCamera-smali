@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent" android:paddingHorizontal="@dimen/bon"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <CheckBox android:id="@id/dialog_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" app:a_5="parent" app:a_k="0.0" app:a_u="parent" app:a_y="parent" />
+    <com.android.camera.ui.ScrollTextview android:textSize="@dimen/boo" android:textColor="@color/vv_dialog_message_color" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/dialog_checkbox_message" android:layout_width="0.0dp" android:layout_height="match_parent" android:singleLine="true" android:paddingStart="8.0dp" android:paddingEnd="0.0dp" app:a_5="parent" app:a_a="parent" app:a_t="@id/dialog_checkbox" app:a_y="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

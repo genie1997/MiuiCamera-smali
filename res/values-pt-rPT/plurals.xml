@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Focado. %d rosto detetado</item>
+        <item quantity="other">Focado. %d rostos detetados</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d foto em disparo sequencial</item>
+        <item quantity="other">%d fotos em disparo sequencial</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Intervalo: %d segundo</item>
+        <item quantity="other">Intervalo: %d segundos</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Duração: %d minuto</item>
+        <item quantity="other">Duração: %d minutos</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Velocidade: %dX</item>
+        <item quantity="other">Velocidade: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Duração: %d segundo</item>
+        <item quantity="other">Duração: %d segundos</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Introduziu %d caractere.</item>
+        <item quantity="other">Introduziu %d caracteres.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Introduza até %d caractere.</item>
+        <item quantity="other">Introduza até %d caracteres.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Pode ligar até %d câmara à mesma rede</item>
+        <item quantity="other">Pode ligar até %d câmaras à mesma rede</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Pode ligar até %d monitor à mesma rede</item>
+        <item quantity="other">Pode ligar até %d monitores à mesma rede</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Pode criar até %d clone por vez.</item>
+        <item quantity="other">Pode criar até %d clones por vez.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Não é possível ligar à câmara.&lt;br>Esta aplicação vai ser fechada em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Depois disso, espere um minuto ou dois e tente novamente.</Data></item>
+        <item quantity="other"><Data>Não é possível ligar à câmara.&lt;br>Esta aplicação vai ser fechada em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Depois disso, espere um minuto ou dois e tente novamente.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Este dispositivo está superaquecido.&lt;br>A aplicação vai ser fechada em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. O progresso atual foi guardado automaticamente.</Data></item>
+        <item quantity="other"><Data>Este dispositivo está superaquecido.&lt;br>A aplicação vai ser fechada em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. O progresso atual foi guardado automaticamente.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>A versão da Câmara que estás a utilizar não é compatível com o modelo do seu dispositivo.&lt;br>A aplicação fechará em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstale as atualizações da Câmara e tente novamente.</Data></item>
+        <item quantity="other"><Data>A versão da Câmara que estás a utilizar não é compatível com o modelo do seu dispositivo.&lt;br>A aplicação fechará em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstale as atualizações da Câmara e tente novamente.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Avançar %d segundo</item>
+        <item quantity="other">Avançar %d segundos</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Retroceder %d segundo</item>
+        <item quantity="other">Retroceder %d segundos</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d s</item>
+        <item quantity="other">%1$d s</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Temporizador ligado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
+        <item quantity="other">Temporizador ligado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Eliminar %1$d rascunho?</item>
+        <item quantity="other">Eliminar %1$d rascunhos?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Adicione até %d predefinição</item>
+        <item quantity="other">Adicione até %d predefinições</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Eliminar %d predefinição agora?</item>
+        <item quantity="other">Eliminar %d predefinições agora?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d predefinição eliminada</item>
+        <item quantity="other">%d predefinições eliminadas</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d predefinição importada</item>
+        <item quantity="other">%d predefinições importadas</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d nova notificação</item>
+        <item quantity="other">%d novas notificações</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min</item>
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Gravar %d segundo</item>
+        <item quantity="other">Gravar %d segundos</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Pode gravar vídeos com congelamento de tempo apenas com %d objeto.</item>
+        <item quantity="other">Pode gravar vídeos com congelamento de tempo apenas com %d objetos.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s fotos</item>
+    </plurals>
+</resources>

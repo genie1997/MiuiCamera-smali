@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="other">Đã lấy nét. Phát hiện %d khuôn mặt</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="other">%d ảnh trong một lần chụp liên tiếp</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="other">Khoảng thời gian: %d giây</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="other">Thời lượng: %d phút</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="other">Tốc độ: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="other">Thời lượng: %d giây</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="other">Đã nhập %d ký tự.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="other">Nhập tối đa %d ký tự.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="other">Bạn có thể kết nối tối đa %d camera với cùng một mạng</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="other">Bạn có thể kết nối tối đa %d màn hình với cùng một mạng</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="other">Bạn có thể tạo tối đa %d phân thân tại một thời điểm.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="other"><Data>Không thể kết nối camera.&lt;br>Ứng dụng này sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Sau đó, chờ một hoặc hai phút và thử lại.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="other"><Data>Thiết bị này hiện quá nóng.&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Tiến trình hiện tại đã được lưu tự động.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="other"><Data>Phiên bản Camera mà bạn đang sử dụng không tương thích với mẫu thiết bị của bạn&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Gỡ cài đặt cập nhật Camera và thử lại.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Tua nhanh %d giây</item>
+        <item quantity="other">Tua nhanh %d giây</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Tua lại %d giây</item>
+        <item quantity="other">Tua lại %d giây</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="other">Đã bật hẹn giờ (%1$d giây). Ảnh sẽ được chuyển đến thiết bị này.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="other">Xóa %1$d thư nháp?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="other">Thêm đến %d đặt trước</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="other">Xóa %d cài đặt sẵn ngay?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="other">Xóa %d cài đặt sẵn</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="other">Đã nhập %d cài đặt sẵn</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d thông báo mới</item>
+        <item quantity="other">%d thông báo mới</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="other">%1$s phút</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="other">Quay %d giây</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="other">Bạn có thể quay video đóng băng thời gian với tối đa %d đối tượng.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="other">%1$s ảnh</item>
+    </plurals>
+</resources>

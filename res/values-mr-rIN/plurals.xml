@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">फोकस केला. %d चेहरा ओळखला</item>
+        <item quantity="other">फोकस केला. %d चेहरे ओळखले</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">बर्स्ट शॉटमध्ये %d फोटो</item>
+        <item quantity="other">बर्स्ट शॉटमध्ये %d फोटोज</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">मध्यंतर: %d सेकंद</item>
+        <item quantity="other">मध्यंतर: %d सेकंद</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">कालावधी: %d मिनिट</item>
+        <item quantity="other">कालावधी: %d मिनिटे</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">वेग: %dX</item>
+        <item quantity="other">वेग: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">कालावधी: %d सेकंद</item>
+        <item quantity="other">कालावधी: %d सेकंद</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d अक्षर प्रविष्ट केले.</item>
+        <item quantity="other">%d अक्षरे प्रविष्ट केली.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">%d पर्यंत अक्षर प्रविष्ट करा</item>
+        <item quantity="other">%d पर्यंत अक्षरे प्रविष्ट करा.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">तुम्ही एकाच नेटवर्कशी %d कॅमेरा कनेक्ट करू शकता</item>
+        <item quantity="other">तुम्ही एकाच नेटवर्कशी %d कॅमेरे कनेक्ट करू शकता</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">तुम्ही एकाच नेटवर्कशी %d मॉनिटर कनेक्ट करू शकता</item>
+        <item quantity="other">तुम्ही एकाच नेटवर्कशी %d मॉनिटर्स कनेक्ट करू शकता</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">तुम्ही एकावेळी %d पर्यंत क्लोन तयार करु शकता.</item>
+        <item quantity="other">तुम्ही एकावेळी %d पर्यंत क्लोन्स तयार करु शकता.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data> कॅमेराशी कनेक्ट करु शकत नाही. &lt;br> हे एप &lt;font color=#FFCE16>&lt;b>%1$d सेकंदात बंद होईल.&lt;/b>&lt;/font>. यानंतर, एक किंवा दोन मिनिट थांबून पुन्हा प्रयत्न करा.</Data></item>
+        <item quantity="other"><Data> कॅमेराशी कनेक्ट करु शकत नाही. &lt;br> हे एप &lt;font color=#FFCE16>&lt;b>%1$d सेकंदात बंद होईल.&lt;/b>&lt;/font>. यानंतर, एक किंवा दोन मिनिट थांबून पुन्हा प्रयत्न करा.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data> हे डिव्हाइस आता खूप गरम आहे.&lt;br> एप &lt;font color=#FFCE16>&lt;b>%1$d सेकंदात बंद होईल&lt;/b>&lt;/font>. आताची प्रगती ऑटोमॅटिकली सेव्ह केली जाईल.</Data></item>
+        <item quantity="other"><Data> हे डिव्हाइस आता खूप गरम आहे.&lt;br> एप &lt;font color=#FFCE16>&lt;b>%1$d सेकंदांत बंद होईल&lt;/b>&lt;/font>. आताची प्रगती ऑटोमॅटिकली सेव्ह केली जाईल.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>तुम्ही वापरत असलेली कॅमेरा आवृत्ती तुमच्या डिव्हाइस मॉडेलशी सुसंगत नाही.&lt;br>एप &lt;font color=#FFCE16>&lt;b>%1$d सेकंदामध्ये बंद होईल&lt;/b>&lt;/font>. कॅमेरा अपडेट अनइनस्टॉल करा आणि पुन्हा प्रयत्न करा.</Data></item>
+        <item quantity="other"><Data>तुम्ही वापरत असलेली कॅमेरा आवृत्ती तुमच्या डिव्हाइस मॉडेलशी सुसंगत नाही.&lt;br>एप &lt;font color=#FFCE16>&lt;b>%1$d सेकंदांमध्ये बंद होईल&lt;/b>&lt;/font>. कॅमेरा अपडेट अनइनस्टॉल करा आणि पुन्हा प्रयत्न करा.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d मिनिट</item>
+        <item quantity="other">%1$d मिनिटे</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d से</item>
+        <item quantity="other">%1$d से</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">टायमर चालू केला (%1$d सेकंद). फोटो या डिव्हाइसवर हस्तांतरित केले जातील.</item>
+        <item quantity="other">टायमर चालू केला (%1$d सेकंद). फोटो या डिव्हाइसवर हस्तांतरित केले जातील.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d ड्राफ्ट डिलीट करायचा?</item>
+        <item quantity="other">%1$d ड्राफ्टस डिलीट करायचे?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">प्रिसेटमध्ये %d पर्यंत जोडा</item>
+        <item quantity="other">प्रिसेटमध्ये %d पर्यंत जोडा</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d प्रीसेट आता डिलीट करायचा?</item>
+        <item quantity="other">%d प्रीसेट आता डिलीट करायचे?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d प्रीसेट डिलीट केला</item>
+        <item quantity="other">%d प्रीसेट डिलीट केले</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d प्रीसेट इम्पोर्ट केला</item>
+        <item quantity="other">%d प्रीसेट इम्पोर्ट केले</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dसे</item>
+        <item quantity="other">%dसे</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s मिनिट</item>
+        <item quantity="other">%1$s मिनिटे</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">रेकॉर्ड करा %d सेकंद</item>
+        <item quantity="other">रेकॉर्ड करा %d सेकंद</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">आपण केवळ %d विषयांसह टाइम फ्रीझ व्हिडिओ शूट करू शकता.</item>
+        <item quantity="other">आपण केवळ %d विषयांसह टाइम फ्रीझ व्हिडिओ शूट करू शकता.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s फोटो</item>
+        <item quantity="other">%1$s फोटोज</item>
+    </plurals>
+</resources>

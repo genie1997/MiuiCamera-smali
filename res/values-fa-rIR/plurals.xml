@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">فوکوس شد. %d چهره شناسایی شد</item>
+        <item quantity="other">فوکوس شد. %d چهره شناسایی شد</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d عکس در یک عکس پشت‌ سر‌ هم</item>
+        <item quantity="other">%d عکس در یک عکس پشت‌ سر‌ هم</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">بازه: %d ثانیه</item>
+        <item quantity="other">بازه: %d ثانیه</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">مدت: %d دقیقه</item>
+        <item quantity="other">مدت: %d دقیقه</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">سرعت: %dX</item>
+        <item quantity="other">سرعت: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">مدت زمان: %d ثانیه</item>
+        <item quantity="other">مدت زمان: %d ثانیه</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d نویسه وارد شد.</item>
+        <item quantity="other">%d نویسه وارد شد.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">حداکثر %d نویسه وارد کنید.</item>
+        <item quantity="other">حداکثر %d نویسه وارد کنید.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">شما می‌توانید تا %d دوربین را به یک شبکه متصل کنید</item>
+        <item quantity="other">شما می‌توانید تا %d دوربین را به یک شبکه متصل کنید</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">شما می‌توانید تا %d نمایشگر را به یک شبکه متصل کنید</item>
+        <item quantity="other">شما می‌توانید تا %d نمایشگر را به یک شبکه متصل کنید</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
+        <item quantity="other">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>به دوربین متصل نمی‌شود.&lt;br>این برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. پس از آن، چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</Data></item>
+        <item quantity="other"><Data>به دوربین متصل نمی‌شود.&lt;br>این برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. پس از آن، چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>این دستگاه بسیار داغ شده است.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. فرایند کنونی به صورت خودکار ذخیره شده است.</Data></item>
+        <item quantity="other"><Data>این دستگاه بسیار داغ شده است.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. فرایند کنونی به صورت خودکار ذخیره شده است.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>نسخه دوربینی که در حال استفاده هستید با مدل دستگاه شما سازگار نیست.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. به‌روزرسانی‌های دوربین را حذف کرده و دوباره تلاش کنید.</Data></item>
+        <item quantity="other"><Data>نسخه دوربینی که در حال استفاده هستید با مدل دستگاه شما سازگار نیست.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. به‌روزرسانی‌های دوربین را حذف کرده و دوباره تلاش کنید.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d دقیقه</item>
+        <item quantity="other">%1$d دقیقه</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d ثانیه</item>
+        <item quantity="other">%1$d ثانیه</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">زمان‌سنج روشن شد (%1$d ثانیه). عکس‌ها به این دستگاه منتقل خواهند شد.</item>
+        <item quantity="other">زمان‌سنج روشن شد (%1$d ثانیه). عکس‌ها به این دستگاه منتقل خواهند شد.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d پیشنویس حذف شود؟</item>
+        <item quantity="other">%1$d پیشنویس حذف شوند؟</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">تا %d پیش‌تنظیم بیافزایید</item>
+        <item quantity="other">تا %d پیش‌تنظیم بیافزایید</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d پیش‌تنظیم حذف شود؟</item>
+        <item quantity="other">%d پیش‌تنظیم حذف شوند؟</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d پیش‌تنظیم حذف شد</item>
+        <item quantity="other">%d پیش‌تنظیم حذف شدند</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d پیش‌تنظیم وارد شد</item>
+        <item quantity="other">%d پیش‌تنظیم وارد شدند</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d ث</item>
+        <item quantity="other">%d ث</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s دقیقه</item>
+        <item quantity="other">%1$s دقیقه</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">ضبط %d ثانیه</item>
+        <item quantity="other">ضبط %d ثانیه</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">ویدئوهای بی‌حرکت کردن زمان را فقط می‌توانید برای %d سوژه به‌کار برید</item>
+        <item quantity="other">تا %d سوژه می‌توانید برای ضبط ویدئوهای بی‌حرکت کردن زمان استفاده کنید</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s عکس</item>
+        <item quantity="other">%1$s عکس</item>
+    </plurals>
+</resources>

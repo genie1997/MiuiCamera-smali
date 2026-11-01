@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">ಫೋಕಸ್‌ ಆಗಿದೆ. %d ಮುಖ ಗುರುತಿಸಲಾಗಿದೆ</item>
+        <item quantity="other">ಫೋಕಸ್‌ ಆಗಿದೆ. %d ಮುಖಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">ಬರ್ಸ್ಟ್‌ ಶಾಟ್‌ನಲ್ಲಿ %d ಫೋಟೋ</item>
+        <item quantity="other">ಬರ್ಸ್ಟ್‌ ಶಾಟ್‌ನಲ್ಲಿ %d ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">ಮಧ್ಯಂತರ: %d ಸೆಕೆಂಡ್‌</item>
+        <item quantity="other">ಮಧ್ಯಂತರ: %d ಸೆಕೆಂಡ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">ಅವಧಿ: %d ನಿಮಿಷ</item>
+        <item quantity="other">ಅವಧಿ: %d ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">ವೇಗ: %dX</item>
+        <item quantity="other">ವೇಗ: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">ಅವಧಿ: %d ಸೆಕೆಂಡ್‌</item>
+        <item quantity="other">ಅವಧಿ: %d ಸೆಕೆಂಡ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d ಅಕ್ಷರವನ್ನು ನಮೂದಿಸಲಾಗಿದೆ.</item>
+        <item quantity="other">%d ಅಕ್ಷರಗಳನ್ನು ನಮೂದಿಸಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">%d ತನಕ ಅಕ್ಷರವನ್ನು ನಮೂದಿಸಿ.</item>
+        <item quantity="other">%d ತನಕ ಅಕ್ಷರಗಳನ್ನು ನಮೂದಿಸಿ.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">ನೀವು ಒಂದೇ ನೆಟ್‌ವರ್ಕ್‌ಗೆ %d ಕ್ಯಾಮರಾವನ್ನು ಕನೆಕ್ಟ್‌ ಮಾಡಬಹುದು</item>
+        <item quantity="other">ನೀವು ಒಂದೇ ನೆಟ್‌ವರ್ಕ್‌ಗೆ %d ಕ್ಯಾಮರಾಗಳನ್ನು ಕನೆಕ್ಟ್‌ ಮಾಡಬಹುದು</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">ನೀವು ಒಂದೇ ನೆಟ್‌ವರ್ಕ್‌ಗೆ %d ಮಾನಿಟರ್‌ ಅನ್ನು ಕನೆಕ್ಟ್‌ ಮಾಡಬಹುದು</item>
+        <item quantity="other">ನೀವು ಒಂದೇ ನೆಟ್‌ವರ್ಕ್‌ಗೆ %d ಮಾನಿಟರ್‌ಗಳನ್ನು ಕನೆಕ್ಟ್‌ ಮಾಡಬಹುದು</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">ನೀವು ಏಕಕಾಲದಲ್ಲಿ %dರಷ್ಟು ಕ್ಲೋನ್‌ ರಚಿಸಬಹುದು</item>
+        <item quantity="other">ನೀವು ಏಕಕಾಲದಲ್ಲಿ %dರಷ್ಟು ಕ್ಲೋನ್‌ಗಳನ್ನು ರಚಿಸಬಹುದು</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>ಕ್ಯಾಮರಾಗೆ ಕನೆಕ್ಟ್‌ ಆಗುತ್ತಿಲ್ಲ.&lt;br>ಈ ಆ್ಯಪ್‌ &lt;font color=#FFCE16>&lt;b>%1$d ಸೆಕೆಂ&lt;/b>&lt;/font>ನಲ್ಲಿ ಮುಚ್ಚುತ್ತದೆ. ಬಳಿಕ, ಒಂದೆರಡು ನಿಮಿಷಗಳ ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</Data></item>
+        <item quantity="other"><Data>ಕ್ಯಾಮರಾಗೆ ಕನೆಕ್ಟ್‌ ಆಗುತ್ತಿಲ್ಲ.&lt;br>ಈ ಆ್ಯಪ್‌ &lt;font color=#FFCE16>&lt;b>%1$d ಸೆಕೆಂ&lt;/b>&lt;/font>ನಲ್ಲಿ ಮುಚ್ಚುತ್ತದೆ. ಬಳಿಕ, ಒಂದೆರಡು ನಿಮಿಷಗಳ ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>ಈ ಡಿವೈಸ್‌ ತುಂಬಾ ಬಿಸಿಯಾಗಿದೆ.&lt;br>ಈ ಆ್ಯಪ್‌ &lt;font color=#FFCE16>&lt;b>%1$d ಸೆಕೆಂ&lt;/b>&lt;/font>ನಲ್ಲಿ ಮುಚ್ಚುತ್ತದೆ. ಈತನಕ ಆಗಿರುವುದನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಉಳಿಸಲಾಗುತ್ತದೆ.</Data></item>
+        <item quantity="other"><Data>ಈ ಡಿವೈಸ್‌ ತುಂಬಾ ಬಿಸಿಯಾಗಿದೆ.&lt;br>ಈ ಆ್ಯಪ್‌ &lt;font color=#FFCE16>&lt;b>%1$d ಸೆಕೆಂ.ಗಳ&lt;/b>&lt;/font>ಲ್ಲಿ ಮುಚ್ಚುತ್ತದೆ. ಈತನಕ ಆಗಿರುವುದನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಉಳಿಸಲಾಗುತ್ತದೆ.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>ನೀವು ಬಳಸುತ್ತಿರುವ ಕ್ಯಾಮರಾ ಆವೃತ್ತಿಯು ನಿಮ್ಮ ಡಿವೈಸ್‌ ಮಾಡೆಲ್‌ಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.&lt;br>ಆ್ಯಪ್‌ &lt;font color=#FFCE16>&lt;b>%1$d ಸೆಕೆಂ&lt;/b>&lt;/font>ನಲ್ಲಿ ಮುಚ್ಚುತ್ತದೆ. ಕ್ಯಾಮರಾ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್‌ ಮಾಡಿ, ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</Data></item>
+        <item quantity="other"><Data>ನೀವು ಬಳಸುತ್ತಿರುವ ಕ್ಯಾಮರಾ ಆವೃತ್ತಿಯು ನಿಮ್ಮ ಡಿವೈಸ್‌ ಮಾಡೆಲ್‌ಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.&lt;br>ಆ್ಯಪ್‌ &lt;font color=#FFCE16>&lt;b>%1$d ಸೆಕೆಂ&lt;/b>&lt;/font>ನಲ್ಲಿ ಮುಚ್ಚುತ್ತದೆ. ಕ್ಯಾಮರಾ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್‌ ಮಾಡಿ, ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d ನಿಮಿ</item>
+        <item quantity="other">%1$d ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d ಸೆಕೆಂ</item>
+        <item quantity="other">%1$d ಸೆಕೆಂ.ಗಳು</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">ಟೈಮರ್‌ ಆನ್‌ ಮಾಡಿ (%1$d ಸೆಕೆಂ). ಫೋಟೋಗಳನ್ನು ಈ ಡಿವೈಸ್‌ಗೆ ವರ್ಗಾಯಿಸಲಾಗುತ್ತದೆ.</item>
+        <item quantity="other">ಟೈಮರ್‌ ಆನ್‌ ಮಾಡಿ (%1$d ಸೆಕೆಂ.ಗಳು). ಫೋಟೋಗಳನ್ನು ಈ ಡಿವೈಸ್‌ಗೆ ವರ್ಗಾಯಿಸಲಾಗುತ್ತದೆ.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d ಫೈಲ್‌ ಅಳಿಸಬೇಕೇ?</item>
+        <item quantity="other">%1$d ಡ್ರಾಫ್ಟ್‌ಗಳನ್ನು ಅಳಿಸಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">%d ಪ್ರಿಸೆಟ್‌ ತನಕ ಸೇರಿಸಬಹುದು</item>
+        <item quantity="other">%d ಪ್ರಿಸೆಟ್‌ಗಳ ತನಕ ಸೇರಿಸಬಹುದು</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d ಪ್ರಿಸೆಟ್‌‌ ಅಳಿಸಬೇಕೇ?</item>
+        <item quantity="other">%d ಪ್ರಿಸೆಟ್‌‌ಗಳನ್ನು ಅಳಿಸಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d ಪ್ರಿಸೆಟ್‌ ಅಳಿಸಲಾಗಿದೆ</item>
+        <item quantity="other">%d ಪ್ರಿಸೆಟ್‌ಗಳನ್ನು ಅಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d ಪ್ರಿಸೆಟ್‌ ಆಮದು ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="other">%d ಪ್ರಿಸೆಟ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dಸೆಕೆಂ</item>
+        <item quantity="other">%dಸೆಕೆಂ</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s ನಿಮಿ</item>
+        <item quantity="other">%1$s ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%d ಸೆಕೆಂಡ್‌ ರೆಕಾರ್ಡ್‌ ಮಾಡಿ</item>
+        <item quantity="other">%d ಸೆಕೆಂಡ್‌ಗಳ ಕಾಲ ರೆಕಾರ್ಡ್‌ ಮಾಡಿ</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">ನೀವು ಸಮಯ ಫ್ರೀಜ್‌ ವೀಡಿಯೊಗಳನ್ನು %d ವಸ್ತುವಿನ ಜೊತೆ ಮಾತ್ರ ಶೂಟ್‌ ಮಾಡಬಹುದು.</item>
+        <item quantity="other">ನೀವು ಸಮಯ ಫ್ರೀಜ್‌ ವೀಡಿಯೊಗಳನ್ನು %d ವಸ್ತುಗಳ ಜೊತೆ ಮಾತ್ರ ಶೂಟ್‌ ಮಾಡಬಹುದು.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s ಫೋಟೋ</item>
+        <item quantity="other">%1$s ಫೋಟೋಗಳು</item>
+    </plurals>
+</resources>

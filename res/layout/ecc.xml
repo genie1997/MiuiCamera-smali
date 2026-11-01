@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="end" android:id="@id/dual_video_bottom_parent" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="match_parent">
+        <ImageView android:id="@id/dual_video_cancel" android:background="@drawable/bg_thumbnail_background_half" android:layout_width="@dimen/bf_" android:layout_height="@dimen/bf_" android:layout_marginBottom="@dimen/bf9" android:src="@drawable/ic_vector_close" android:scaleType="centerInside" android:layout_above="@id/dual_video_confirm" android:layout_centerHorizontal="true" android:contentDescription="@string/exj" />
+        <ImageView android:id="@id/dual_video_confirm" android:focusable="false" android:clickable="true" android:layout_width="@dimen/bft" android:layout_height="@dimen/bft" android:src="@drawable/ic_dual_video_select_confirm" android:scaleType="centerInside" android:layout_centerInParent="true" android:contentDescription="@string/ezd" />
+    </RelativeLayout>
+</FrameLayout>

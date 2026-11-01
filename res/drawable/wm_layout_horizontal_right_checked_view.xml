@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="20.0dp" android:width="20.0dp" android:viewportWidth="20.0" android:viewportHeight="20.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/preference_watermark_edit_layout_type_checked_fillColor" android:pathData="M18,9l-0,2l-8,0l-0,-2z" />
+    <path android:fillColor="@color/preference_watermark_edit_layout_type_checked_fillColor" android:pathData="M2,2h16v2h-16z" />
+    <path android:fillColor="@color/preference_watermark_edit_layout_type_checked_fillColor" android:pathData="M2,16h16v2h-16z" />
+</vector>

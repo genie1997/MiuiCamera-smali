@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etz">
+        <item quantity="one">Spóla áfram um %d sekúndu</item>
+        <item quantity="other">Spóla áfram um %d sekúndur</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Spóla til baka um %d sekúndu</item>
+        <item quantity="other">Spóla til baka um %d sekúndur</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d ný tilkynning</item>
+        <item quantity="other">%d nýjar tilkynningar</item>
+    </plurals>
+</resources>

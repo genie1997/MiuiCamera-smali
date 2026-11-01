@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:focusable="false" android:layout_width="@dimen/e5g" android:layout_height="@dimen/dhr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.NormalRoundView android:gravity="center" android:layout_gravity="center" android:id="@id/makeups_container_wrapper" android:focusable="false" android:clipChildren="false" android:layout_width="@dimen/e5i" android:layout_height="@dimen/e5i" app:aol="@dimen/brt">
+        <ImageView android:id="@id/item_image_view" android:layout_width="@dimen/e5i" android:layout_height="@dimen/e5i" android:scaleType="centerInside" android:contentDescription="@null" />
+    </com.android.camera.ui.NormalRoundView>
+    <ImageView android:layout_gravity="center" android:id="@id/item_selected_indicator" android:visibility="gone" android:layout_width="@dimen/e5g" android:layout_height="@dimen/e5g" android:src="@drawable/effect_filter_item_selector" android:contentDescription="@null" app:aol="@dimen/brt" />
+</FrameLayout>

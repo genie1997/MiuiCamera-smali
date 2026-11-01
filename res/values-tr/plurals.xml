@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Odaklandı. %d yüz algılandı</item>
+        <item quantity="other">Odaklandı. %d yüz algılandı</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">Bir seri çekimde %d fotoğraf</item>
+        <item quantity="other">Bir seri çekimde %d fotoğraf</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Aralık: %d saniye</item>
+        <item quantity="other">Aralık: %d saniye</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Süre: %d dakika</item>
+        <item quantity="other">Süre: %d dakika</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Hız: %dX</item>
+        <item quantity="other">Hız: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Süre: %d saniye</item>
+        <item quantity="other">Süre: %d saniye</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">%d karakter girildi.</item>
+        <item quantity="other">%d karakter girildi.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">%d karaktere kadar girin.</item>
+        <item quantity="other">%d karaktere kadar girin.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Aynı ağa %d kadar kamera bağlayabilirsiniz</item>
+        <item quantity="other">Aynı ağa %d kadar kamera bağlayabilirsiniz</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Aynı ağa %d kadar monitör bağlayabilirsiniz</item>
+        <item quantity="other">Aynı ağa %d kadar monitör bağlayabilirsiniz</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Tek seferde %d klona kadar oluşturabilirsiniz.</item>
+        <item quantity="other">Tek seferde %d klona kadar oluşturabilirsiniz.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Kameraya bağlanılamıyor.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d sn.&lt;/b>&lt;/font> içinde kapatılacaktır. Bundan sonra, bir iki dakika bekleyin ve tekrar deneyin.</Data></item>
+        <item quantity="other"><Data>Kameraya bağlanılamıyor.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d sn.&lt;/b>&lt;/font> içinde kapatılacaktır. Bundan sonra, bir iki dakika bekleyin ve tekrar deneyin.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Bu cihaz şu an çok sıcak.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d sn.&lt;/b>&lt;/font> içinde kapatılacaktır. Mevcut ilerleme otomatik olarak kaydedildi.</Data></item>
+        <item quantity="other"><Data>Bu cihaz şu an çok sıcak.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d sn.&lt;/b>&lt;/font> içinde kapatılacaktır. Mevcut ilerleme otomatik olarak kaydedildi.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Kullandığınız kamera sürümü cihaz modelinizle uyumlu değil.&lt;br>Uygulama &lt;font color=#FFCE16>&lt;b>%1$d sn.&lt;/b>&lt;/font> içinde kapatılacak. Kamera güncellemelerini kaldırın ve tekrar deneyin.</Data></item>
+        <item quantity="other"><Data>Kullandığınız kamera sürümü cihaz modelinizle uyumlu değil.&lt;br>Uygulama &lt;font color=#FFCE16>&lt;b>%1$d sn.&lt;/b>&lt;/font> içinde kapatılacak. Kamera güncellemelerini kaldırın ve tekrar deneyin.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">%d saniye ileri sar</item>
+        <item quantity="other">%d saniye ileri sar</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">%d saniye geri sar</item>
+        <item quantity="other">%d saniye geri sar</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d dk.</item>
+        <item quantity="other">%1$d dk.</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d sn.</item>
+        <item quantity="other">%1$d sn.</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Zamanlayıcı (%1$d sn.) açıldı. Fotoğraflar bu cihaza aktarılacak.</item>
+        <item quantity="other">Zamanlayıcı (%1$d sn.) açıldı. Fotoğraflar bu cihaza aktarılacak.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d taslağı sil?</item>
+        <item quantity="other">%1$d taslağı sil?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">En fazla %d ön ayar ekleyin</item>
+        <item quantity="other">En fazla %d ön ayar ekleyin</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">%d ön ayar şimdi silinsin mi?</item>
+        <item quantity="other">%d ön ayar şimdi silinsin mi?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d ön ayar silindi</item>
+        <item quantity="other">%d ön ayar silindi</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d ön ayar içe aktarıldı</item>
+        <item quantity="other">%d ön ayar içe aktarıldı</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d yeni bildirim</item>
+        <item quantity="other">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dsn.</item>
+        <item quantity="other">%dsn.</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s dk</item>
+        <item quantity="other">%1$s dk</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">%d saniye kaydet</item>
+        <item quantity="other">%d saniye kaydet</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Zaman dondurma videolarını yalnızca %d nesne ile çekebilirsiniz.</item>
+        <item quantity="other">Zaman dondurma videolarını yalnızca %d nesneye kadar ile çekebilirsiniz.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s fotoğraf</item>
+        <item quantity="other">%1$s fotoğraf</item>
+    </plurals>
+</resources>

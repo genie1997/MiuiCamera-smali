@@ -1,0 +1,72 @@
+.class public interface abstract Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lorg/apache/xmlbeans/XmlObject;
+
+
+# annotations
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$Factory;,
+        Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$Space;
+    }
+.end annotation
+
+
+# static fields
+.field public static final type:Lorg/apache/xmlbeans/SchemaType;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 3
+
+    sget-object v0, Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$1;->class$org$apache$xmlbeans$impl$xb$xmlschema$SpaceAttribute:Ljava/lang/Class;
+
+    if-nez v0, :cond_0
+
+    const-string v0, "org.apache.xmlbeans.impl.xb.xmlschema.SpaceAttribute"
+
+    invoke-static {v0}, Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$1;->class$(Ljava/lang/String;)Ljava/lang/Class;
+
+    move-result-object v0
+
+    sput-object v0, Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$1;->class$org$apache$xmlbeans$impl$xb$xmlschema$SpaceAttribute:Ljava/lang/Class;
+
+    :cond_0
+    const-string v1, "schemaorg_apache_xmlbeans.system.sXMLLANG"
+
+    const-string/jumbo v2, "space9344attrtypetype"
+
+    invoke-static {v0, v1, v2}, LA/m2;->h(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/String;)Lorg/apache/xmlbeans/SchemaComponent;
+
+    move-result-object v0
+
+    check-cast v0, Lorg/apache/xmlbeans/SchemaType;
+
+    sput-object v0, Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute;->type:Lorg/apache/xmlbeans/SchemaType;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public abstract getSpace()Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$Space$Enum;
+.end method
+
+.method public abstract isSetSpace()Z
+.end method
+
+.method public abstract setSpace(Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$Space$Enum;)V
+.end method
+
+.method public abstract unsetSpace()V
+.end method
+
+.method public abstract xgetSpace()Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$Space;
+.end method
+
+.method public abstract xsetSpace(Lorg/apache/xmlbeans/impl/xb/xmlschema/SpaceAttribute$Space;)V
+.end method

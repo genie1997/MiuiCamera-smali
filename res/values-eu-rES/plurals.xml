@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Fokuratuta: Aurpegi %d detektatuta</item>
+        <item quantity="other">Fokuratuta: %d aurpegi detektatuta</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">Argazki %d argazki sorta batean</item>
+        <item quantity="other">%d argazki argazki sorta batean</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Tartea: %d segundo</item>
+        <item quantity="other">Tartea: %d segundo</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Iraupena: %d minutu</item>
+        <item quantity="other">Iraupena: %d minutu</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Abiadura: %dX</item>
+        <item quantity="other">Abiadura: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Iraupena: %d segundo</item>
+        <item quantity="other">Iraupena: %d segundo</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Karaktere %d idatzita.</item>
+        <item quantity="other">%d karaktere idatzita.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Idatzi %d karaktere arte.</item>
+        <item quantity="other">%d karaktere arte idatzi.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Kamera %d konekta dezakezu gehienez sare berdinera</item>
+        <item quantity="other">%d kamera konekta ditzakezu sare berdinera gehienez</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Monitore %d konekta dezakezu gehienez sare berdinera</item>
+        <item quantity="other">%d monitore konekta ditzakezu sare berdinera gehienez</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">%d klon arte sor dezakezu aldi bakoitzean.</item>
+        <item quantity="other">%d klon arte sor ditzakezu aldi bakoitzean.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Ezin da konektatu kamerara.&lt;br>Aplikazio hau &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font> barru itxiko da. Ondoren, itxaron minutu bat edo bi eta saiatu berriro.</Data></item>
+        <item quantity="other"><Data>Ezin da konektatu kamerara.&lt;br>Aplikazio hau &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font> barru itxiko da. Ondoren, itxaron minutu bat edo bi eta saiatu berriro.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Gailu hau beroegi dago.&lt;br>Aplikazioa &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font> barru itxiko da. Uneko aurrerapena automatikoki gordeko da.</Data></item>
+        <item quantity="other"><Data>Gailu hau beroegi dago.&lt;br>Aplikazioa &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font> barru itxiko da. Uneko aurrerapena automatikoki gordeko da.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Erabiltzen ari zaren Kamera aplikazioaren bertsioa ez da zure gailuaren modeloarekin bateragarria.&lt;br>Aplikazioa segundo &lt;font color=#FFCE16>&lt;b>%1$d barru itxiko da&lt;/b>&lt;/font>. Desinstalatu Kamera-ren eguneratzeak eta berriro saiatu.</Data></item>
+        <item quantity="other"><Data>Erabiltzen ari zaren Kamera aplikazioaren bertsioa ez da zure gailuaren modeloarekin bateragarria.&lt;br>Aplikazioa &lt;font color=#FFCE16>&lt;b>%1$d segundo barru itxiko da&lt;/b>&lt;/font>. Desinstalatu Kamera-ren eguneratzeak eta berriro saiatu.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d seg</item>
+        <item quantity="other">%1$d seg</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Tenporizadorea aktibatuta (segundo %1$d). Argazkiak gailu honetara transferituko dira.</item>
+        <item quantity="other">Tenporizadorea aktibatuta (%1$d segundo). Argazkiak gailu honetara transferituko dira.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">%1$d ziriborro ezabatu?</item>
+        <item quantity="other">%1$d ziriborro ezabatu?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Aurrehautaketa %d-era arte gehitu</item>
+        <item quantity="other">%d aurrehautaketara arte gehitu</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Aurretik ezarritako estilo %d ezabatu?</item>
+        <item quantity="other">Aurretik ezarritako %d estilo ezabatu?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Aurretik ezarritako estilo %d ezabatuta</item>
+        <item quantity="other">Aurretik ezarritako %d estilo ezabatuta</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Aurretik ezarritako estilo %d inportatuta</item>
+        <item quantity="other">Aurretik ezarritako %d estilo inportatuta</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">s%d</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min</item>
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Grabatu %d segundo</item>
+        <item quantity="other">Grabatu %d segundo</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Izoztutako denbora bideoak %d subjekturekin bakarrik grabatu ditzakezu.</item>
+        <item quantity="other">Izoztutako denbora bideoak %d subjekturekin bakarrik grabatu ditzakezu.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s argazki</item>
+        <item quantity="other">%1$s argazki</item>
+    </plurals>
+</resources>

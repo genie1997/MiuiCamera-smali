@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Fokuseret. %d ansigt detekteret</item>
+        <item quantity="other">Fokuseret. %d ansigter detekteret</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d foto er burst-foto</item>
+        <item quantity="other">%d fotos er burst-fotos</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Interval: %d sekund</item>
+        <item quantity="other">Interval: %d sekunder</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Varighed: %d min.</item>
+        <item quantity="other">Varighed: %d min.</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Hastighed: %dX</item>
+        <item quantity="other">Hastighed: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Varighed: %d sekund</item>
+        <item quantity="other">Varighed: %d sekunder</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Indtastede %d tegn.</item>
+        <item quantity="other">Indtastede %d tegn.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Indtast op til %d tegn.</item>
+        <item quantity="other">Indtast op til %d tegn.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Du kan tilslutte op til %d kamera til det samme netværk</item>
+        <item quantity="other">Du kan tilslutte op til %d kameraer til det samme netværk</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Du kan tilslutte op til %d skærm til det samme netværk</item>
+        <item quantity="other">Du kan tilslutte op til %d skærme til det samme netværk</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Du kan oprette op til %d klon ad gangen.</item>
+        <item quantity="other">Du kan oprette op til %d kloner ad gangen.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Kan ikke tilslutte til kameraet.&lt;br>Denne app lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Efter dette skal du vente et minut eller to og så prøve igen.</Data></item>
+        <item quantity="other"><Data>Kan ikke tilslutte til kameraet.&lt;br>Denne app lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Efter dette skal du vente et minut eller to og så prøve igen.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>Denne enhed er for varm nu.br>Denne app lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nuværende fremskridt blev automatisk gemt.</Data></item>
+        <item quantity="other"><Data>Denne enhed er for varm nu.br>Denne app lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nuværende fremskridt blev automatisk gemt.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>Den kameraversion, du bruger, er ikke kompatibel med din enhedsmodel.&lt;br>Appen lukker om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Afinstallér kameraopdateringer, og prøv igen.</Data></item>
+        <item quantity="other"><Data>Den kameraversion, du bruger, er ikke kompatibel med din enhedsmodel.&lt;br>Appen lukker om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Afinstallér kameraopdateringer, og prøv igen.</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Spol %d sekund frem</item>
+        <item quantity="other">Spol %d sekunder frem</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Spol %d sekund tilbage</item>
+        <item quantity="other">Spol %d sekunder tilbage</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="other">%1$d sek.</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Slået timer til (%1$d sek.). Billederne overføres til denne enhed.</item>
+        <item quantity="other">Slået timer til (%1$d sek.). Billederne overføres til denne enhed.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Slet %1$d kladde?</item>
+        <item quantity="other">Slet %1$d kladder?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Tilføj op til %d fast indstilling</item>
+        <item quantity="other">Tilføj op til %d faste indstillinger</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Slet %d forudindstilling nu?</item>
+        <item quantity="other">Slet %d forudindstillinger nu?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">Slettede %d forudindstilling</item>
+        <item quantity="other">Slettede %d forudindstillinger</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">Importerede %d forudindstilling</item>
+        <item quantity="other">Importerede %d forudindstillinger</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d ny notifikation</item>
+        <item quantity="other">%d nye notifikationer</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min.</item>
+        <item quantity="other">%1$s min.</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Optag %d sekund</item>
+        <item quantity="other">Optag %d sekunder</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Du kan optage time freeze-videoer med kun %d emne.</item>
+        <item quantity="other">Du kan optage time freeze-videoer med op til %d emner.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s billede</item>
+        <item quantity="other">%1$s billeder</item>
+    </plurals>
+</resources>

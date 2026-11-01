@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">ფოკუსირებულია. %d სახე გამოვლინდა</item>
+        <item quantity="other">ფოკუსირებულია. %d სახეები გამოვლინდა</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d ფოტო დუბლირებულიდან</item>
+        <item quantity="other">%d ფოტო დუბლირებულიდან</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">ინტერვალი: %d წამი</item>
+        <item quantity="other">ინტერვალი: %d წამი</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">ხანგრძლივობა: %d წუთი</item>
+        <item quantity="other">ხანგრძლივობა: %d წუთი</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">სიჩქარე: %dX</item>
+        <item quantity="other">სიჩქარე: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">ხანგრძლივობა: %d წამი</item>
+        <item quantity="other">ხანგრძლივობა: %d წამი</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">შეყვანილია %d სიმბოლო.</item>
+        <item quantity="other">შეყვანილია %d სიმბოლო.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">შეიყვანეთ %d-მდე სიმბოლო.</item>
+        <item quantity="other">შეიყვანეთ %d-მდე სიმბოლო.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">შეგიძლიათ დააკავშიროთ %d-მდე კამერა იმავე ქსელში</item>
+        <item quantity="other">შეგიძლიათ დააკავშიროთ %d-მდე კამერა იმავე ქსელში</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">შეგიძლიათ დააკავშიროთ %d-მდე მონიტორი იმავე ქსელში</item>
+        <item quantity="other">შეგიძლიათ დააკავშიროთ %d-მდე მონიტორი იმავე ქსელში</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">ამ მომენტში თქვენ შეგიძლიათ შექმნა %d-მდე კლონის.</item>
+        <item quantity="other">ამ მომენტში თქვენ შეგიძლიათ შექმნა %d-მდე კლონის.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>კამერასთან დაკავშირება ვერ ხერხდება.&lt;br>ეს აპლიკაცია დაიხურება&lt;font color=#FFCE16>&lt;b>%1$d წამში&lt;/b>&lt;/font>. ამის შემდეგ, დაელოდეთ რამდენიმე წუთი და კიდევ სცადეთ.</Data></item>
+        <item quantity="other"><Data>კამერასთან დაკავშირება ვერ ხერხდება.&lt;br>ეს აპლიკაცია დაიხურება&lt;font color=#FFCE16>&lt;b>%1$d წამში&lt;/b>&lt;/font>. ამის შემდეგ, დაელოდეთ რამდენიმე წუთი და კიდევ სცადეთ.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>ეს მოწყობილობა ძალიან გაცხელდა.&lt;br>ეს აპლიკაცია დაიხურება&lt;font color=#FFCE16>&lt;b>%1$d წამში&lt;/b>&lt;/font>. მიმდინარე პროგრესი შეინახება ავტომატურად.</Data></item>
+        <item quantity="other"><Data>ეს მოწყობილობა ძალიან გაცხელდა.&lt;br>ეს აპლიკაცია დაიხურება&lt;font color=#FFCE16>&lt;b>%1$d წამში&lt;/b>&lt;/font>. მიმდინარე პროგრესი შეინახება ავტომატურად.</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>კამერის ვერსია, რომელსაც იყენებთ, არ არის თავსებადი თქვენი მოწყობილობის მოდელთან.&lt;br>აპლიკაცია დაიხურება &lt;font color=#FFCE16>&lt;b>%1$dწმ-ში&lt;/b>&lt;/font>. წაშალეთ კამერის განახლებები და კიდევ სცადეთ.</Data></item>
+        <item quantity="other"><Data>კამერის ვერსია, რომელსაც იყენებთ, არ არის თავსებადი თქვენი მოწყობილობის მოდელთან.&lt;br>აპლიკაცია დაიხურება &lt;font color=#FFCE16>&lt;b>%1$dწმ-ში&lt;/b>&lt;/font>. წაშალეთ კამერის განახლებები და კიდევ სცადეთ.</Data></item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d წთ</item>
+        <item quantity="other">%1$d წთ</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d წმ</item>
+        <item quantity="other">%1$d წმ</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">ჩართულია ტაიმერი (%1$d წმ). ფოტოები გადაეცემა ამ მოწყობილობას.</item>
+        <item quantity="other">ჩართულია ტაიმერი (%1$d წმ). ფოტოები გადაეცემა ამ მოწყობილობას.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">წავშალო %1$d მონახაზი?</item>
+        <item quantity="other">წავშალო %1$d მონახაზი?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">დაამატეთ %d-მდე ფილტრი</item>
+        <item quantity="other">დაამატეთ %d-მდე ფილტრი</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">წავშალო %d წინასწარ დაყენებული პარამეტრი ახლავე?</item>
+        <item quantity="other">წავშალო %d წინასწარ დაყენებული პარამეტრი ახლავე?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">წაშლილია %d წინასწარ დაყენებული პარამეტრი</item>
+        <item quantity="other">წაშლილია %d წინასწარ დაყენებული პარამეტრი</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">გადატანილია %d წინასწარ დაყენებული პარამეტრი</item>
+        <item quantity="other">გადატანილია %d წინასწარ დაყენებული პარამეტრი</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%dწმ</item>
+        <item quantity="other">%dწმ</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s წთ</item>
+        <item quantity="other">%1$s წთ</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">ჩაწერეთ %d წამი</item>
+        <item quantity="other">ჩაწერეთ %d წამი</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">თქვენ შეგიძლიათ გადაიღოთ გაყინული ვიდოები მხოლოდ %d საგანი.</item>
+        <item quantity="other">თქვენ შეგიძლიათ გადაიღოთ გაყინული ვიდოები მხოლოდ %d საგანი.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s ფოტო</item>
+        <item quantity="other">%1$s ფოტო</item>
+    </plurals>
+</resources>

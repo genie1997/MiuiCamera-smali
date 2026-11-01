@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etz">
+        <item quantity="one">%d վայրկյան առաջ տալ</item>
+        <item quantity="other">%d վայրկյան առաջ տալ</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">%d վայրկյան հետ տալ</item>
+        <item quantity="other">%d վայրկյան հետ տալ</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d նոր ծանուցում</item>
+        <item quantity="other">%d նոր ծանուցում</item>
+    </plurals>
+</resources>

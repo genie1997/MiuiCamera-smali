@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b_d">40.0dp</dimen>
+    <dimen name="ben">228.5dp</dimen>
+    <dimen name="ch_">17.169983dp</dimen>
+    <dimen name="chb">17.169983dp</dimen>
+    <dimen name="cz5">102.0dp</dimen>
+    <dimen name="d7o">149.573dp</dimen>
+    <dimen name="d92">30.299988dp</dimen>
+    <dimen name="d9m">55.559998dp</dimen>
+    <dimen name="d_m">68.69dp</dimen>
+    <dimen name="d_n">98.98999dp</dimen>
+    <dimen name="dbq">23.919983dp</dimen>
+</resources>

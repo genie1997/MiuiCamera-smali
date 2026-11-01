@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.visual.check.VisualCheckBox android:gravity="center" android:id="@id/wm_background_item" android:focusable="true" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/e2t" android:layout_height="@dimen/e2t"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.visual.check.BorderLayout android:gravity="center" android:focusable="false" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/e2t" android:layout_height="@dimen/e2t" app:pl="@drawable/preference_wm_visual_check_border_oval">
+        <ImageView android:id="@id/wm_background_item_image" android:layout_width="@dimen/e3_" android:layout_height="@dimen/e3_" />
+    </miuix.visual.check.BorderLayout>
+</miuix.visual.check.VisualCheckBox>

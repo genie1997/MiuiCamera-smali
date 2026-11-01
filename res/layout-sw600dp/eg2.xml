@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.EdgeGradientView android:id="@id/vlog_spring_layout" android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="wrap_content" app:zg="top">
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/live_effect_list" android:focusable="false" android:layout_width="match_parent" android:layout_height="278.89844dp" />
+    </com.android.camera.ui.EdgeGradientView>
+    <FrameLayout android:layout_width="55.26999dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c3h" android:layout_marginBottom="@dimen/c3h">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/effect_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_effect_indicator" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/effect_close_item" android:focusable="false" android:layout_width="@dimen/dhv" android:layout_height="90.0dp">
+        <FrameLayout android:layout_gravity="center_vertical" android:layout_width="@dimen/dhv" android:layout_height="@dimen/dib">
+            <androidx.cardview.widget.CardView android:layout_gravity="center" android:id="@id/close_effect_item" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" app:nt="@color/fullscreen_background_cv" app:nw="3.0dp" app:nx="0.0dp">
+                <ImageView android:layout_gravity="center" android:id="@id/close_item_image" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="center" android:layout_centerInParent="true" android:contentDescription="@string/fx6" />
+            </androidx.cardview.widget.CardView>
+            <ImageView android:layout_gravity="center" android:id="@id/close_indicator" android:visibility="gone" android:layout_width="@dimen/dhv" android:layout_height="@dimen/dib" android:src="@drawable/effect_filter_item_selector" android:contentDescription="@null" app:aol="@dimen/di2" />
+        </FrameLayout>
+        <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/di4" android:textColor="#ffffff" android:ellipsize="end" android:gravity="center|bottom" android:layout_gravity="center|bottom" android:id="@id/name_text_view" android:layout_width="@dimen/dhu" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dig" android:maxLines="2" android:shadowColor="@color/alpha24_black" android:shadowRadius="@dimen/did" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/live_effect_updating" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ProgressBar android:id="@id/live_effect_updating_progress" android:layout_width="15.0dp" android:layout_height="15.0dp" android:layout_marginBottom="@dimen/e0k" android:indeterminateDrawable="@drawable/post_process_progress_vector" android:indeterminateDuration="@integer/e9q" style="?android:progressBarStyleLarge" />
+        <TextView android:textSize="@dimen/c4q" android:textColor="@android:color/white" android:id="@id/live_effect_updating_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/e0k" android:text="@string/fx4" android:layout_marginStart="11.0dp" />
+    </LinearLayout>
+</LinearLayout>

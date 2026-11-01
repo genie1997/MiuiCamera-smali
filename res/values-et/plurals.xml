@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etz">
+        <item quantity="one">Keri %d sekund edasi</item>
+        <item quantity="other">Keri %d sekundit edasi</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Keri %d sekund tagasi</item>
+        <item quantity="other">Keri %d sekundit tagasi</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d uus märguanne</item>
+        <item quantity="other">%d uut märguannet</item>
+    </plurals>
+</resources>

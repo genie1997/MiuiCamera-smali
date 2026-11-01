@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="etl">
+        <item quantity="one">Messo a fuoco. %d volto rilevato</item>
+        <item quantity="other">Messo a fuoco. %d volti rilevati</item>
+    </plurals>
+    <plurals name="etm">
+        <item quantity="one">%d foto in uno scatto a raffica</item>
+        <item quantity="other">%d foto in uno scatto a raffica</item>
+    </plurals>
+    <plurals name="etn">
+        <item quantity="one">Intervallo: %d secondo</item>
+        <item quantity="other">Intervallo: %d secondi</item>
+    </plurals>
+    <plurals name="eto">
+        <item quantity="one">Durata: %d minuto</item>
+        <item quantity="other">Durata: %d minuti</item>
+    </plurals>
+    <plurals name="etp">
+        <item quantity="one">Velocità: %dX</item>
+        <item quantity="other">Velocità: %dX</item>
+    </plurals>
+    <plurals name="etq">
+        <item quantity="one">Durata: %d secondo</item>
+        <item quantity="other">Durata: %d secondi</item>
+    </plurals>
+    <plurals name="etr">
+        <item quantity="one">Inserisci %d carattere.</item>
+        <item quantity="other">Inserisci %d caratteri.</item>
+    </plurals>
+    <plurals name="ets">
+        <item quantity="one">Inserisci fino a %d carattere.</item>
+        <item quantity="other">Inserisci fino a %d caratteri.</item>
+    </plurals>
+    <plurals name="ett">
+        <item quantity="one">Puoi connettere fino a %d fotocamera alla stessa rete</item>
+        <item quantity="other">Puoi connettere fino a %d fotocamere alla stessa rete</item>
+    </plurals>
+    <plurals name="etu">
+        <item quantity="one">Puoi connettere fino a %d monitor alla stessa rete</item>
+        <item quantity="other">Puoi connettere fino a %d monitor alla stessa rete</item>
+    </plurals>
+    <plurals name="etv">
+        <item quantity="one">Puoi creare fino a %d clone alla volta.</item>
+        <item quantity="other">Puoi creare fino a %d cloni alla volta.</item>
+    </plurals>
+    <plurals name="etw">
+        <item quantity="one"><Data>Impossibile connettersi alla fotocamera.&lt;br>Questa app verrà chiusa tra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dopodiché, aspetta un minuto o due e riprova.</Data></item>
+        <item quantity="other"><Data>Impossibile connettersi alla fotocamera.&lt;br>Questa app verrà chiusa tra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dopodiché, aspetta un minuto o due e riprova.</Data></item>
+    </plurals>
+    <plurals name="etx">
+        <item quantity="one"><Data>"Questo dispositivo è troppo caldo.&lt;br>L'app verrà chiusa tra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. I progressi sono stati salvati automaticamente."</Data></item>
+        <item quantity="other"><Data>"Questo dispositivo è troppo caldo.&lt;br>L'app verrà chiusa tra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. I progressi sono stati salvati automaticamente."</Data></item>
+    </plurals>
+    <plurals name="ety">
+        <item quantity="one"><Data>"La versione della Fotocamera che stai utilizzando non è compatibile con il modello del tuo dispositivo.&lt;br>L'app si chiuderà fra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Disinstalla gli aggiornamenti della Fotocamera e riprova."</Data></item>
+        <item quantity="other"><Data>"La versione della Fotocamera che stai utilizzando non è compatibile con il modello del tuo dispositivo.&lt;br>L'app si chiuderà fra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Disinstalla gli aggiornamenti della Fotocamera e riprova."</Data></item>
+    </plurals>
+    <plurals name="etz">
+        <item quantity="one">Avanti di %d secondo</item>
+        <item quantity="other">Avanti di %d secondi</item>
+    </plurals>
+    <plurals name="eu0">
+        <item quantity="one">Indietro di %d secondo</item>
+        <item quantity="other">Indietro di %d secondi</item>
+    </plurals>
+    <plurals name="eu1">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="eu2">
+        <item quantity="one">%1$d sec</item>
+        <item quantity="other">%1$d sec</item>
+    </plurals>
+    <plurals name="eu3">
+        <item quantity="one">Attivazione del timer (%1$d sec). Le foto saranno trasferite su questo dispositivo.</item>
+        <item quantity="other">Attivazione del timer (%1$d sec). Le foto saranno trasferite su questo dispositivo.</item>
+    </plurals>
+    <plurals name="eu4">
+        <item quantity="one">Eliminare %1$d bozza?</item>
+        <item quantity="other">Eliminare %1$d bozze?</item>
+    </plurals>
+    <plurals name="eu5">
+        <item quantity="one">Aggiungi fino a %d preimpostazione</item>
+        <item quantity="other">Aggiungi fino a %d preimpostazioni</item>
+    </plurals>
+    <plurals name="eu6">
+        <item quantity="one">Eliminare %d predefinito?</item>
+        <item quantity="other">Eliminare %d predefiniti?</item>
+    </plurals>
+    <plurals name="eu7">
+        <item quantity="one">%d predefinito eliminato</item>
+        <item quantity="other">%d predefiniti eliminati</item>
+    </plurals>
+    <plurals name="eu8">
+        <item quantity="one">%d predefinito importato</item>
+        <item quantity="other">%d predefiniti importati</item>
+    </plurals>
+    <plurals name="eu9">
+        <item quantity="one">%d nuova notifica</item>
+        <item quantity="other">%d nuove notifiche</item>
+    </plurals>
+    <plurals name="eu_">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="eua">
+        <item quantity="one">%1$s min</item>
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="eub">
+        <item quantity="one">Registra %d secondo</item>
+        <item quantity="other">Registra %d secondi</item>
+    </plurals>
+    <plurals name="euc">
+        <item quantity="one">Puoi riprendere video time freeze con solo %d soggetto.</item>
+        <item quantity="other">Puoi riprendere video time freeze con fino a%d soggetti.</item>
+    </plurals>
+    <plurals name="eud">
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s foto</item>
+    </plurals>
+</resources>

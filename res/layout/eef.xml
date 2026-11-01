@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="0.0dp" app:nt="@color/fullscreen_background" app:nw="@dimen/cny">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="@dimen/c1y" android:layout_height="wrap_content" android:contentDescription="@string/g8l">
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/dialog_ai_beauty_hint" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/f77" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:background="@color/newbie_cv_lens_bg" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="18.0sp" android:textColor="@color/newbie_cv_lens_title" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="@dimen/c1z" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c1w" android:text="@string/f77" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/newbie_cv_lens_context" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="@dimen/c1z" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c1x" android:layout_marginBottom="@dimen/c20" android:text="@string/f76" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <ImageButton android:id="@id/btn_cancel" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c1u" android:src="@drawable/ic_vector_dialog_cancel" android:contentDescription="@string/g8k" />
+</LinearLayout>

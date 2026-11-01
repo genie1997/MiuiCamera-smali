@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.flexible.view.HyperCellLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:background="?amn" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/cwq" app:az_="preference"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:gravity="center" android:layout_gravity="center" android:id="@android:id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:adjustViewBounds="true" android:minWidth="@dimen/de9" app:ji="@id/area_head" />
+    <TextView android:textAppearance="@style/hdd" android:ellipsize="end" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" app:ji="@id/area_title" />
+    <TextView android:textAppearance="@style/hd6" android:id="@android:id/summary" android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" app:ji="@id/area_content" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@android:id/widget_frame" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/cxo" app:ji="@id/area_end" />
+    <androidx.appcompat.widget.AppCompatImageView android:gravity="center" android:layout_gravity="end|center" android:id="@id/arrow_right" android:layout_width="wrap_content" android:layout_height="wrap_content" app:ji="@id/area_end2" app:auz="@drawable/miuix_appcompat_intent_arrow_right" />
+</miuix.flexible.view.HyperCellLayout>

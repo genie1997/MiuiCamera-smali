@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.NormalRoundView android:layout_gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginHorizontal="@dimen/cf4"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.BlurBackgroundView android:id="@id/manual_workspace_bg" android:layout_width="match_parent" android:layout_height="match_parent" app:aol="@dimen/cg2" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/detail_layout" android:background="@drawable/bg_manual_workspace_detail" android:layout_width="match_parent" android:layout_height="wrap_content" android:forceDarkAllowed="false">
+        <FrameLayout android:orientation="horizontal" android:id="@id/detail_title_layout" android:layout_width="@dimen/cfk" android:layout_height="@dimen/cfh" android:layout_marginTop="@dimen/cfj">
+            <com.android.camera.ui.ScrollTextview android:textSize="@dimen/cgd" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/dialog_input_area" android:layout_width="@dimen/cg3" android:layout_height="match_parent" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:textDirection="locale" />
+            <LinearLayout android:layout_gravity="end|center" android:orientation="horizontal" android:id="@id/operate_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:gravity="center" android:id="@id/style_item_menu_rename_layout" android:clickable="true" android:layout_width="@dimen/cg6" android:layout_height="@dimen/cg6" android:src="@drawable/workspace_style_rename" android:scaleType="centerInside" android:contentDescription="@string/h3n" />
+                <ImageView android:gravity="center" android:id="@id/style_item_menu_share_layout" android:clickable="true" android:layout_width="@dimen/cg6" android:layout_height="@dimen/cg6" android:src="@drawable/workspace_style_share" android:scaleType="centerInside" android:contentDescription="@string/gsi" android:layout_marginStart="@dimen/cfi" />
+                <ImageView android:gravity="center" android:id="@id/style_item_menu_delete_layout" android:clickable="true" android:layout_width="@dimen/cg6" android:layout_height="@dimen/cg6" android:src="@drawable/workspace_style_delete" android:scaleType="centerInside" android:contentDescription="@string/h3m" android:layout_marginStart="@dimen/cfi" />
+                <ImageView android:gravity="center" android:id="@id/style_item_menu_close_layout" android:clickable="true" android:layout_width="@dimen/cg6" android:layout_height="@dimen/cg6" android:src="@drawable/ic_style_close" android:scaleType="centerInside" android:contentDescription="@string/fgf" android:layout_marginStart="@dimen/cfi" />
+            </LinearLayout>
+        </FrameLayout>
+        <FrameLayout android:id="@id/detail_pro_layout" android:background="@drawable/manual_workspace_detail_pro_bg" android:layout_width="@dimen/cfw" android:layout_height="@dimen/cgs" android:layout_marginTop="@dimen/cgr">
+            <miuix.recyclerview.widget.RecyclerView android:layout_gravity="center_horizontal" android:id="@id/workspace_pro_parameters_layout" android:layout_width="@dimen/cg1" android:layout_height="match_parent" android:alpha="1.0" android:nestedScrollingEnabled="false" />
+        </FrameLayout>
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/workspace_others_parameters_layout" android:layout_width="@dimen/cfw" android:layout_height="@dimen/cfx" android:layout_marginTop="@dimen/cgr" android:layout_marginBottom="@dimen/cgq" android:alpha="0.7" android:nestedScrollingEnabled="false" />
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/workspace_pic_style_parameters_layout" android:visibility="gone" android:layout_width="@dimen/cfw" android:layout_height="@dimen/cg0" android:layout_marginBottom="@dimen/cfz" android:alpha="0.7" android:nestedScrollingEnabled="false" />
+    </LinearLayout>
+</com.android.camera.ui.NormalRoundView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b8i">440.0dp</dimen>
+    <dimen name="b8p">55.000008%</dimen>
+    <dimen name="b8q">79.99999%</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.fragment.videoprompter.VideoPrompterAdjustLayout android:layout_gravity="bottom" android:orientation="vertical" android:background="@color/alpha90_black" android:paddingBottom="@dimen/bpb" android:clickable="true" android:layout_width="match_parent" android:layout_height="@dimen/dvq"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/rotateLayout" android:layout_width="match_parent" android:layout_height="@dimen/dwt" android:layout_marginTop="@dimen/dwv">
+        <LinearLayout android:orientation="vertical" android:id="@id/adjust_text_size_container" android:layout_width="match_parent" android:layout_height="@dimen/dvw">
+            <TextView android:textSize="@dimen/dvx" android:textColor="@color/white" android:id="@id/adjust_text_size_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/h2i" android:paddingStart="@dimen/dwu" android:paddingEnd="@dimen/dwu" />
+            <com.android.camera.ui.seekbar.TimerBurstSeekBar android:id="@id/adjust_text_size_bar" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dvu" android:paddingStart="@dimen/dwu" android:paddingEnd="@dimen/dwu" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/adjust_text_speed_container" android:layout_width="match_parent" android:layout_height="@dimen/dw0" android:layout_marginTop="@dimen/dw1">
+            <TextView android:textSize="@dimen/dvx" android:textColor="@color/white" android:id="@id/adjust_text_speed_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/h2j" android:paddingStart="@dimen/dwu" android:paddingEnd="@dimen/dwu" />
+            <com.android.camera.ui.seekbar.TimerBurstSeekBar android:id="@id/adjust_text_speed_bar" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dvy" android:paddingStart="@dimen/dwu" android:paddingEnd="@dimen/dwu" />
+        </LinearLayout>
+    </LinearLayout>
+</com.android.camera.fragment.videoprompter.VideoPrompterAdjustLayout>

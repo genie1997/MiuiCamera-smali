@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/watermark_sample_background_image_f" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/bg_super_moon_effect" android:scaleType="fitCenter" />
+    <ImageView android:id="@id/watermark_sample_image_f" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" />
+    <ImageView android:layout_gravity="center|bottom" android:id="@id/watermark_sample_text_image_f" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" />
+    <ViewStub android:layout_gravity="center|bottom" android:id="@id/extend_time_1" android:layout="@layout/ere" android:inflatedId="@id/extend_time_watermark_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/buu" />
+    <ViewStub android:layout_gravity="center|bottom" android:id="@id/extend_time_2" android:layout="@layout/erf" android:inflatedId="@id/extend_time_watermark_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/buu" />
+    <ViewStub android:layout_gravity="center|bottom" android:id="@id/extend_time_3" android:layout="@layout/erg" android:inflatedId="@id/extend_time_watermark_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/buu" />
+</FrameLayout>
