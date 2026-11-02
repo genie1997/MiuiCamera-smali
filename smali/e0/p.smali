@@ -1145,6 +1145,10 @@
 
     invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
 
+    const/4 p0, 0x1
+
+    return p0
+
     :cond_2
     return v2
 .end method
