@@ -2096,3 +2096,27 @@
 
     return v0
 .end method
+
+.method public P3()Z
+    .locals 1
+
+    const/4 v0, 0x1
+
+    return v0
+.end method
+
+.method public Q3()Z
+    .locals 1
+
+    const/4 v0, 0x1
+
+    return v0
+.end method
+
+.method public v2()Z
+    .locals 1
+
+    const/4 v0, 0x1
+
+    return v0
+.end method
