@@ -163,7 +163,7 @@
                 <action android:name="com.android.camera.action.IDPHOTO"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter>
+            <intent-filter android:priority="1">
                 <action android:name="android.media.action.STILL_IMAGE_CAMERA_SECURE"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
