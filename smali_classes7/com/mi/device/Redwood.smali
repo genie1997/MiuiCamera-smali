@@ -2087,3 +2087,12 @@
 
     return p0
 .end method
+
+# widest normal photo size: front QCFA fits, 108 MP stays in Ultra HD
+.method public I1()I
+    .locals 1
+
+    const/16 v0, 0x1200
+
+    return v0
+.end method
