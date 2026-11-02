@@ -167,9 +167,7 @@
 
     iget-object v5, v5, LG7/b;->e:L릯릣릡맢릡릥맢릨릩릺릥릯릩맢릯릣릡릡릣릢맢릏릣릡릡릣릢;
 
-    invoke-virtual {v5}, L릯릣릡맢릡릥맢릨릩릺릥릯릩맢릯릣릡릡릣릢맢릏릣릡릡릣릢;->T1()Z
-
-    move-result v5
+    const/4 v5, 0x1
 
     const-wide/16 v6, 0x0
 
