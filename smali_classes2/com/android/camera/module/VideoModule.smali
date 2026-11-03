@@ -12584,6 +12584,30 @@
 
     .line 6
     :cond_0
+    iget v3, v0, LZ5/a;->a:I
+
+    invoke-static {}, LF3/f;->V()LF3/f;
+
+    move-result-object v4
+
+    invoke-virtual {v4, v3}, LF3/f;->d0(I)Z
+
+    move-result v3
+
+    if-eqz v3, :cond_redwood_rear
+
+    # redwood: front EIS stalls on touch focus, keep it off
+    iget-object p0, p0, Lcom/android/camera/module/VideoBase;->TAG:Ljava/lang/String;
+
+    const-string p1, "isEisOn: front camera, off"
+
+    new-array v0, v2, [Ljava/lang/Object;
+
+    invoke-static {p0, p1, v0}, Lcom/android/camera/log/Log;->d(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)V
+
+    return v2
+
+    :cond_redwood_rear
     iget-object v3, p0, Lcom/android/camera/module/VideoBase;->mUserRecordSetting:Lcom/android/camera/module/video/z;
 
     iget p0, p0, Lcom/android/camera/module/BaseModule;->mModuleIndex:I
