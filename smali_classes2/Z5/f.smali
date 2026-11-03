@@ -15849,11 +15849,29 @@
 
     :cond_2
     :goto_1
-    iget-object p0, p0, LZ5/e;->W4:Ljava/lang/Float;
+    iget-object v1, p0, LZ5/e;->W4:Ljava/lang/Float;
 
-    invoke-virtual {p0}, Ljava/lang/Float;->floatValue()F
+    invoke-virtual {v1}, Ljava/lang/Float;->floatValue()F
 
     move-result v0
+
+    const/4 v1, 0x0
+
+    cmpl-float v1, v0, v1
+
+    if-gtz v1, :cond_3
+
+    iget-object v1, p0, LZ5/e;->d:Landroid/hardware/camera2/CameraCharacteristics;
+
+    invoke-static {v1}, Lcom/mi/device/RedwoodFocal;->b(Landroid/hardware/camera2/CameraCharacteristics;)F
+
+    move-result v0
+
+    invoke-static {v0}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v1
+
+    iput-object v1, p0, LZ5/e;->W4:Ljava/lang/Float;
 
     :cond_3
     return v0

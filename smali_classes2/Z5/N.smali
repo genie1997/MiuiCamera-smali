@@ -316,23 +316,29 @@
 
     invoke-static {p0, v0, v1}, Ln6/J;->j(Landroid/hardware/camera2/CaptureResult;Ln6/I;I)Ljava/lang/Object;
 
-    move-result-object p0
+    move-result-object v0
 
-    check-cast p0, Ljava/lang/Float;
+    check-cast v0, Ljava/lang/Float;
 
-    if-nez p0, :cond_0
+    if-eqz v0, :cond_0
 
-    const/4 p0, 0x0
+    invoke-virtual {v0}, Ljava/lang/Float;->floatValue()F
 
-    goto :goto_0
+    move-result v0
+
+    const/4 v1, 0x0
+
+    cmpl-float v1, v0, v1
+
+    if-gtz v1, :cond_1
 
     :cond_0
-    invoke-virtual {p0}, Ljava/lang/Float;->floatValue()F
+    invoke-static {p0}, Lcom/mi/device/RedwoodFocal;->a(Landroid/hardware/camera2/CaptureResult;)F
 
-    move-result p0
+    move-result v0
 
-    :goto_0
-    return p0
+    :cond_1
+    return v0
 .end method
 
 .method public static d(Landroid/hardware/camera2/CaptureResult;)[I
