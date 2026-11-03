@@ -298,6 +298,16 @@
         .end annotation
     .end param
 
+    invoke-static {p2}, Lcom/mi/device/RedwoodOpen;->b(I)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_redwood
+
+    return-void
+
+    :cond_redwood
+
     invoke-virtual {p1}, Landroid/hardware/camera2/CameraDevice;->getId()Ljava/lang/String;
 
     move-result-object v0
@@ -414,6 +424,8 @@
         .annotation build Landroidx/annotation/NonNull;
         .end annotation
     .end param
+
+    invoke-static {}, Lcom/mi/device/RedwoodOpen;->c()V
 
     invoke-virtual {p1}, Landroid/hardware/camera2/CameraDevice;->getId()Ljava/lang/String;
 

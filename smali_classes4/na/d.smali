@@ -102,6 +102,8 @@
         }
     .end annotation
 
+    invoke-static {}, Lcom/mi/device/RedwoodOpen;->d()V
+
     invoke-static {}, Lna/d;->d()Lna/d;
 
     move-result-object v0

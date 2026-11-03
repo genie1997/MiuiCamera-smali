@@ -829,6 +829,19 @@
     return-object p0
 
     :goto_8
+    invoke-static {v0, p0}, Lcom/mi/device/RedwoodOpen;->a(Landroid/hardware/camera2/CameraAccessException;Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_d
+
+    invoke-static {}, Loa/b;->a()Loa/b;
+
+    move-result-object p0
+
+    return-object p0
+
+    :cond_d
     iget-object v1, p0, Loa/c;->a:Ljava/lang/String;
 
     new-instance v3, Ljava/lang/StringBuilder;
