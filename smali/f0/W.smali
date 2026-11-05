@@ -83,7 +83,7 @@
     goto :goto_0
 
     :cond_2
-    const/16 p0, 0xc
+    const/16 p0, 0x7
 
     invoke-static {p0}, Lf0/W;->k(I)Ljava/util/ArrayList;
 
@@ -93,7 +93,7 @@
 
     :cond_3
     :goto_0
-    const/16 p0, 0x9
+    const/16 p0, 0x7
 
     invoke-static {p0}, Lf0/W;->k(I)Ljava/util/ArrayList;
 
@@ -547,8 +547,6 @@
     move-result-object p2
 
     check-cast p2, Ljava/util/List;
-
-    if-nez p2, :cond_2
 
     invoke-virtual {p0, p1}, Lf0/W;->isSupportMode(I)Z
 
